@@ -3,6 +3,7 @@
 # dependencies
 /node_modules
 /.pnp
+/_bak
 .pnp.js
 
 # testing

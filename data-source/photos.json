@@ -1,0 +1,4300 @@
+[
+  {
+    "photoID": "aus703_choral_group",
+    "locationFK": 112,
+    "title": "Choral Group",
+    "keywords": "cathedral, gothic, skyline, historic, singing, music",
+    "description": "A choral group of young adults sings in Saint Stephan's (Stephansdom), a 13th century Gothic cathedral in the heart of old Vienna.",
+    "date": "7/29/2001",
+    "type": "people,religion"
+  },
+  {
+    "photoID": "aus703_hofburg",
+    "locationFK": 112,
+    "title": "Hofburg",
+    "keywords": "palace, statue",
+    "description": "The Hofburg Imperial Palace, facing the Kaiserappartements and statues.",
+    "date": "7/29/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "aus703_rathaus",
+    "locationFK": 112,
+    "title": "Rathaus",
+    "keywords": "city hall, neo gothic, building, historic, government",
+    "description": "The neo-Gothic city hall building in Vienna speaks of the riches of the old Habsburg dynasty.",
+    "date": "7/29/2001",
+    "type": "architecture,religion"
+  },
+  {
+    "photoID": "aus703_schloss_schonbrunn",
+    "locationFK": 112,
+    "title": "Schloss Schonbrunn",
+    "keywords": "palace, arch, yellow",
+    "description": "Arches of the Schloss Schönbrunn, a 1,440-room palace on the outskirts of Vienna with a richly appointed interior and magnificent gardens. The palace hosted Mozart's first royal concert when the composer was only six years old.",
+    "date": "7/29/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "aus703_st_stephans",
+    "locationFK": 112,
+    "title": "Saint Stephan's Cathedral",
+    "keywords": "cathedral, gothic, skyline, historic",
+    "description": "A view from the north tower of Saint Stephan's (Stephansdom), a 13th century Gothic cathedral in the heart of old Vienna.",
+    "date": "7/29/2001",
+    "type": "architecture,religion"
+  },
+  {
+    "photoID": "bel714_bruges_buildings",
+    "locationFK": 118,
+    "title": "Bruges Buildings",
+    "keywords": "historic, building",
+    "description": "Shop facades along Bruges' Markt square.",
+    "date": "8/19/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "bel714_bruges_canal",
+    "locationFK": 118,
+    "title": "Bruges Canal",
+    "keywords": "historic, water",
+    "description": "A canal in old Bruges snakes between historic medieval buildings.",
+    "date": "8/19/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "bel714_bruges_cobblestone",
+    "locationFK": 118,
+    "title": "Bruges Cobblestone",
+    "keywords": "historic",
+    "description": "Worn paving stones cover the street in the old center of Bruges.",
+    "date": "8/19/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "bel714_bruges_ironworks",
+    "locationFK": 118,
+    "title": "Bruges Ironworks",
+    "keywords": "historic",
+    "description": "Attractive ironwork protected the old treasury in Bruges' Belfort belfry. Visitors can climb the belfr'Ys 366 stairs for an 83 high meter view of the town..",
+    "date": "8/19/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "bel714_bruges_skyline",
+    "locationFK": 118,
+    "title": "Bruges Skyline",
+    "keywords": "skyline, historic",
+    "description": "An overhead view of Bruges' 13th century medieval center.",
+    "date": "8/19/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "bri708_bobby_and_big_ben",
+    "locationFK": 133,
+    "title": "Bobby and Big Ben",
+    "keywords": "clock tower, police, neo Gothic, building",
+    "description": "A bobby guards London's Big Ben and Houses of Parliament.",
+    "date": "9/5/2001",
+    "type": "people"
+  },
+  {
+    "photoID": "bri708_chihuly_glass",
+    "locationFK": 133,
+    "title": "Chihuly Glass",
+    "keywords": "glass, color, red, abstract",
+    "description": "Dale Chihul'Ys glassblowing amazes crowds at London's Victoria and Albert Museum in the first showing of his work in the U.K.",
+    "date": "9/2/2001",
+    "type": "miscellaneous"
+  },
+  {
+    "photoID": "bri708_st_pauls_cathedral",
+    "locationFK": 133,
+    "title": "St. Paul's Cathedral",
+    "keywords": "church, cathedral, lawn, sky, dome, historical",
+    "description": "The flowers bloom in front of London's Saint Paul's Cathedral, completed in 1710.",
+    "date": "9/3/2001",
+    "type": "architecture,religion"
+  },
+  {
+    "photoID": "bri708_tower_bridge_1",
+    "locationFK": 133,
+    "title": "Tower Bridge 1",
+    "keywords": "tower, historical, bridge, building, water, sky",
+    "description": "An unusually beautiful blue sky over London's Tower Bridge (built 1894).",
+    "date": "9/3/2001",
+    "type": "architecture",
+    "highlight": "true"
+  },
+  {
+    "photoID": "bri708_tower_bridge_2",
+    "locationFK": 133,
+    "title": "Tower Bridge 2",
+    "keywords": "tower, historical, bridge, building, water, sky",
+    "description": "An unusually beautiful blue sky over London's Tower Bridge (built 1894).",
+    "date": "9/3/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "bul602_bulgarian_street",
+    "locationFK": 96,
+    "title": "Bulgarian Streetcar",
+    "keywords": "streetcar, street",
+    "description": "A streetcar rumbles past a worn building in Bulgaria's capital of Sophia.",
+    "date": "7/2/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "bul602_rila_monastery_crosses",
+    "locationFK": 99,
+    "title": "Rila Monastery Crosses",
+    "keywords": "monastery, Sofia, domes, church, crosses",
+    "description": "The Rila Monastery sits in a cool wooded valley only a few hours south of Bulgaria's capital Sofia. Its construction spanned the first half of the 19th century, but the monaster'Ys history goes all the way back to its foundation in 927 AD. Pictured here are the domes of the church, built between 1834 and 1837.",
+    "date": "7/1/2001",
+    "type": "architecture,religion"
+  },
+  {
+    "photoID": "bul602_rila_monastery_domes",
+    "locationFK": 99,
+    "title": "Domes of the Rila Monastery",
+    "keywords": "monastery, Sofia, domes, mountains, church",
+    "description": "The Rila Monastery sits in a cool wooded valley only a few hours south of Bulgaria's capital Sofia. Its construction spanned the first half of the 19th century, but the monaster'Ys history goes all the way back to its foundation in 927 AD. Pictured here are the domes of the church, built between 1834 and 1837.",
+    "date": "7/1/2001",
+    "type": "architecture,religion"
+  },
+  {
+    "photoID": "bul602_rila_monastery_priest",
+    "locationFK": 99,
+    "title": "Priest of the Rila Monastery",
+    "keywords": "monastery, Sofia, priest, church, pillar, courtyard",
+    "description": "A priest walks with three men while gazing toward the courtyard of the Rila Monastery. The Rila Monastery sits in a cool wooded valley only a few hours south of Bulgaria's capital Sofia. Its construction spanned the first half of the 19th century, but the monaster'Ys history goes all the way back to its foundation in 927 AD.",
+    "date": "7/1/2001",
+    "type": "architecture,people,religion"
+  },
+  {
+    "photoID": "bul602_street_kid",
+    "locationFK": 96,
+    "title": "Accordion Player",
+    "keywords": "street, kid, child, dog, accordion, busker, performer",
+    "description": "A Rom (gypsy) child plays the accordion with his pet dog for change on the streets of Sophia.",
+    "date": "7/2/2001",
+    "type": "people"
+  },
+  {
+    "photoID": "cam301_angkor_wat",
+    "locationFK": 67,
+    "title": "Angkor Wat",
+    "keywords": "Hindu, temple",
+    "description": "Angkor Wat, the most majestic of the many temples in the ancient city of Angkor, Cambodia. This temple was built by the rulers of the Khmer people over eight centuries ago as a dedication to the Hindu god Vishnu.",
+    "date": "2/20/2001",
+    "type": "architecture,religion"
+  },
+  {
+    "photoID": "cam301_angkor_wat_hallway",
+    "locationFK": 67,
+    "title": "Angkor Wat Hallway",
+    "keywords": "Hindu, temple",
+    "description": "An outside corridor at Angkor Wat, the most majestic of the many temples in the ancient city of Angkor, Cambodia. This temple was built by the rulers of the Khmer people over eight centuries ago as a dedication to the Hindu god Vishnu.",
+    "date": "2/20/2001",
+    "type": "architecture,religion"
+  },
+  {
+    "photoID": "cam301_angkor_wat_statue",
+    "locationFK": 67,
+    "title": "Angkor Wat Statue",
+    "keywords": "Hindu, temple",
+    "description": "Beautiful carving of two dancing women on the temple walls of Angkor Wat, the most majestic of the many temples in the ancient city of Angkor, Cambodia. This temple was built by the rulers of the Khmer people over eight centuries ago as a dedication to the Hindu god Vishnu.",
+    "date": "2/20/2001",
+    "type": "architecture,religion"
+  },
+  {
+    "photoID": "cr102_old_tico_farmer",
+    "locationFK": 8,
+    "title": "Costa Rican Farmer",
+    "keywords": "farmer",
+    "description": "Don Pedro, an 87-year-old farmer in the rainforest near Fortuna, Costa Rica.",
+    "date": "6/26/2000",
+    "type": "people",
+    "story": 14
+  },
+  {
+    "photoID": "cr103_san_jose",
+    "locationFK": 6,
+    "title": "San Jose",
+    "keywords": "building, city",
+    "description": "The colorful streets of San Jose, Costa Rica.",
+    "date": "6/25/2000",
+    "type": "architecture",
+    "story": 11
+  },
+  {
+    "photoID": "cr105_butterflies",
+    "locationFK": 9,
+    "title": "Butterflies",
+    "keywords": "butterflies",
+    "description": "Butterflies in El Jardín de las Mariposas (The Butterfly Museum).",
+    "date": "6/28/2000",
+    "type": "nature"
+  },
+  {
+    "photoID": "cro601_split_above",
+    "locationFK": 106,
+    "title": "Split Harbor",
+    "keywords": "port, harbor, mountains, sea, historic, town, Adriatic, Dalmatia",
+    "description": "A view of Split's harbor from above.",
+    "date": "7/13/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "cro601_split_arches",
+    "locationFK": 106,
+    "title": "Arches of Split",
+    "keywords": "Romanesque arches, historic, town, Dalmatia, old town",
+    "description": "The Romanesque arches of a historic building in Split, the largest town on Croatia's Dalmatian coast.",
+    "date": "7/13/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "cro601_split_clock_tower",
+    "locationFK": 106,
+    "title": "Split Clock Tower",
+    "keywords": "Clock tower, historic, town, Dalmatia, old town",
+    "description": "A clock tower in Split, the largest town on Croatia's Dalmatian coast.",
+    "date": "7/13/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "cro601_xerophytic_tree",
+    "locationFK": 106,
+    "title": "Croatian Tree",
+    "keywords": "Tree, cactus, Dalmatia, spike, xerophytic",
+    "description": "An unusual looking tree that thrives in the dry climate of Croatia's Dalmatian coast.",
+    "date": "7/13/2001",
+    "type": "nature"
+  },
+  {
+    "photoID": "cro603_bled_castle",
+    "locationFK": 134,
+    "title": "Bled Castle",
+    "keywords": "historic, castle, stone, sky, building",
+    "description": "The historic Bled Castle in Slovenia's Julian Alps held royalty for over 800 years. It overlooks the beautiful Lake Bled from a steep 100-meter high cliff.",
+    "date": "7/21/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "cro603_bled_island",
+    "locationFK": 134,
+    "title": "Bled Island",
+    "keywords": "sky, mountains, island, lake, church",
+    "description": "Here on Bled Island in the middle of Bled Lake, newlywed husbands carry their brides up the stairs of the church to ring its bell for good luck",
+    "date": "7/21/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "cro603_croatian_windsurfers",
+    "locationFK": 106,
+    "title": "Croatian Windsurfers",
+    "keywords": "sea, blue",
+    "description": "Two windsurfers float on the Dalmatian coast's blue water near the resort town of Bol on the island of Brac (Brach).",
+    "date": "7/15/2001",
+    "type": "people,nature"
+  },
+  {
+    "photoID": "cro603_dalmatian_beach",
+    "locationFK": 106,
+    "title": "Dalmatian Beach",
+    "keywords": "sea, blue, resort",
+    "description": "Families on holiday soak up sun and swim in the Dalmatian coast's blue water in the resort town of Bol on the island of Brac (Brach).",
+    "date": "7/15/2001",
+    "type": "people,nature"
+  },
+  {
+    "photoID": "cro603_dubrovnik_fortification",
+    "locationFK": 107,
+    "title": "Dubrovnik Fortification",
+    "keywords": "wall, fort",
+    "description": "Dubrovnik's old town is surrounded with an impressive 13-16th century wall that is two kilometers in circumference and up to 25 meters high. From this protected vantage point, guards once scanned the sea for invaders.",
+    "date": "7/17/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "cro603_dubrovnik_old_town_1",
+    "locationFK": 107,
+    "title": "Dubrovnik Old Town 1",
+    "keywords": "city, historic, town, tile",
+    "description": "Dubrovnik's old town, surrounded with an impressive 13-16th century wall that is two kilometers in circumference and up to 25 meters high. Up to two-thirds of the red tile roofs in the town were destroyed during the war in Croatia, but the town has since been restored to it's pre-war beauty.",
+    "date": "7/17/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "cro603_dubrovnik_old_town_2",
+    "locationFK": 107,
+    "title": "Dubrovnik Old Town 2",
+    "keywords": "city, historic, town, tile",
+    "description": "Dubrovnik's old town, surrounded with an impressive 13-16th century wall that is two kilometers in circumference and up to 25 meters high. Up to two-thirds of the red tile roofs in the town were destroyed during the war in Croatia, but the town has since been restored to it's pre-war beauty.",
+    "date": "7/17/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "cro603_dubrovnik_tree",
+    "locationFK": 107,
+    "title": "Dubrovnik Tree",
+    "keywords": "tree, sea, blue, green",
+    "description": "Un unusual tree grows in the dry climate of Croatia's Dalmatian coast.",
+    "date": "7/17/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "cro603_dubrovnik_walls",
+    "locationFK": 107,
+    "title": "Dubrovnik Walls",
+    "keywords": "city walls, historic, town",
+    "description": "Dubrovnik's old town, surrounded with an impressive 13-16th century wall that is two kilometers in circumference and up to 25 meters high.",
+    "date": "7/17/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "cro603_exhibition_building",
+    "locationFK": 108,
+    "title": "Exhibition Pavilion and Park",
+    "keywords": "park, yellow, green, building",
+    "description": "Passengers departing Zagreb's train station enjoy this green park and ochre building (Exhibition Pavilion, 1897) as their first glimpse of the city.",
+    "date": "7/20/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "cze707_prague_castle",
+    "locationFK": 114,
+    "title": "Prague Castle",
+    "keywords": "Castle, water, night, river, sky",
+    "description": "Evening falls over Prague Castle and the Vlatava River. The castle was built in the 9th century and is currently the official home of the Czech president.",
+    "date": "8/5/2001",
+    "type": "architecture,nature"
+  },
+  {
+    "photoID": "fra709_catacombes_bones",
+    "locationFK": 119,
+    "title": "Catacombes Bones",
+    "keywords": "Skulls, catacombes",
+    "description": "Musty bones in the Paris Catacombes, a spooky subterranean maze of tunnels filled with thousands of exhumed bodies from nearby cemeteries in 1785.",
+    "date": "8/24/2001",
+    "type": "miscellaneous"
+  },
+  {
+    "photoID": "fra709_catacombes_skulls",
+    "locationFK": 119,
+    "title": "Catacombes Skulls",
+    "keywords": "Skulls, catacombes",
+    "description": "Musty bones in the Paris Catacombes, a spooky subterranean maze of tunnels filled with thousands of exhumed bodies from nearby cemeteries in 1785.",
+    "date": "8/24/2001",
+    "type": "miscellaneous"
+  },
+  {
+    "photoID": "fra709_centre_pompidou_1",
+    "locationFK": 119,
+    "title": "Centre Pompidou 1",
+    "keywords": "art, building, Pompidou",
+    "description": "A unique covered escalator rises up the Centre Georges Pompidou in Paris. The center houses one of the world's best collections of modern art. (Also known as Centre Beaubourg.)",
+    "date": "8/23/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "fra709_centre_pompidou_2",
+    "locationFK": 119,
+    "title": "Centre Pompidou 2",
+    "keywords": "art, building, Pompidou",
+    "description": "A unique covered escalator rises up the Centre Georges Pompidou in Paris. The center houses one of the world's best collections of modern art. (Also known as Centre Beaubourg.)",
+    "date": "8/23/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "fra709_louvre_ceiling",
+    "locationFK": 119,
+    "title": "Louvre Ceiling",
+    "keywords": "art, building",
+    "description": "A fantastic fresco and gilded ceiling in the Paris Louvre.",
+    "date": "8/24/2001",
+    "type": "architecture,religion"
+  },
+  {
+    "photoID": "fra713_arc_de_triomphe",
+    "locationFK": 119,
+    "title": "Arc de Triomphe",
+    "keywords": "night, monument",
+    "description": "The Arc de Triomphe at the end of the Champs-Elysees in Paris, finished in the 1830s, now the final resting place of the World War I Unknown Soldier.",
+    "date": "8/20/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "fra713_eiffel_shadow",
+    "locationFK": 119,
+    "title": "Eiffel Shadow",
+    "keywords": "tower, sky",
+    "description": "An evening shadow created by the 320-meter high Eiffel Tower (Tour Eiffel) falls over the Paris skyline.",
+    "date": "8/21/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "fra713_eiffel_tower",
+    "locationFK": 119,
+    "title": "Eiffel Tower",
+    "keywords": "tower, sky",
+    "description": "The Eiffel Tower (Tour Eiffel), built for the 1889 World's Fair, rises 320 meters high into the Parisian sky.",
+    "date": "8/21/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "fra713_notre_dame_1",
+    "locationFK": 119,
+    "title": "Notre Dame 1",
+    "keywords": "cathedral, church, Gothic",
+    "description": "Built between 1163 and 1345, the Gothic Notre Dame cathedral is one of the most famous Paris landmarks.",
+    "date": "8/20/2001",
+    "type": "architecture,religion"
+  },
+  {
+    "photoID": "fra713_notre_dame_2",
+    "locationFK": 119,
+    "title": "Notre Dame 1",
+    "keywords": "cathedral, church, Gothic",
+    "description": "Built between 1163 and 1345, the Gothic Notre Dame cathedral is one of the most famous Paris landmarks.",
+    "date": "8/20/2001",
+    "type": "architecture,religion"
+  },
+  {
+    "photoID": "fra713_pantheon",
+    "locationFK": 119,
+    "title": "Pantheon",
+    "keywords": "building",
+    "description": "The Pantheon of the Latin Quarter in Paris is the final resting place of Voltaire, Jean-Jacques Rousseau, and Victor Hugo.",
+    "date": "8/21/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "fra713_pont_neuf",
+    "locationFK": 119,
+    "title": "Pont Neuf (Bridge)",
+    "keywords": "bridge, river, night",
+    "description": "The Pont Neuf crossing the Seine in nighttime Paris.",
+    "date": "8/22/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "fra713_versailles",
+    "locationFK": 119,
+    "title": "Versailles",
+    "keywords": "royal, palace",
+    "description": "Loius XIV stands guard out front of the Chateau de Versailles.",
+    "date": "8/22/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "fra713_versailles_chapel",
+    "locationFK": 119,
+    "title": "Versailles Royal Chapel",
+    "keywords": "sunlight, royal, palace",
+    "description": "Sun filters into the Royal Chapel of the Chateau de Versailles, build by Louis XIV in the middle of the 17th century.",
+    "date": "8/22/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "fra713_versailles_garden_art",
+    "locationFK": 119,
+    "title": "Versailles Garden Art",
+    "keywords": "art, royal",
+    "description": "Artwork in the sculpted gardens of the Chateau de Versailles, built by Louis XIV in the middle of the 17th century.",
+    "date": "8/22/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "fra713_versailles_hall",
+    "locationFK": 119,
+    "title": "Versailles Hall",
+    "keywords": "art, palace",
+    "description": "A painting-lined hall inside the Chateau de Versailles, built by Louis XIV in the middle of the 17th century.",
+    "date": "8/22/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "fra714_arc_de_triomphe_2",
+    "locationFK": 119,
+    "title": "Arc de Triomphe 2",
+    "keywords": "night, monument",
+    "description": "The Arc de Triomphe at the end of the Champs-Elysees in Paris, finished in the 1830s, now the final resting place of the World War I Unknown Soldier.",
+    "date": "8/20/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "fra714_conciergerie_arches_1",
+    "locationFK": 119,
+    "title": "Conciergerie Arches 1",
+    "keywords": "arches, palace",
+    "description": "Arches in the basement of the Conciergerie, a 14th century palace turned prison during the 1793 Reign of Terror.",
+    "date": "8/21/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "fra714_conciergerie_arches_2",
+    "locationFK": 119,
+    "title": "Conciergerie Arches 2",
+    "keywords": "arches, palace",
+    "description": "Arches in the basement of the Conciergerie, a 14th century palace turned prison during the 1793 Reign of Terror.",
+    "date": "8/21/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "fra714_louvre_pyramid_1",
+    "locationFK": 119,
+    "title": "Louvre Pyramid 1",
+    "keywords": "Museum",
+    "description": "Architect I.M. Pei's glass pyramid, a new addition to the Louvre Museum (Le Musée du Louvre), presents a striking contrast to the rest of the museum's classical look.",
+    "date": "8/20/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "fra714_louvre_pyramid_2",
+    "locationFK": 119,
+    "title": "Louvre Pyramid 2",
+    "keywords": "Museum",
+    "description": "Architect I.M. Pei's glass pyramid, a new addition to the Louvre Museum (Le Musée du Louvre), presents a striking contrast to the rest of the museum's classical look.",
+    "date": "8/20/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "fra714_louvre_pyramid_3",
+    "locationFK": 119,
+    "title": "Louvre Pyramid 3",
+    "keywords": "Museum",
+    "description": "Architect I.M. Pei's glass pyramid, a new addition to the Louvre Museum (Le Musée du Louvre),  presents a striking contrast to the rest of the museum's classical look.",
+    "date": "8/20/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "fra714_louvre_pyramid_4",
+    "locationFK": 119,
+    "title": "Louvre Pyramid 4",
+    "keywords": "Museum",
+    "description": "Architect I.M. Pei's glass pyramid, a new addition to the Louvre Museum (Le Musée du Louvre), presents a striking contrast to the rest of the museum's classical look.",
+    "date": "8/20/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "fra714_paris_street",
+    "locationFK": 119,
+    "title": "Paris Street",
+    "keywords": "street, arches",
+    "description": "The classical style of Paris - wrought iron balconies, French doors, and Romanesque arches.",
+    "date": "8/20/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "fra714_saint_eustache_cathedral",
+    "locationFK": 119,
+    "title": "Saint Eustache Cathedral",
+    "keywords": "cathedral, church, arches",
+    "description": "The vaulted ceiling of Paris' Saint Eustache Cathedral, constructed between 1532 and 1640. The cathedral is the final resting place of Molière, Richelieu, and the Marquise de Pompadour.",
+    "date": "8/20/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "ger707_dresden_night",
+    "locationFK": 115,
+    "title": "Dresden at Night",
+    "keywords": "historic, building, night, river",
+    "description": "Dresden's old section at night, painstakingly restored after total destruction during World War II.",
+    "date": "8/8/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "ger707_semperoper",
+    "locationFK": 115,
+    "title": "Semperoper",
+    "keywords": "historic, Renaissance, building, night",
+    "description": "The Semperoper, Dresden's neo-Renaissance opera house opened in 1841. It was destroyed during World War II and rebuilt forty years later in 1985.",
+    "date": "8/8/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "gre502_chios_mesta",
+    "locationFK": 87,
+    "title": "Chios Mesta",
+    "keywords": "island, village",
+    "description": "A man shoulders a bag through the medieval village of Mesta, southwest Chios. The streets of this well-preserved historic village were purposefully built in a mazelike manner to confuse invaders, which makes a casual stroll as a tourist all the more interesting.",
+    "date": "5/30/2001",
+    "type": "people"
+  },
+  {
+    "photoID": "gre502_chios_restaurateur",
+    "locationFK": 87,
+    "title": "Chios Restaurateur",
+    "keywords": "island, café",
+    "description": "The owner of a café in the medieval village of Mesta, southwest Chios, poses for a photo. We were not really that hungry when we arrived at the village, but his overwhelming hospitality convinced us to stay and eat lunch. Afterwards he gave us each a shot of a locally made liqueur produced from mastic, a chief product of the island. I can't say I warmed up to the taste - which was somewhere between pine and turpentine - but I was happy to try it.",
+    "date": "5/30/2001",
+    "type": "people"
+  },
+  {
+    "photoID": "gre502_samos_couch",
+    "locationFK": 86,
+    "title": "Samos Couch",
+    "keywords": "building",
+    "description": "An old beaten up couch sits outside of a home on the Greek island of Samos, near the border of Turkey.",
+    "date": "5/29/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "gre502_samos_dinner",
+    "locationFK": 86,
+    "title": "Samos Dinner",
+    "keywords": "island, sea, food, café",
+    "description": "A typical start to dinner in a Greek restaurant - a paper tablecloth, a carafe of inexpensive red wine, a load of bread, and a view of the sea.",
+    "date": "5/27/2001",
+    "type": "miscellaneous"
+  },
+  {
+    "photoID": "gre502_samos_poppies",
+    "locationFK": 86,
+    "title": "Samos Poppies",
+    "keywords": "flower, red",
+    "description": "Poppies grow on a hillside near the village of Manolates, Samos.",
+    "date": "5/28/2001",
+    "type": "nature"
+  },
+  {
+    "photoID": "gre502_samos_red_pillars",
+    "locationFK": 86,
+    "title": "Samos Red Pillars",
+    "keywords": "building, color",
+    "description": "Red pillars adorn the rooftop of a colorful building on the Greek island of Samos.",
+    "date": "5/29/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "gre502_samos_window",
+    "locationFK": 86,
+    "title": "Samos Window",
+    "keywords": "window, yellow",
+    "description": "A weathered window on the Greek island of Samos, near the border of Turkey.",
+    "date": "5/28/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "gre502_samos_window_2",
+    "locationFK": 86,
+    "title": "Samos Window 2",
+    "keywords": "window, yellow",
+    "description": "A weathered window on the Greek island of Samos, near the border of Turkey.",
+    "date": "5/28/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "gre505_folegandros_blue_1",
+    "locationFK": 85,
+    "title": "Folegandros Blue and White 1",
+    "keywords": "blue, white, building, island, sun",
+    "description": "A blinding-white home in the strong sun of Folegandros, a quiet less-visited island in the Greek Cyclades.",
+    "date": "5/16/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "gre505_folegandros_blue_2",
+    "locationFK": 85,
+    "title": "Folegandros Blue and White 2",
+    "keywords": "blue, white, building, island, sun",
+    "description": "A blinding-white home in the strong sun of Folegandros, a quiet less-visited island in the Greek Cyclades.",
+    "date": "5/16/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "gre505_folegandros_burro",
+    "locationFK": 85,
+    "title": "Folegandros Burro",
+    "keywords": "animal, island",
+    "description": "A burro stands ready in the small medieval capital of Hora, on the island of Folegandros.",
+    "date": "5/16/2001",
+    "type": "miscellaneous"
+  },
+  {
+    "photoID": "gre505_folegandros_cat",
+    "locationFK": 85,
+    "title": "Folegandros Cat",
+    "keywords": "animal, island, café",
+    "description": "Cats in Greece seem to be treated as royalty. This one peers inquisitively from her perch on a café chair.",
+    "date": "5/16/2001",
+    "type": "nature",
+    "story": 194
+  },
+  {
+    "photoID": "gre505_folegandros_church",
+    "locationFK": 85,
+    "title": "Folegandros Church",
+    "keywords": "blue, building, island, church",
+    "description": "A Greek church overlooking the dry rocky fields of Folegandros. This slow-paced Cyclades island is visited far less than its touristy island neighbors and sizes up at a mere 32 square kilometers.",
+    "date": "5/16/2001",
+    "type": "architecture,religion"
+  },
+  {
+    "photoID": "gre505_folegandros_cliff",
+    "locationFK": 85,
+    "title": "Folegandros Cliff",
+    "keywords": "blue, white, cliff, building, island",
+    "description": "A blinding-white home perched on the top of a cliff burned by the strong sun of Folegandros, a quiet less-visited island in the Greek Cyclades.",
+    "date": "5/16/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "gre505_folegandros_color",
+    "locationFK": 85,
+    "title": "Folegandros Landscape",
+    "keywords": "color, island",
+    "description": "A bright orange moss covered boulder contrasts with the blue sea on the quiet island of Folegandros.",
+    "date": "5/16/2001",
+    "type": "nature"
+  },
+  {
+    "photoID": "gre505_folegandros_cove",
+    "locationFK": 85,
+    "title": "Folegandros Cove",
+    "keywords": "blue, sea, cove",
+    "description": "Deep Aegean blue water stands in contrast to the dry hills of Folegandros. This slow-paced Cyclades island is visited far less than its touristy island neighbors and sizes up at a mere 32 square kilometers.",
+    "date": "5/16/2001",
+    "type": "nature"
+  },
+  {
+    "photoID": "gre505_ia_doorway",
+    "locationFK": 91,
+    "title": "Ia Sunset",
+    "keywords": "door, doorway",
+    "description": "A weathered doorway in Ia, a picturesque town located in the Greek Cyclades island of Santorini.",
+    "date": "5/22/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "gre505_octopus",
+    "locationFK": 137,
+    "title": "Octopus",
+    "keywords": "sea, island",
+    "description": "Two octopi dry on a line on the island of Naxos, Greek Cyclades.",
+    "date": "5/24/2001",
+    "type": "miscellaneous"
+  },
+  {
+    "photoID": "gre505_pantanassa_church",
+    "locationFK": 85,
+    "title": "Pantanassa Church",
+    "keywords": "blue, building, island, church",
+    "description": "Greek church bells from the Pantanassa Church on Folegandros. This slow-paced Cyclades island is visited far less than its touristy island neighbors and sizes up at a mere 32 square kilometers.",
+    "date": "5/16/2001",
+    "type": "architecture,religion"
+  },
+  {
+    "photoID": "gre505_pink_church",
+    "locationFK": 91,
+    "title": "Pink Church",
+    "keywords": "blue, pink, church, island",
+    "description": "A pink, white, and blue church in Ia, a town in the Greek Cyclades island of Santorini.",
+    "date": "5/22/2001",
+    "type": "religion"
+  },
+  {
+    "photoID": "gre505_windmill",
+    "locationFK": 91,
+    "title": "Windmill",
+    "keywords": "sunset, windmill, island",
+    "description": "Sun sets behind a windmill on the picturesque town of Ia, located in the Greek Cyclades island of Santorini.",
+    "date": "5/22/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "gre505_yellow_church",
+    "locationFK": 91,
+    "title": "Yellow Church",
+    "keywords": "blue, yellow, church, island",
+    "description": "A yellow, white, and blue church in Ia, a town in the Greek Cyclades island of Santorini.",
+    "date": "5/22/2001",
+    "type": "religion"
+  },
+  {
+    "photoID": "gre505ia_sunset",
+    "locationFK": 91,
+    "title": "Ia Sunset",
+    "keywords": "sunset, island, church",
+    "description": "The sun sets beyond a chuch on the picturesque town of Ia, located in the Greek Cyclades island of Santorini.",
+    "date": "5/22/2001",
+    "type": "nature, religion, architecture"
+  },
+  {
+    "photoID": "gre507greek_orthodox_cathedral_dome",
+    "locationFK": 91,
+    "title": "Greek Orthodox Cathedral Dome",
+    "keywords": "chuch, island",
+    "description": "A fresco of Jesus adorns the Metropolitan Church of the Blessed Mary, a beautiful cathedral in Fira that overlooks a 550-year-old volcanic caldera.",
+    "date": "5/20/2001",
+    "type": "architecture",
+    "story": 202
+  },
+  {
+    "photoID": "hun601_budapest_night",
+    "locationFK": 103,
+    "title": "Nighttime in Budapest 1",
+    "keywords": "Night, Sunset, Danube, River",
+    "description": "Nighttime falls over Budapest and the Danube River, with the Erzsebet Bridge in the foreground and the Chain Bridge in the background.",
+    "date": "7/12/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "hun601_chain_bridge_night_1",
+    "locationFK": 103,
+    "title": "Nighttime in Budapest 2",
+    "keywords": "Night, Chain Bridge, Danube, River",
+    "description": "Nighttime in Budapest with the Chain Bridge crossing the Danube River.",
+    "date": "7/12/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "hun601_chain_bridge_night_2",
+    "locationFK": 103,
+    "title": "Nighttime in Budapest 3",
+    "keywords": "Night, Chain Bridge, Danube, River",
+    "description": "Nighttime in Budapest with the Chain Bridge crossing the Danube River.",
+    "date": "7/12/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "hun601_mathias_church",
+    "locationFK": 103,
+    "title": "Matthias Church",
+    "keywords": "neo-Gothic, church, cathedral",
+    "description": "A view of Budapest's neo-Gothic Matthias Church on Castle Hill (Varhegy). To the left a statue of Hungar'Ys first king, St. Stephen (977-1038).",
+    "date": "7/10/2001",
+    "type": "architecture,religion"
+  },
+  {
+    "photoID": "hun601_mathias_church_night",
+    "locationFK": 103,
+    "title": "Matthias Church at Night",
+    "keywords": "Night, neo-Gothic, church, cathedral",
+    "description": "A view of Budapest's neo-Gothic Matthias Church on Castle Hill (Varhegy) at night.",
+    "date": "7/12/2001",
+    "type": "architecture,religion"
+  },
+  {
+    "photoID": "hun601_street_color",
+    "locationFK": 104,
+    "title": "Szentendre",
+    "keywords": "red, yellow, historic, building, flowers, street",
+    "description": "A colorful street in Szentendre, a small Hungarian town on the Danube Bend.",
+    "date": "7/12/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "ind000_rajasthani_camels",
+    "locationFK": 72,
+    "title": "Rajasthani Camels",
+    "keywords": "camel, sun",
+    "description": "A train of camels crests a sand dune during sunrise in India's Rajasthan.",
+    "date": "3/11/2001",
+    "type": "nature,people",
+    "story": 177
+  },
+  {
+    "photoID": "ind401_varanasi_ghat_bathing",
+    "locationFK": 78,
+    "title": "Varanasi Ghat Bathing",
+    "keywords": "holy, river",
+    "description": "People ritually cleanse themselves and drink from the Ganges River - one of the most sacred places in India.\nAccording to Cleanganga.com, the local fecal coliform count (of which E. coli is a member) is almost 400 times the US Environmental Protection Agenc'Ys limit for safe bathing.",
+    "date": "3/26/2001",
+    "type": "people,religion"
+  },
+  {
+    "photoID": "ind401_varanasi_ghat_festival",
+    "locationFK": 78,
+    "title": "Varanasi Ghat Festival",
+    "keywords": "celebration, river",
+    "description": "Festival goers are kicking off an all-night celebration on the ghats of the holy Ganges River in Varanasi. These crowds of people burned incense, rang bells, played music, and chanted until the sun came up the next morning.",
+    "date": "3/25/2001",
+    "type": "people,religion"
+  },
+  {
+    "photoID": "ind402_holi_kids",
+    "locationFK": 72,
+    "title": "Holi Kids",
+    "keywords": "kids, red",
+    "description": "Two children, participants of Holi, have been stained red by colored gulal powder in the old section of Jaisalmer. This Hindu festival of color marks the end of winter and commemorates a legend from Hindu mythology.",
+    "date": "3/10/2001",
+    "type": "people,religion",
+    "story": 152,
+    "objectPosition": "50% 0%"
+  },
+  {
+    "photoID": "ind402_pushkar_dog",
+    "locationFK": 71,
+    "title": "Pushkar Dog",
+    "keywords": "dog, animal",
+    "description": "A dog waits patiently for scraps from a food vendor in Pushkar.",
+    "date": "3/6/2001",
+    "type": "miscellaneous,nature",
+    "story": 151,
+    "objectPosition": "50% 65%"
+  },
+  {
+    "photoID": "ind402_pushkar_nap",
+    "locationFK": 71,
+    "title": "Pushkar Nap",
+    "keywords": "man",
+    "description": "A man takes an afternoon nap on his push cart in Pushkar.",
+    "date": "3/6/2001",
+    "type": "people"
+  },
+  {
+    "photoID": "ind402_rajasthan_camel",
+    "locationFK": 72,
+    "title": "Rajasthan Camel",
+    "keywords": "animal, camel, sand",
+    "description": "A surely camel in the Thar Desert, Rajasthan, India.",
+    "date": "3/11/2001",
+    "type": "nature",
+    "story": 177
+  },
+  {
+    "photoID": "ind402_rajasthan_camel_boy",
+    "locationFK": 72,
+    "title": "Rajasthan Camel Boy",
+    "keywords": "boy, camel",
+    "description": "A camel nips at the hat of his young handler.",
+    "date": "3/11/2001",
+    "type": "nature,people",
+    "story": 177
+  },
+  {
+    "photoID": "ind402_rajasthan_camel_man",
+    "locationFK": 72,
+    "title": "Rajasthan Camel Man",
+    "keywords": "man, camel",
+    "description": "A camel in Rajasthan waits to be saddled by his handler.",
+    "date": "3/12/2001",
+    "type": "nature,people",
+    "story": 177
+  },
+  {
+    "photoID": "ind402_rajasthan_sand_dune1",
+    "locationFK": 72,
+    "title": "Rajasthan Sand Dune 1",
+    "keywords": "sand",
+    "description": "Sand dunes in the Thar Desert, Rajasthan, India.",
+    "date": "3/11/2001",
+    "type": "nature",
+    "story": 177
+  },
+  {
+    "photoID": "ind402_rajasthan_sand_dune2",
+    "locationFK": 72,
+    "title": "Rajasthan Sand Dune 2",
+    "keywords": "sand",
+    "description": "Sand dunes in the Thar Desert, Rajasthan, India.",
+    "date": "3/11/2001",
+    "type": "nature",
+    "story": 177
+  },
+  {
+    "photoID": "ind403_mt_abu_sunset",
+    "locationFK": 69,
+    "title": "Mt. Abu Sunset",
+    "keywords": "sun",
+    "description": "Mt. Abu is a popular destination for Indian honeymooners. Nowhere is this more evident than watching the sunset with the large crowd that gathers at this overlook. As in the rest of India, the sun doesn't so much set as fade into oblivion.",
+    "date": "3/1/2001",
+    "type": "nature"
+  },
+  {
+    "photoID": "ind403_mt_abu_tailor",
+    "locationFK": 69,
+    "title": "Mt. Abu Tailor",
+    "keywords": "work",
+    "description": "A tailor stitches clothes in India's Mt. Abu.",
+    "date": "3/1/2001",
+    "type": "people"
+  },
+  {
+    "photoID": "ind403_mt_abu_temple",
+    "locationFK": 69,
+    "title": "Mt. Abu Temple",
+    "keywords": "Hindu, temple",
+    "description": "The Adhar Devi Hindu Temple near Mt. Abu, Rajasthan.",
+    "date": "3/1/2001",
+    "type": "architecture,religion"
+  },
+  {
+    "photoID": "ind403_rajasthan_fort",
+    "locationFK": 70,
+    "title": "Rajasthan Fort",
+    "keywords": "fort",
+    "description": "A Rajasthani fort from a bygone era in India.",
+    "date": "3/2/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "ind409_agra_kids_in_river",
+    "locationFK": 75,
+    "title": "Agra Kids in River",
+    "keywords": "kids, river",
+    "description": "Kids enjoy the day by bathing in Agra's toxically green Yamuna River.",
+    "date": "3/23/2001",
+    "type": "people,nature"
+  },
+  {
+    "photoID": "ind409_agra_rickshaw",
+    "locationFK": 75,
+    "title": "Agra Rickshaw",
+    "keywords": "rickshaw",
+    "description": "A view from the back of an Indian auto-rickshaw in Agra.",
+    "date": "3/23/2001",
+    "type": "people",
+    "highlight": true
+  },
+  {
+    "photoID": "ind409_dharamsala_monks",
+    "locationFK": 74,
+    "title": "Dharamsala Monks",
+    "keywords": "monk,buddhism",
+    "description": "Monks take a break from the Dalai Lama's annual Losar teachings at His Holiness' temple in northern India.",
+    "date": "3/20/2001",
+    "type": "people,religion"
+  },
+  {
+    "photoID": "ind409_taj_mahal",
+    "locationFK": 75,
+    "title": "Taj Mahal",
+    "keywords": "historic, building",
+    "description": "The most well know symbol of India - the Taj Mahal.  Shah Jehan built this mausoleum with the help of 20,000 workmen and master craftsmen to honor his departed wife. After 22 years of construction, the structure was completed in 1648.",
+    "date": "3/23/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "ind409_yamuna_river",
+    "locationFK": 75,
+    "title": "Yamuna River",
+    "keywords": "river",
+    "description": "A view from the Taj Mahal of the Yamuna River shortly after sunrise.",
+    "date": "3/23/2001",
+    "type": "nature"
+  },
+  {
+    "photoID": "ind411_pushkar_cows",
+    "locationFK": 71,
+    "title": "Pushkar Cows",
+    "keywords": "cow, animal",
+    "description": "Two cows stand in front of richly ornamented Rajasthani buildings.",
+    "date": "3/6/2001",
+    "type": "architecture,nature"
+  },
+  {
+    "photoID": "ind411_pushkar_street",
+    "locationFK": 71,
+    "title": "Pushkar Street",
+    "keywords": "crowd",
+    "description": "A fleeting moment on the streets of Pushkar.",
+    "date": "3/6/2001",
+    "type": "people",
+    "story": 159
+  },
+  {
+    "photoID": "ind411_pushkar_street2",
+    "locationFK": 71,
+    "title": "Pushkar Street 2",
+    "keywords": "cow, animal",
+    "description": "A woman sweeps a dirt road  in Pushkar while the always-present cows walk by.",
+    "date": "3/6/2001",
+    "type": "people",
+    "highlight": true
+  },
+  {
+    "photoID": "ind411_udaipur_city_palace",
+    "locationFK": 70,
+    "title": "Udaipur City Palace",
+    "keywords": "palace, gold",
+    "description": "The founder of Udaipur, Maharana Udai Singh, was the first of 20 Maharajas to add to this impressive building. It sits along the shores of Lake Pichola and has the distinction of being Rajasthan's largest palace complex.",
+    "date": "3/2/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "ind411_udaipur_cow_1",
+    "locationFK": 70,
+    "title": "Udaipur Cow 1",
+    "keywords": "market, cow",
+    "description": "A cow looks like it might ram an unsuspecting woman who is bent over. Taken in Udaipur's vegetable market.",
+    "date": "3/4/2001",
+    "type": "people,nature"
+  },
+  {
+    "photoID": "ind411_udaipur_cow_2",
+    "locationFK": 70,
+    "title": "Udaipur Cow 2",
+    "keywords": "cow, animal",
+    "description": "Cows graze along the lakefront (not pictured) in Udaipur.",
+    "date": "3/4/2001",
+    "type": "nature,architecture"
+  },
+  {
+    "photoID": "ind411_udaipur_market",
+    "locationFK": 70,
+    "title": "Udaipur Market",
+    "keywords": "market",
+    "description": "A woman sells vegetables in Udaipur's market.",
+    "date": "3/4/2001",
+    "type": "people"
+  },
+  {
+    "photoID": "ind414_jaisalmer_arch",
+    "locationFK": 72,
+    "title": "Jaisalmer Cows",
+    "keywords": "arch",
+    "description": "An arch in the old section of Rajasthan's Jaisalmer frames a doorway from across the alley.",
+    "date": "3/12/2001",
+    "type": "architecture",
+    "story": 161
+  },
+  {
+    "photoID": "ind414_jaisalmer_cow",
+    "locationFK": 72,
+    "title": "Jaisalmer Cow",
+    "keywords": "cow, street, animal",
+    "description": "A cow stands in the middle of the road in Jaisalmer, India.",
+    "date": "3/12/2001",
+    "type": "architecture,nature",
+    "story": 161,
+    "highlight": true,
+    "objectPosition": "50% 50%"
+  },
+  {
+    "photoID": "ind414_jaisalmer_cows",
+    "locationFK": 72,
+    "title": "Jaisalmer Cows",
+    "keywords": "cow, street, animal",
+    "description": "A herd of cows relax in the streets.",
+    "date": "3/12/2001",
+    "type": "architecture,nature",
+    "story": 161
+  },
+  {
+    "photoID": "ind507_jodhpur_blue_city",
+    "locationFK": 73,
+    "title": "Jodhpur the Blue City",
+    "keywords": "blue, city",
+    "description": "Jodhpur is often called the Blue City for obvious reasons, but what isn't so clear is why all the homes in the old section are painted this color. Some say it keeps the houses cool, others claim it keeps the mosquitoes away, and still others say it is because it is the color of the Brahmins.",
+    "date": "3/14/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "ind703_mt_abu_women",
+    "locationFK": 69,
+    "title": "Mt. Abu Woman",
+    "keywords": "woman, blue, sky",
+    "description": "Women in colorful saris climb the 365 stairs up to the top of the Hindu Adhar Devi temple near Mt. Abu.",
+    "date": "3/1/2001",
+    "type": "people"
+  },
+  {
+    "photoID": "ins303_fishing_net",
+    "locationFK": 36,
+    "title": "Fishing Net",
+    "keywords": "fish",
+    "description": "Villagers in Pangandaran, Indonesia, pull a fishing net in from the surf.",
+    "date": "9/30/2000",
+    "type": "people"
+  },
+  {
+    "photoID": "ins303_monkey",
+    "locationFK": 36,
+    "title": "Monkey",
+    "keywords": "animal, monkey",
+    "description": "An evil monkey lies in wait for an unsuspecting photographer to happen by and take a photo - so it can bare its teeth and chase him around the beach in Pangandaran, Indonesia.",
+    "date": "9/30/2000",
+    "type": "nature"
+  },
+  {
+    "photoID": "ins304_balinese_offerings",
+    "locationFK": 31,
+    "title": "Balinese Offerings",
+    "keywords": "woman, offering",
+    "description": "A woman makes offerings to sale in the Ubud market. \nBalinese people make such offerings out of palm leaves, flowers, and incense for use in everyday rituals intended to appease supernatural forces.",
+    "date": "9/19/2000",
+    "type": "religion,people",
+    "story": 88,
+    "objectPosition": "50% 5%"
+  },
+  {
+    "photoID": "ins304_mt_bromo_sunrise1",
+    "locationFK": 33,
+    "title": "Mt. Bromo Sunrise 1",
+    "keywords": "volcano",
+    "description": "The smoking crater of the Mount Bromo volcano of East Java (2,392 meters), Indonesia.",
+    "date": "9/23/2000",
+    "type": "nature"
+  },
+  {
+    "photoID": "ins304_mt_bromo_sunrise2",
+    "locationFK": 33,
+    "title": "Mt. Bromo Sunrise 2",
+    "keywords": "volcano",
+    "description": "The sun rises near the Mount Bromo volcano in East Java, Indonesia.",
+    "date": "9/23/2000",
+    "type": "nature"
+  },
+  {
+    "photoID": "ins305_bali_temple_carving_1",
+    "locationFK": 31,
+    "title": "Bali Temple Carving 1",
+    "keywords": "carving, temple",
+    "description": "A carving guards the entrance to a temple in Bali.",
+    "date": "9/12/2000",
+    "type": "religion,miscellaneous",
+    "story": 88
+  },
+  {
+    "photoID": "ins305_bali_temple_carving_2",
+    "locationFK": 70,
+    "title": "Bali Temple Carving 2",
+    "keywords": "carving, temple",
+    "description": "A carving guards the entrance to a temple in Bali.",
+    "date": "9/12/2000",
+    "type": "religion,miscellaneous"
+  },
+  {
+    "photoID": "ins305_balinese_man",
+    "locationFK": 31,
+    "title": "Balinese Man",
+    "keywords": "man",
+    "description": "This cheerful old man smiled and nodded to us each time we passed by him on the street in Ubud, Bali.",
+    "date": "9/10/2000",
+    "type": "people",
+    "story": 88
+  },
+  {
+    "photoID": "ins305_kintamani-ulan_dano",
+    "locationFK": 31,
+    "title": "Kintamani Ulan Dano",
+    "keywords": "Hindu, temple, offering",
+    "description": "A woman places an offering on the altar of the Kintamani Ulan Dano Hindu temple in Bali. Old offerings cover the altar and the ground surrounding it.",
+    "date": "9/12/2000",
+    "type": "religion",
+    "story": 88
+  },
+  {
+    "photoID": "00165_s_11ag7fhapr0165",
+    "locationFK": 31,
+    "title": "Balinese Schoolgirls",
+    "keywords": "children, girls",
+    "description": "Four curious schoolgirls peer over a wall to watch a funeral procession pass by in the street.",
+    "date": "9/8/2000",
+    "type": "people",
+    "story": 88,
+    "highlight": true
+  },
+  {
+    "photoID": "ins306_ubud_cremation",
+    "locationFK": 31,
+    "title": "Ubud Cremation Ceremony",
+    "keywords": "ceremony",
+    "description": "A cremation procession passes by in Ubud, Bali.\nThe cremation ceremony is one of the most important rituals in the life of a Balinese Hindu. It takes much time and money to plan and can take place up to years after the person's actual death.\nIn the photo here, the body is being carried from a temporary burial ground to the cremation ground in a high tower that can me made of anything including paper, bamboo, string, tinsel, mirrors, silk, cloth, flowers or other colorful items. The large group of men who carry the tower walk down the street in a seemingly drunken manner â€“ zigzagging down the street and spinning the tower in circles. But far from being drunk, these men are trying to confuse the spirits so that they do not return home to cause mischief.",
+    "date": "9/8/2000",
+    "type": "religion,people"
+  },
+  {
+    "photoID": "ins309_balinese_woman_elephant_cave",
+    "locationFK": 31,
+    "title": "Balinese Woman at Elephant Cave",
+    "keywords": "woman, rice",
+    "description": "An woman sifts rice near the touristy Elephant Temple in Bali, Indonesia.\nI took this photo with her permission, but then she demanded money afterward. I don't like to pay for photos, so I said no and walked away in a hail of curses.  I wonder what she cursed me with?",
+    "date": "9/12/2000",
+    "type": "people",
+    "story": 88
+  },
+  {
+    "photoID": "ins312_balinese_dancer",
+    "locationFK": 31,
+    "title": "Balinese Dancer",
+    "keywords": "music, dancer",
+    "description": "A dancer in the Kecak (sounds like Kechak) dance in Ubud, Bali.  Listen to some of this music <a href='sounds.php3'>here</a>.",
+    "date": "9/12/2000",
+    "type": "people",
+    "story": 88
+  },
+  {
+    "photoID": "ins319_borobudur",
+    "locationFK": 37,
+    "title": "Borobudur",
+    "keywords": "Buddhism, temple",
+    "description": "The massive Borobudur Buddhist temple.\nBorobudur was built around 800 AD and, with over 1000 carvings depicting Buddhist thought, served as a 60,000 cubic meter stone guide to Buddhism for visiting pilgrims. The temple rises above the Javanese jungle in nine levels. The first six levels contain carved stone panels depicting the cause and effect of abusing sense pleasures; the top three levels represent achieving nirvana through conquering abuse of sense pleasures.",
+    "date": "9/28/2000",
+    "type": "architecture,religion"
+  },
+  {
+    "photoID": "ins323_yogyakarta_waterpalace",
+    "locationFK": 37,
+    "title": "Taman Sari (Water Palace)",
+    "keywords": "ruin, arch",
+    "description": "An underground passage from Yogyakarta's Taman Sari (Water Castle / Water Palace). <BR/><BR/>The Taman Sari complex was a grand water park built by Sultan Hamengku Buwono I in 1757. Much of its majesty has faded with the years, but visitors can still walk the ruins of the old passageways and buildings.",
+    "date": "9/27/2000",
+    "type": "architecture",
+    "story": 80
+  },
+  {
+    "photoID": "ire000_giants_causeway_3",
+    "locationFK": 123,
+    "title": "Giant's Causeway 3",
+    "keywords": "geologic, formation",
+    "description": "The unusual rock formations of the Giant's Causeway in Northern Ireland, a mass of 40,000 basalt columns created by cooling lava.",
+    "date": "9/22/2001",
+    "type": "nature"
+  },
+  {
+    "photoID": "ire701_belfast_mural_bobby_sands",
+    "locationFK": 122,
+    "title": "Bobby Sands Mural",
+    "keywords": "IRA, mural, Falls Road, Catholic",
+    "description": "Mural on Sinn Fein headquarters depicting Bobby Sands, the IRA leader of the 1981 hunger strike in Maze Prison. Located in the Falls Road (Republican area) of Belfast.\nInscription reads, \"\"Everyone, Republican or otherwise, has their own particular role to play ...our revenge will be the laughter of our children.\"\"",
+    "date": "9/23/2001",
+    "type": "architecture,political"
+  },
+  {
+    "photoID": "ire701_belfast_mural_freedom2000",
+    "locationFK": 122,
+    "title": "UDA Mural",
+    "keywords": "Loyalist, mural, Shankill, Protestant, Ulster Defence Association, UDA, Ulster Freedom Fighters, UFF",
+    "description": "Mural in Protestant Shankill Road area of Belfast honoring the Ulster Defence Association (UDA) and Ulster Freedom Fighters (UFF). \nInscription reads, \"\"Freedom 2000 / UDA LPOW / UFF LPOW.\"\"",
+    "date": "9/23/2001",
+    "type": "architecture,political"
+  },
+  {
+    "photoID": "ire701_belfast_mural_gerry_adams",
+    "locationFK": 122,
+    "title": "Gerry Adams Mural",
+    "keywords": "Loyalist, mural, Shankill, Protestant",
+    "description": "Cartoon mural in Protestant Shankill Road area of Belfast depicting a caricature of Sinn Fein leader, Gerry Adams, being chased back to Dublin by a Loyalist bulldog.",
+    "date": "9/23/2001",
+    "type": "architecture,political"
+  },
+  {
+    "photoID": "ire701_belfast_mural_martyr",
+    "locationFK": 122,
+    "title": "King Rat Mural",
+    "keywords": "Loyalist, mural, Shankill, Protestant, King Rat, Ulster Freedom Fighters, UFF, Ulster Defence Association, UDA",
+    "description": "Mural in Protestant Shankill Road area of Belfast honoring the Loyalist martyr \"\"King Rat.\"\"\nInscription reads, \"\"UFF / UDA / C-COY / Loyalist Martyr King Rat\"\"",
+    "date": "9/23/2001",
+    "type": "architecture,political",
+    "highlight": true
+  },
+  {
+    "photoID": "ire701_belfast_mural_republican",
+    "locationFK": 122,
+    "title": "Catholic Mural",
+    "keywords": "Republican, mural, Falls Road, Catholic",
+    "description": "Cartoon mural in Catholic Falls Road area of Belfast depicting a caged bird escaping from behind bars.\nInscription reads (In Irish), \"\"IRA / I NDIL CHUIMHNE NA GCIMI POBLACHTANACHA A FUAIR BAS I NGEIBHEANN I RITH NA COIMHLINTE REATHA SEO.\"\"",
+    "date": "9/23/2001",
+    "type": "architecture,political"
+  },
+  {
+    "photoID": "ire701_belfast_mural_scotland",
+    "locationFK": 122,
+    "title": "Scotland Mural",
+    "keywords": "Loyalist, mural, Shankill, Protestant",
+    "description": "Mural in Protestant Shankill Road area of Belfast.\nInscription reads, \"\"Scotland / Ulster\"\"",
+    "date": "9/23/2001",
+    "type": "architecture,political"
+  },
+  {
+    "photoID": "ire701_belfast_mural_scottish_brigade",
+    "locationFK": 122,
+    "title": "Scottish Brigade Mural",
+    "keywords": "Loyalist, mural, Shankill, Protestant, Ulster Defence Association, UDA",
+    "description": "Mural in Protestant Shankill Road area of Belfast honoring the Scottish Brigade of the Ulster Defence Association. The UDA is the largest Loyalist paramilitary organization in Northern Ireland.\nInscription reads, \"\"Scottish Brigade / UDA / Quis Separabit\"\"",
+    "date": "9/23/2001",
+    "type": "architecture,political"
+  },
+  {
+    "photoID": "ire701_belfast_mural_thebest",
+    "locationFK": 122,
+    "title": "UDU/UDA/UFF Mural",
+    "keywords": "Loyalist, mural, Shankill, Protestant, Ulster Defence Union, UDU Ulster Freedom Fighters, UFF, Ulster Defence Association, UDA",
+    "description": "Mural in Protestant Shankill Road area of Belfast honoring the  Ulster Defence Union (UDU), Ulster Defence Association (UDA) and Ulster Freedom Fighters (UFF). \nInscription reads, \"\"Simply the best / UDU Member (pictured on left top) / UFF Member (pictured on top center)  / UDA Member  (pictured on right top) / Ulster Defence Union Est. 1893 (Logo on bottom left) / Ulster Defence Association Est. 1972 (Logo on bottom right)\"\"",
+    "date": "9/23/2001",
+    "type": "architecture,political"
+  },
+  {
+    "photoID": "ire701_belfast_mural_uff",
+    "locationFK": 122,
+    "title": "UFF Mural",
+    "keywords": "Loyalist, mural, Shankill, Protestant, Ulster Freedom Fighters, UFF",
+    "description": "Mural in Protestant Shankill Road area of Belfast honoring the Ulster Freedom Fighters (UFF).\nInscription reads, \"\"UFF / A-COY / C-COY / B-COY\"\"",
+    "date": "9/23/2001",
+    "type": "architecture,political"
+  },
+  {
+    "photoID": "ire701_belfast_mural_ulster_ff",
+    "locationFK": 122,
+    "title": "UFF 2nd Battalion Mural",
+    "keywords": "Loyalist, mural, Shankill, Protestant, Ulster Freedom Fighters, UFF",
+    "description": "Mural in Protestant Shankill Road area of Belfast honoring the Ulster Freedom Fighters (UFF), 2nd Battalion.\nInscription reads, \"\"Ulster Freedom Fighters / 2nd BATT / C-COY\"\"",
+    "date": "9/23/2001",
+    "type": "architecture,political"
+  },
+  {
+    "photoID": "ire701_carrick-a-rede",
+    "locationFK": 123,
+    "title": "Carrick-a-rede Island",
+    "keywords": "Carrick-a-rede, Carrickarede, island, house, coast, cliff, sea, ocean",
+    "description": "A small home on the Antrim Country north coast island of Carrick-a-rede.  The island is connected to the mainland by a small rope bridge that dangles high over the water.",
+    "date": "9/22/2001",
+    "type": "architecture,nature"
+  },
+  {
+    "photoID": "ire701_larry_bane_1",
+    "locationFK": 123,
+    "title": "Larry Bane Bay 1",
+    "keywords": "Carrick-a-rede, Carrickarede, coast, cliff, sea, ocean",
+    "description": "Larry Bane Bay in the north coast of Antrim Country, near the Carrick-a-rede Island rope bridge.",
+    "date": "9/22/2001",
+    "type": "nature"
+  },
+  {
+    "photoID": "ire701_larry_bane_2",
+    "locationFK": 123,
+    "title": "Larry Bane Bay 2",
+    "keywords": "Carrick-a-rede, Carrickarede, coast, cliff, sea, ocean",
+    "description": "Larry Bane Bay in the north coast of Antrim Country, near the Carrick-a-rede Island rope bridge.",
+    "date": "9/22/2001",
+    "type": "nature"
+  },
+  {
+    "photoID": "ire702_cliffs_of_moher",
+    "locationFK": 125,
+    "title": "Cliffs of Moher",
+    "keywords": "cliffs, Moher, sea, blue, ocean, green, hills, Liscannor, rugged, sheer",
+    "description": "The rugged shale and sandstone Cliffs of Moher, rising 660 feet above the Atlantic on Irelands west coast.",
+    "date": "9/17/2001",
+    "type": "nature"
+  },
+  {
+    "photoID": "ire702_cows_of_moher",
+    "locationFK": 125,
+    "title": "Cows of Moher",
+    "keywords": "cows, hill, grass, green",
+    "description": "Smiling cows look over the hill on Ireland's west coast.",
+    "date": "9/17/2001",
+    "type": "nature"
+  },
+  {
+    "photoID": "ire702_dan_foleys_pub",
+    "locationFK": 124,
+    "title": "Dan Foleys Pub",
+    "keywords": "Derrymore, pub, pink, red, façade, Irish, bar",
+    "description": "A colorful Irish pub on the Dingle Peninsula.",
+    "date": "9/17/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "ire702_dingle_beach",
+    "locationFK": 124,
+    "title": "Dingle Peninsula Beach",
+    "keywords": "beach, mountains, Atlantic, coast, surf",
+    "description": "A beach in the beautiful Dingle Peninsula, reaching off Ireland's west coast along the Atlantic.",
+    "date": "9/16/2001",
+    "type": "nature"
+  },
+  {
+    "photoID": "ire702_dingle_coast",
+    "locationFK": 124,
+    "title": "Dingle Peninsula Coast",
+    "keywords": "cliffs, blue, sky, sea, west coast",
+    "description": "The rugged Atlantic coastline in Ireland's beautiful Dingle peninsula.",
+    "date": "9/16/2001",
+    "type": "nature"
+  },
+  {
+    "photoID": "ire702_doonbeg_bridge",
+    "locationFK": 125,
+    "title": "Doonbeg Bridge",
+    "keywords": "stream, river, grass, stone, arch, village, town",
+    "description": "An old stone bridge crosses a stream in the small village of Doonbeg, County Clare.",
+    "date": "9/17/2001",
+    "type": "architecture,nature"
+  },
+  {
+    "photoID": "ire702_doonbeg_grass_house",
+    "locationFK": 125,
+    "title": "Doonbeg Grass House",
+    "keywords": "grass, roof, house, traditional, sod",
+    "description": "A grass roofed house on the west coast of Ireland.",
+    "date": "9/17/2001",
+    "type": "architecture,nature"
+  },
+  {
+    "photoID": "ire702_doonbeg_window",
+    "locationFK": 125,
+    "title": "Doonbeg Window",
+    "keywords": "window, house, traditional, old, shoe",
+    "description": "An old shoe sits in the window of a traditional grass roofed house on the west coast of Ireland.",
+    "date": "9/17/2001",
+    "type": "architecture,nature"
+  },
+  {
+    "photoID": "ire702_virgin_mary",
+    "locationFK": 124,
+    "title": "Virgin Mary",
+    "keywords": "Virgin Mary, statue, blue, sky, sea, west coast",
+    "description": "A statue of the Virgin Mary overlooks the Atlantic in Ireland's beautiful Dingle peninsula.",
+    "date": "9/16/2001",
+    "type": "miscellaneous,religion"
+  },
+  {
+    "photoID": "ire705_celtic_cross",
+    "locationFK": 127,
+    "title": "Celtic Cross",
+    "keywords": "Celtic, cross, graveyard, sky",
+    "description": "A Celtic cross headstone in a graveyard near the Glendalough Monastery. The monastery was founded during the sixth century and remained active until the sixteenth century.",
+    "date": "9/9/2001",
+    "type": "religion"
+  },
+  {
+    "photoID": "ire705_celtic_cross_tree",
+    "locationFK": 127,
+    "title": "Celtic Cross and Tree",
+    "keywords": "celtic, cross, graveyard, sky",
+    "description": "A Celtic cross headstone in a graveyard near the Glendalough Monastery. The monastery was founded during the sixth century and remained active until the sixteenth century.",
+    "date": "9/9/2001",
+    "type": "religion"
+  },
+  {
+    "photoID": "ire705_dublin_sunset",
+    "locationFK": 126,
+    "title": "Dublin Sunset",
+    "keywords": "building, light, sunset",
+    "description": "The sun sets over row houses on the streets of Dublin.",
+    "date": "9/8/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "ire705_guinness_brewery",
+    "locationFK": 126,
+    "title": "Guinness Brewery",
+    "keywords": "wall, building, light, arch",
+    "description": "Light filters down on a doorway in the Guinness brewery, a 64 acre complex founded in 1759. Two and a half million pints of Guinness are brewed behind these doors every day.",
+    "date": "9/8/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "ire705_irish_ganeesh",
+    "locationFK": 127,
+    "title": "Irish Ganeesh",
+    "keywords": "sky, animal, sculpture, art",
+    "description": "An unlikely sculpture in Ireland, a statue of the Hindu elephant-god Ganeesh stands in Victoria's Way Sculpture Park in Roundwood. The park is the product of one person, an interesting man who spends several months out of the year directing his team in India to build sculpture embodying his theories on life.",
+    "date": "9/9/2001",
+    "type": "miscellaneous,religion"
+  },
+  {
+    "photoID": "ire705_sheep",
+    "locationFK": 127,
+    "title": "Sheep and Sky",
+    "keywords": "sheep, meadow, flowers, sky, yellow",
+    "description": "A sheep looks curiously onward in the middle of a green Irish hill covered in yellow wildflowers.",
+    "date": "9/9/2001",
+    "type": "nature",
+    "highlight": "true"
+  },
+  {
+    "photoID": "ire705_sheep_sky",
+    "locationFK": 127,
+    "title": "Sheep and Sky",
+    "keywords": "sheep, meadow, flowers, sky, yellow",
+    "description": "Two sheep walk up a green Irish hill covered in yellow wildflowers.",
+    "date": "9/9/2001",
+    "type": "nature"
+  },
+  {
+    "photoID": "ire706_3_kilkenny_pubs",
+    "locationFK": 128,
+    "title": "Three Kilkenny Pubs",
+    "keywords": "pubs, building, color, street",
+    "description": "Three traditional Irish pubs sitting side by side in the quaint town of Kilkenny.",
+    "date": "9/10/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "ire706_5_kilkenny_pubs",
+    "locationFK": 128,
+    "title": "Five Kilkenny Pubs",
+    "keywords": "Pubs, building, color, street",
+    "description": "Traditional Irish pubs line a street in the quaint town of Kilkenny.",
+    "date": "9/10/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "ire706_belvelly_castle",
+    "locationFK": 131,
+    "title": "Belvelly Castle",
+    "keywords": "Castle, water, historic, building, river",
+    "description": "The Hodnett family built the Belvelly Castle in the 15th century to guard the thin waterway separating Cobh's Great Island from the mainland. The name of the castle means \"\"the mouth/opening of the passage or fording place\"\".",
+    "date": "9/14/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "ire706_blarney_castle_in",
+    "locationFK": 131,
+    "title": "Blarney Castle Inside",
+    "keywords": "historic, castle",
+    "description": "Blarney Castle, built in 1446 by the King of Munster, now made famous by the Blarney Stone. Legend says that to kiss the Blarney Stone brings the gift of articulate and convincing speech.",
+    "date": "9/14/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "ire706_blarney_castle_out",
+    "locationFK": 131,
+    "title": "Blarney Castle Outside",
+    "keywords": "historic, castle",
+    "description": "Blarney Castle, built in 1446 by the King of Munster, now made famous by the Blarney Stone. Legend says that to kiss the Blarney Stone brings the gift of articulate and convincing speech.",
+    "date": "9/14/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "ire706_cashel_arch",
+    "locationFK": 129,
+    "title": "Cashel Arch",
+    "keywords": "building, historic, church, Gothic, arch, medieval",
+    "description": "The arches of a 700 year old gothic cathedral on the Rock of Cashel. Other medieval stone buildings share the view from the Rock, rising high off the surrounding plains on this solitary hill.",
+    "date": "9/10/2001",
+    "type": "religion,architecture"
+  },
+  {
+    "photoID": "ire706_cashel_cross",
+    "locationFK": 129,
+    "title": "Cashel Cross",
+    "keywords": "building, historic, church, Gothic, medieval, Celtic, cross",
+    "description": "A Celtic cross sits in front of a 700 year old gothic cathedral on the Rock of Cashel. Other medieval stone buildings share the view from the Rock, rising high off the surrounding plains on this solitary hill.",
+    "date": "9/10/2001",
+    "type": "religion,architecture"
+  },
+  {
+    "photoID": "ire706_cobh_harbor",
+    "locationFK": 131,
+    "title": "Cobh Harbor",
+    "keywords": "Port, harbor, building, colorful, boat",
+    "description": "Cobh was the last port of call for the Lusitania, a port of call on Titanic's last voyage, and the last port a majority of Irish immigrants saw as they sailed away to America and Australia during the potato famine. The port exists today as a picturesque small town with a line of colorful buildings facing the water.",
+    "date": "9/14/2001",
+    "type": "architecture",
+    "highlight": "true"
+  },
+  {
+    "photoID": "ire706_cobh_rowhouses",
+    "locationFK": 131,
+    "title": "Cobh Rowhouses",
+    "keywords": "building",
+    "description": "Rowhouses rise up a hill in Cobh, County Cork.",
+    "date": "9/14/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "ire706_cows_in_the_field",
+    "locationFK": 130,
+    "title": "Cows in the Field",
+    "keywords": "cows, field, green",
+    "description": "Cows stand watch in a field near Killarney in southwest Ireland",
+    "date": "9/11/2001",
+    "type": "nature"
+  },
+  {
+    "photoID": "ire706_healy_pass_sunset",
+    "locationFK": 130,
+    "title": "Healy Pass Sunset",
+    "keywords": "Mountains, sunset, sky, red",
+    "description": "Sunset reflects over mountains near the Healy Pass, the area between Counties Kerry and Cork in southwest Ireland. A few minutes later a sheep farmer in a tatty wool sweater greets me warmly with his in a thick Cork accent, saying \"\"Yer welcome down here.\"\"",
+    "date": "9/11/2001",
+    "type": "nature",
+    "highlight": "true"
+  },
+  {
+    "photoID": "ire706_kilkenny_castle",
+    "locationFK": 128,
+    "title": "Kilkenny Castle",
+    "keywords": "Castle, building, castle, historic, green",
+    "description": "Originally built in the 12th century, Kilkenny Castle is pictured here with an exceptionally green lawn and blue sky.",
+    "date": "9/10/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "ire706_rock_of_cashel",
+    "locationFK": 129,
+    "title": "Rock of Cashel",
+    "keywords": "building, historic, church, Gothic, medieval,",
+    "description": "The stone wall and historic gothic structures of the Rock of Cashel.",
+    "date": "9/10/2001",
+    "type": "religion,architecture",
+    "highlight": "true"
+  },
+  {
+    "photoID": "ire711_ballyvaghan",
+    "locationFK": 125,
+    "title": "Ballyvaghan",
+    "keywords": "boat, sea, water, sky",
+    "description": "Boats in Ballyvaghan sit high and dry during low tide. (West coast of Ireland.)",
+    "date": "9/18/2001",
+    "type": "nature"
+  },
+  {
+    "photoID": "ire711_inishmore_coastline_1",
+    "locationFK": 136,
+    "title": "Inishmore Coastline 1",
+    "keywords": "Coast, cliff, sea, fort, historic",
+    "description": "Surf crashes along the cliff-covered coast of Inishmore Island, County Galway. The 87 meter-high view looks out from the 3,000-year-old Dun Aengus ring fort, inhabited from 1100 BC to 1000 AD.",
+    "date": "9/19/2001",
+    "type": "nature"
+  },
+  {
+    "photoID": "ire711_inishmore_coastline_2",
+    "locationFK": 136,
+    "title": "Inishmore Coastline 2",
+    "keywords": "Coast, cliff, sea, fort, historic",
+    "description": "Surf crashes along an 87-meter high cliff of Inishmore Island, County Galway. The view looks out over the 3,000-year-old Dun Aengus ring fort, inhabited from 1100 BC to 1000 AD. (The fort stands on top of the cliff.)",
+    "date": "9/19/2001",
+    "type": "nature"
+  },
+  {
+    "photoID": "ire711_inishmore_fishing_net",
+    "locationFK": 136,
+    "title": "Inishmore Fishing Net",
+    "keywords": "net, fish",
+    "description": "A fisherman's net piled alongside a country road on Inishmore Island, County Galway.",
+    "date": "9/19/2001",
+    "type": "miscellaneous"
+  },
+  {
+    "photoID": "ire711_inishmore_geology",
+    "locationFK": 136,
+    "title": "Inishmore Geology",
+    "keywords": "rock, fort",
+    "description": "Unique rock formations surround the 3,000-year-old Dun Aengus ring fort on Inishmore Island, County Galway.",
+    "date": "9/19/2001",
+    "type": "nature"
+  },
+  {
+    "photoID": "ire711_old_graveyard",
+    "locationFK": 136,
+    "title": "Old Graveyard",
+    "keywords": "Graveyard, Celtic, cross",
+    "description": "Celtic crosses stand on a hill near the small town of Inveran, west of Galway, on the west coast of Ireland.",
+    "date": "9/19/2001",
+    "type": "religion,miscellaneous"
+  },
+  {
+    "photoID": "ire711_seaweed",
+    "locationFK": 136,
+    "title": "Seaweed",
+    "keywords": "net, fish",
+    "description": "Clumps of yellow and brown seaweed cover tidal flats during low tide in County Galway on the west coast of Ireland.",
+    "date": "9/20/2001",
+    "type": "nature"
+  },
+  {
+    "photoID": "ire711_tree_over_lake",
+    "locationFK": 136,
+    "title": "Tree Over Lake",
+    "keywords": "Tree, lake, water, mountain, reflection",
+    "description": "A tree stands alongside a lake in the Connemara area of County Galway, near the Kylemore Abbey.",
+    "date": "9/20/2001",
+    "type": "nature"
+  },
+  {
+    "photoID": "ire711_trees_reflect",
+    "locationFK": 136,
+    "title": "Trees Reflect Over Lake",
+    "keywords": "Tree, lake, water, mountain, reflection",
+    "description": "The image of a mountain and a group of trees reflects from the surface of a lake in the Connemara area of County Galway, near the Kylemore Abbey.",
+    "date": "9/20/2001",
+    "type": "nature"
+  },
+  {
+    "photoID": "ire712_river_liffey",
+    "locationFK": 126,
+    "title": "River Liffey",
+    "keywords": "river, walk, sunset",
+    "description": "Dublin's famous River Liffey during sunset.",
+    "date": "9/25/2001",
+    "type": "architecture,nature"
+  },
+  {
+    "photoID": "ire712_river_liffey_couple",
+    "locationFK": 126,
+    "title": "River Liffey Couple",
+    "keywords": "river, walk, sunset",
+    "description": "A couple walks adjacent to Dublin's famous River Liffey during sunset.",
+    "date": "9/25/2001",
+    "type": "people,nature"
+  },
+  {
+    "photoID": "ire712_temple_bar",
+    "locationFK": 126,
+    "title": "Temple Bar",
+    "keywords": "pub, bar",
+    "description": "The Temple Bar in the lively \"\"Temple Bar\"\" area of Dublin.",
+    "date": "9/25/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "ire712_temple_bar_sign",
+    "locationFK": 126,
+    "title": "Temple Bar Sign",
+    "keywords": "beer, sign, pub",
+    "description": "A Guinness advertisement adorns one of the many pubs in the lively Temple Bar area of Dublin.",
+    "date": "9/25/2001",
+    "type": "miscellaneous"
+  },
+  {
+    "photoID": "ire712_west_coast_beach",
+    "locationFK": 124,
+    "title": "West Coast Beach",
+    "keywords": "beach, sky, sea",
+    "description": "The sun shines patches of light onto a beach in the Dingle Peninsula.",
+    "date": "9/15/2001",
+    "type": "nature"
+  },
+  {
+    "photoID": "ire715_giants_causeway_1",
+    "locationFK": 123,
+    "title": "Giant's Causeway 1",
+    "keywords": "geologic, formation",
+    "description": "The unusual rock formations of the Giant's Causeway in Northern Ireland, a mass of 40,000 basalt columns caused by cooling lava.",
+    "date": "9/22/2001",
+    "type": "nature"
+  },
+  {
+    "photoID": "ire715_giants_causeway_2",
+    "locationFK": 123,
+    "title": "Giant's Causeway 2",
+    "keywords": "geologic, formation",
+    "description": "The unusual rock formations of the Giant's Causeway in Northern Ireland, a mass of 40,000 basalt columns caused by cooling lava.",
+    "date": "9/22/2001",
+    "type": "nature"
+  },
+  {
+    "photoID": "ire715_tree_lake_bw",
+    "locationFK": 136,
+    "title": "Tree Over Lake BW",
+    "keywords": "Tree, lake, water, mountain, reflection",
+    "description": "A tree stands alongside a lake in the Connemara area of County Galway, near the Kylemore Abbey.",
+    "date": "9/20/2001",
+    "type": "nature"
+  },
+  {
+    "photoID": "ire719_cork_shadows",
+    "locationFK": 131,
+    "title": "Cork Shadows",
+    "keywords": "street, shadows",
+    "description": "Shadows fall over the sidewalk in the city of Cork.",
+    "date": "9/13/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "itl703_blue_burano_window",
+    "locationFK": 111,
+    "title": "Blue Burano Window",
+    "keywords": "window, blue, colorful",
+    "description": "A colorful window from a village in Burano, a small island a short ride from Venice by ferry. Though the island is known for its lace making and fishing, the intense colors of the village impressed me far more - each family seemed to compete for the home with the brightest and most striking colors.",
+    "date": "7/27/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "itl703_burano_net",
+    "locationFK": 111,
+    "title": "Burano Fisherman's Net",
+    "keywords": "fish, colorful, net",
+    "description": "A fisherman's net from a village in Burano, a small island a short ride from Venice by ferry. The net is as colorful as the homes of the villagers nearby, as each family seemed to compete for the home with the brightest and most striking colors.",
+    "date": "7/27/2001",
+    "type": "miscellaneous"
+  },
+  {
+    "photoID": "itl703_pink_burano_window",
+    "locationFK": 111,
+    "title": "Pink Burano Window",
+    "keywords": "window, pink, colorful, fuchsia",
+    "description": "A colorful window from a village in Burano, a small island a short ride from Venice by ferry. Though the island is known for its lace making and fishing, the intense colors of the village impressed me far more - each family seemed to compete for the home with the brightest and most striking colors.",
+    "date": "7/27/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "itl703_venetian_canal",
+    "locationFK": 111,
+    "title": "Venetian Canal",
+    "keywords": "gondola, canal, historic, building, water",
+    "description": "Classic Venetian buildings line a small canal in the back areas of the city.",
+    "date": "7/27/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "lao302_back_room_buddhas_1",
+    "locationFK": 62,
+    "title": "Back Room Buddhas 1",
+    "keywords": "buddhism",
+    "description": "Damaged wooden carved Buddhas and other statues lie stacked in the back of Luang Prabang's Wat Xieg Thong, Laos.",
+    "date": "1/18/2001",
+    "type": "miscellaneous,religion"
+  },
+  {
+    "photoID": "lao302_back_room_buddhas_2",
+    "locationFK": 62,
+    "title": "Back Room Buddhas 2",
+    "keywords": "buddhism",
+    "description": "Damaged wooden carved Buddhas and other statues lie stacked in the back of Luang Prabang's Wat Xieg Thong, Laos.",
+    "date": "1/18/2001",
+    "type": "miscellaneous,religion"
+  },
+  {
+    "photoID": "lao302_fuzzy_dogs",
+    "locationFK": 62,
+    "title": "Fuzzy Dogs",
+    "keywords": "animals, dog",
+    "description": "Two long-eared fuzzy dogs in the doorway. The picture says it all.",
+    "date": "1/18/2001",
+    "type": "miscellaneous"
+  },
+  {
+    "photoID": "lao302_mekong_river",
+    "locationFK": 139,
+    "title": "Mekong River",
+    "keywords": "river",
+    "description": "A beautiful morning sunrise on the Mekong River. The photo is taken from the small Laotian town of Pakbeng, a stopover on the two-day riverboat trip from Thailand to Luang Prabang.",
+    "date": "1/17/2001",
+    "type": "nature"
+  },
+  {
+    "photoID": "lao302_mekong_riverboats",
+    "locationFK": 62,
+    "title": "Mekong Riverboats",
+    "keywords": "river, boat",
+    "description": "Distinctive looking riverboats tethered to the Mekong riverbank outside of Luang Prabang, Laos.",
+    "date": "1/21/2001",
+    "type": "miscellaneous",
+    "story": 125
+  },
+  {
+    "photoID": "lao302_monk_sinethana",
+    "locationFK": 62,
+    "title": "Novice Monk Sinethana",
+    "keywords": "buddhism, monk",
+    "description": "Novice Buddhist monk, Sinethana, sits on a wall at a highly visited area of Luang Prabang, striking up conversations in English with the tourists to meet new people and improve his language skills.",
+    "date": "1/18/2001",
+    "type": "people",
+    "highlight": true,
+    "objectPosition": "50% 0%"
+  },
+  {
+    "photoID": "lao302_old_woman_1",
+    "locationFK": 62,
+    "title": "Old Laotian Woman 1",
+    "keywords": "woman",
+    "description": "An old woman in Luang Prabang, Laos, relaxes in a chair.",
+    "date": "1/18/2001",
+    "type": "people"
+  },
+  {
+    "photoID": "lao302_wat_xieng_thong",
+    "locationFK": 62,
+    "title": "Wat Xieng Thong",
+    "keywords": "buddhism",
+    "description": "Intricate gold leaf and red paint doors at one of Luang Prabang's well known monasteries, Wat Xieng Thong.",
+    "date": "1/18/2001",
+    "type": "architecture,religion"
+  },
+  {
+    "photoID": "lao314_pha_that_luang_stupa",
+    "locationFK": 138,
+    "title": "Pha That Luang",
+    "keywords": "buddhism, stupa",
+    "description": "An up-close look at a carved lotus blossom decorating Pha That Luang (the Great Sacred Stupa), the most important monument in Laos. This Buddhist monument is considered a national  treasure and is depicted on the 5000 kip Laotian currency.",
+    "date": "1/27/2001",
+    "type": "architecture,religion"
+  },
+  {
+    "photoID": "lao314_riverboat_window",
+    "locationFK": 62,
+    "title": "Riverboat Window",
+    "keywords": "boat",
+    "description": "A riverboat on the Mekong River, Laos.",
+    "date": "1/21/2001",
+    "type": "miscellaneous",
+    "story": 125
+  },
+  {
+    "photoID": "lao327_kids_with_kite",
+    "locationFK": 62,
+    "title": "Mekong Kids with Kite",
+    "keywords": "river, boat, mekong, children, kids, kite",
+    "description": "Children fly a kite from the top of an old wrecked boat along the shore of the Mekong River.",
+    "date": "1/21/2001",
+    "type": "miscellaneous, people",
+    "story": 125
+  },
+  {
+    "photoID": "lao327_mekong_longboats",
+    "locationFK": 62,
+    "title": "Mekong Longboats",
+    "keywords": "river, boat, mekong",
+    "description": "Longboats on the shore of the Mekong riverbank in Luang Prabang, Laos.",
+    "date": "1/21/2001",
+    "type": "miscellaneous"
+  },
+  {
+    "photoID": "lao334_kids_in_car",
+    "locationFK": 62,
+    "title": "Kids in Car",
+    "keywords": "children",
+    "description": "Three Laotian children look curiously out the window of their parents' pickup truck in Luang Prabang, Laos.",
+    "date": "1/18/2001",
+    "type": "people"
+  },
+
+  {
+    "photoID": "loa314_pha_that_luang_lotus",
+    "locationFK": 138,
+    "title": "Pha That Luang Lotus",
+    "keywords": "buddhism, stupa",
+    "description": "An up-close look at the carved lotus blossoms decorating Pha That L uang (the Great Sacred Stupa), the most important monument in Laos. This Buddhist monument is considered a national treasure and is depicted on the 5000 kip Laotian currency.",
+    "date": "1/27/2001",
+    "type": "architecture,religion",
+    "highlight": true
+  },
+  {
+    "photoID": "ml303_muslim_woman",
+    "locationFK": 35,
+    "title": "Muslim Woman",
+    "keywords": "woman, Muslim",
+    "description": "A Muslim woman walks down a street in Kuala Lumpur, the capital city of Malaysia.",
+    "date": "10/6/2000",
+    "type": "people,religion",
+    "objectPosition": "50% 100%"
+  },
+  {
+    "photoID": "ml317_cactus_1",
+    "locationFK": 42,
+    "title": "Cactus 1",
+    "keywords": "plant, cactus",
+    "description": "A cactus grows in a nursery in the Cameron Highlands of Malaysia.",
+    "date": "10/19/2000",
+    "type": "nature"
+  },
+  {
+    "photoID": "ml317_cactus_2",
+    "locationFK": 42,
+    "title": "Cactus 2",
+    "keywords": "plant, cactus",
+    "description": "A cactus grows in a nursery in Cameron Highlands, Malaysia.",
+    "date": "10/19/2000",
+    "type": "nature"
+  },
+  {
+    "photoID": "ml317_kota_baru_market",
+    "locationFK": 140,
+    "title": "Kota Baru Market",
+    "keywords": "market",
+    "description": "Women surround themselves in produce in the Kota Baru market, Malaysia.",
+    "date": "10/14/2000",
+    "type": "people"
+  },
+  {
+    "photoID": "ml317_penang_food_vendor",
+    "locationFK": 43,
+    "title": "Penang Food Vendor",
+    "keywords": "street, vendor",
+    "description": "Asian street vendors such as this one in Penang, Malaysia, sell an amazing variety of cheap but excellent food.",
+    "date": "10/16/2000",
+    "type": "miscellaneous"
+  },
+  {
+    "photoID": "ml317_penang_key_maker",
+    "locationFK": 43,
+    "title": "Penang Key Maker",
+    "keywords": "men",
+    "description": "Two old men work outside in Penang, Malaysia, making keys.",
+    "date": "10/16/2000",
+    "type": "people"
+  },
+  {
+    "photoID": "ml318_penang_rickshaw",
+    "locationFK": 43,
+    "title": "Penang Rickshaw",
+    "keywords": "rickshaw",
+    "description": "A rickshaw driver pedals down the street in the rain.",
+    "date": "10/17/2000",
+    "type": "people"
+  },
+  {
+    "photoID": "nep404_butter_lamps",
+    "locationFK": 77,
+    "title": "Butter Lamps",
+    "keywords": "buddhism",
+    "description": "Butter lamps burn on the stairs of Kathmandu's Monkey Temple (Swayambhunath) during Buddha Jayanti, the celebration of Buddha's birthday 2545 years ago.",
+    "date": "5/7/2001",
+    "type": "religion"
+  },
+  {
+    "photoID": "nep404_chitwan_asian_rhino",
+    "locationFK": 84,
+    "title": "Chitwan Asian Rhino",
+    "keywords": "animals",
+    "description": "An Asian rhino takes a break from the heat in the Royal Chitwan National Park. \nThis park, located in the lowlands of southern Nepal, covers 932 square km and protects Asian one-horned rhinos, crocodiles, sloth bears, leopards, and Royal Bengal tigers. The park was declared a UNESCO World Heritage Site in 1984.",
+    "date": "5/4/2001",
+    "type": "nature",
+    "story": 189
+  },
+  {
+    "photoID": "nep404_chitwan_poachers",
+    "locationFK": 84,
+    "title": "Chitwan Poachers",
+    "keywords": "river",
+    "description": "Moments before this photo was taken, this family was fishing illegally from the Rapti River in the Royal Chitwan National park. They are seen here being yelled at by a park ranger who is sharing my canoe.\nThis park, located in the lowlands of southern Nepal, covers 932 square km and protects Asian one-horned rhinos, crocodiles, sloth bears, leopards, and Royal Bengal tigers. The park was declared a UNESCO World Heritage Site in 1984.",
+    "date": "5/4/2001",
+    "type": "people"
+  },
+  {
+    "photoID": "nep404_chitwan_river_cr",
+    "locationFK": 84,
+    "title": "Chitwan River Crossing",
+    "keywords": "River, animals",
+    "description": "A man crosses the Rapti River of the Royal Chitwan National Park. \nThis park, located in the lowlands of southern Nepal, covers 932 square km and protects Asian one-horned rhinos, crocodiles, sloth bears, leopards, and Royal Bengal tigers. The park was declared a UNESCO World Heritage Site in 1984.",
+    "date": "5/4/2001",
+    "type": "people"
+  },
+  {
+    "photoID": "nep404_monkey_temple_stairs",
+    "locationFK": 77,
+    "title": "Monkey Temple Stairs",
+    "keywords": "buddhism, temple",
+    "description": "Crowds climb the stairs to the Kathmandu's Monkey Temple (Swayambhunath) during Buddha Jayanti, the celebration of Buddha's birthday 2545 years ago.",
+    "date": "5/7/2001",
+    "type": "people,religion"
+  },
+  {
+    "photoID": "nep405_green_valley",
+    "locationFK": 81,
+    "title": "Green Valley",
+    "keywords": "snow, mountain",
+    "description": "A green valley in Nepal meets the snowline.",
+    "date": "4/17/2001",
+    "type": "nature"
+  },
+  {
+    "photoID": "nep405_kala_pattar",
+    "locationFK": 80,
+    "title": "Kala Pattar",
+    "keywords": "mountains, blue, snow",
+    "description": "A view of the Khumbu Glacier from Kala Pattar, 5600 meters (18,300+ feet) above sea level.",
+    "date": "4/14/2001",
+    "type": "nature"
+  },
+  {
+    "photoID": "nep405_pumori_blue",
+    "locationFK": 80,
+    "title": "Pumori",
+    "keywords": "mountain, snow, blue",
+    "description": "The majestic peak of Pumori stands at 7161 meters (23,494 feet), rising almost 1500 meters higher than the peak of Kala Pattar below it.",
+    "date": "4/13/2001",
+    "type": "nature",
+    "story": 170
+  },
+  {
+    "photoID": "nep406_mountian_sunrise",
+    "locationFK": 80,
+    "title": "Mountain Sunrise",
+    "keywords": "mountains",
+    "description": "The first rays of morning hit a peak near Everest.",
+    "date": "4/12/2001",
+    "type": "nature"
+  },
+  {
+    "photoID": "nep406_namche_bazaar",
+    "locationFK": 79,
+    "title": "Namche Bazaar",
+    "keywords": "mountains",
+    "description": "A view of Namche Bazaar from above. Seemingly small, this town offers plenty for trekkers to dream about while they hike farther up the mountain - a return to a pizza baked in a real pizza oven and a hot shower.",
+    "date": "4/5/2001",
+    "type": "nature",
+    "objectPosition": "50% 100%"
+  },
+  {
+    "photoID": "nep406_prayer_flags",
+    "locationFK": 80,
+    "title": "Prayer Flags",
+    "keywords": "mountains, buddhism",
+    "description": "It is thought in this Buddhist area of Nepal that prayer flags release blessings of compassion into wind.",
+    "date": "4/13/2001",
+    "type": "nature,religion"
+  },
+  {
+    "photoID": "nep406_prayer_stones",
+    "locationFK": 80,
+    "title": "Prayer Stones",
+    "keywords": "mountains, buddhism",
+    "description": "Prayer stones carved along paths in Nepal are thought to release blessings of compassion to those who walk by.",
+    "date": "4/13/2001",
+    "type": "nature,religion"
+  },
+  {
+    "photoID": "nep406_prayer_wheels",
+    "locationFK": 80,
+    "title": "Tengboche Prayer Wheels",
+    "keywords": "buddhism, temple",
+    "description": "When turned clockwise, prayer wheels, like this one at the Tengboche Monastery, are thought by Buddhists to release blessings of compassion.",
+    "date": "4/8/2001",
+    "type": "religion"
+  },
+  {
+    "photoID": "nep407_bodhnath_temple",
+    "locationFK": 77,
+    "title": "Bodhnath Buddhist Temple",
+    "keywords": "Buddhism, temple",
+    "description": "Buddha's eyes peer from behind prayer flags at a stupa near the massive Bodhnath temple.",
+    "date": "5/8/2001",
+    "type": "religion"
+  },
+  {
+    "photoID": "nep407_buddha_jayanti",
+    "locationFK": 77,
+    "title": "Buddha Jayanti",
+    "keywords": "buddhism, temple",
+    "description": "Crowds and incense smoke circle the stupa at Kathmandu's Monkey Temple (Swayambhunath) during Buddha Jayanti, the celebration of Buddha's birthday 2545 years ago.",
+    "date": "5/7/2001",
+    "type": "people"
+  },
+  {
+    "photoID": "nep407_durbar_market",
+    "locationFK": 77,
+    "title": "Durbar Market",
+    "keywords": "market",
+    "description": "A woman sells dried chilies, garlic, ginger, and other dry goods from a booth in Kathmandu's Durbar Square.",
+    "date": "5/8/2001",
+    "type": "people"
+  },
+  {
+    "photoID": "nep407_durbar_market_2",
+    "locationFK": 77,
+    "title": "Durbar Market 2",
+    "keywords": "market",
+    "description": "People gather to talk and buy vegetables from a market in Kathmandu's Durbar Square.",
+    "date": "5/8/2001",
+    "type": "people"
+  },
+  {
+    "photoID": "nep407_kathmandu_buddhas",
+    "locationFK": 77,
+    "title": "Kathmandu Buddhas",
+    "keywords": "market, buddhism",
+    "description": "A collection of brass Buddhas and other religious items for sale in Kathmandu.",
+    "date": "5/8/2001",
+    "type": "religion"
+  },
+  {
+    "photoID": "nep407_kathmandu_orange_sadhu",
+    "locationFK": 77,
+    "title": "Kathmandu Orange Sadhu",
+    "keywords": "hindu",
+    "description": "A sadhu, or Hindu holy man, poses for a photograph in Kathmandu's Durbar Square.",
+    "date": "5/1/2001",
+    "type": "people,religion"
+  },
+  {
+    "photoID": "nep407_kathmandu_red_sadhu",
+    "locationFK": 77,
+    "title": "Kathmandu Red Sadhu",
+    "keywords": "hindu",
+    "description": "Sadhus are Hindu holy men who live beggar-like existences in their search for enlightenment. This one lives a profitable existence in Kathmandu, charging tourists for photographs.",
+    "date": "5/1/2001",
+    "type": "people,religion"
+  },
+  {
+    "photoID": "nep407_meat_wagon",
+    "locationFK": 77,
+    "title": "Durbar Meat Wagon",
+    "keywords": "Rickshaw",
+    "description": "A rickshaw carries its bloody passenger through Durbar Square, located in the center of Kathmandu.",
+    "date": "5/8/2001",
+    "type": "people"
+  },
+  {
+    "photoID": "nep407_monkey_temple",
+    "locationFK": 77,
+    "title": "Monkey Temple",
+    "keywords": "buddhism, temple",
+    "description": "Nepalese Buddha eyes peer from the stupa of Kathmandu's Monkey Temple (Swayambhunath).",
+    "date": "5/8/2001",
+    "type": "religion"
+  },
+  {
+    "photoID": "nep407_severed_head",
+    "locationFK": 77,
+    "title": "Severed Head",
+    "keywords": "animal",
+    "description": "A slaughtered goat gets butchered in Kathmandu, Nepal.",
+    "date": "5/7/2001",
+    "type": "people,miscellaneous"
+  },
+  {
+    "photoID": "nep407_temple_whitewash",
+    "locationFK": 77,
+    "title": "Temple Whitewash",
+    "keywords": "buddhism, temple",
+    "description": "Two men try to keep the stupa at Kathmandu's Monkey Temple (Swayambhunath) brightly whitewashed during an important Buddhist celebration.",
+    "date": "5/7/2001",
+    "type": "people,religion"
+  },
+  {
+    "photoID": "nep407_woman_with_stupa",
+    "locationFK": 77,
+    "title": "Woman with Stupa",
+    "keywords": "buddhism, temple, woman",
+    "description": "A woman stands next to Kathmandu's Monkey Temple (Swayambhunath) during Buddha Jayanti, the celebration of Buddha's birthday 2545 years ago.",
+    "date": "5/7/2001",
+    "type": "people"
+  },
+  {
+    "photoID": "nep408_big_calf_nose",
+    "locationFK": 79,
+    "title": "Big Calf Nose",
+    "keywords": "animal",
+    "description": "A calf gets a closer look at my camera lens.",
+    "date": "4/21/2001",
+    "type": "nature"
+  },
+  {
+    "photoID": "nep408_gokyo_lake",
+    "locationFK": 81,
+    "title": "Gokyo Lake",
+    "keywords": "blue, white, lake",
+    "description": "The ice covered surface of the 3rd Gokyo lake.",
+    "date": "4/19/2001",
+    "type": "nature"
+  },
+  {
+    "photoID": "nep408_rickshaws_wait",
+    "locationFK": 77,
+    "title": "Rickshaws Wait",
+    "keywords": "rickshaws",
+    "description": "Four rickshaw drivers wait for business on a busy Kathmandu street.",
+    "date": "5/1/2001",
+    "type": "people"
+  },
+  {
+    "photoID": "nep410_durbar_market_3",
+    "locationFK": 77,
+    "title": "Durbar Market 3",
+    "keywords": "market",
+    "description": "A woman buys oranges from a vender who carts his goods around on his bicycle.",
+    "date": "5/1/2001",
+    "type": "people"
+  },
+  {
+    "photoID": "nep410_kathmandu_rickshaw",
+    "locationFK": 77,
+    "title": "Kathmandu Rickshaw",
+    "keywords": "color",
+    "description": "Colorful decorations adorn the back of a Nepalese rickshaw.",
+    "date": "5/1/2001",
+    "type": "miscellaneous"
+  },
+  {
+    "photoID": "nep410_kathmandu_skyline",
+    "locationFK": 77,
+    "title": "Kathmandu Skyline",
+    "keywords": "city, building",
+    "description": "A view from up high of Kathmandu's skyline.",
+    "date": "5/8/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "net704_febo_2",
+    "locationFK": 117,
+    "title": "Febo Vending Machines 2",
+    "keywords": "vending, food",
+    "description": "A vending machine restaurant in Amsterdam, selling food behind glass windows like the nearby red light district sells women.",
+    "date": "8/15/2001",
+    "type": "miscellaneous"
+  },
+  {
+    "photoID": "net704_peep_show_sign",
+    "locationFK": 117,
+    "title": "Peep Show Sign",
+    "keywords": "prostitution, night, sign, sex",
+    "description": "A neon sign in Amsterdam's Red Light District steps from a picturesque canal in a surprisingly upscale neighborhood. Here women behind glass windows project steamy looks to passers-by. Despite its seedy reputation, the area draws plenty of curious tourists just visiting for a look around.",
+    "date": "8/15/2001",
+    "type": "miscellaneous"
+  },
+  {
+    "photoID": "net704_red_light",
+    "locationFK": 117,
+    "title": "Amsterdam's Red Light District",
+    "keywords": "prostitution, night, street, sex",
+    "description": "The night crowd walks through Amsterdam's Red Light District, located in a surprisingly upscale area of the city along a picturesque canal. Here women behind glass windows project steamy looks to passers-by. Despite its seedy reputation, the area draws plenty of curious tourists just visiting for a look around.",
+    "date": "8/15/2001",
+    "type": "architecture, people"
+  },
+  {
+    "photoID": "nwz203_glacial_valley",
+    "locationFK": 19,
+    "title": "Glacial Valley",
+    "keywords": "mountain",
+    "description": "A view on the hike up to the Rob Roy Glacier, south island of New Zealand.",
+    "date": "8/20/2000",
+    "type": "nature"
+  },
+  {
+    "photoID": "nwz203_jackson_bay",
+    "locationFK": 141,
+    "title": "Jackson Bay",
+    "keywords": "blue, water",
+    "description": "The quiet and tranquil Jackson Bay in the south island of New Zealand.",
+    "date": "8/21/2000",
+    "type": "nature"
+  },
+  {
+    "photoID": "nwz203_neils_beach",
+    "locationFK": 142,
+    "title": "Neils Beach",
+    "keywords": "rainbow, beach, water",
+    "description": "Late afternoon sun and misty sky meet to form a rainbow over Neils Beach in the south island of New Zealand.",
+    "date": "8/21/2000",
+    "type": "nature",
+    "objectPosition": "50% 35%"
+  },
+  {
+    "photoID": "nwz207_nz_lake",
+    "locationFK": 20,
+    "title": "NZ Lake",
+    "keywords": "lake, water",
+    "description": "Far-off mountains are reflected from the flat surface of a quiet lake on the south island of New Zealand.",
+    "date": "8/15/2000",
+    "type": "nature",
+    "objectPosition": "50% 95%"
+  },
+  {
+    "photoID": "nwz210_franz_josef_glacier",
+    "locationFK": 22,
+    "title": "Franz Josef Glacier",
+    "keywords": "ice, cave, glacier",
+    "description": "Looking out of an ice cave formed in the Franz Josef Glacier on the south island of New Zealand.",
+    "date": "8/23/2000",
+    "type": "nature"
+  },
+  {
+    "photoID": "nwz310_whare_carving",
+    "locationFK": 17,
+    "title": "Whare Carving",
+    "keywords": "carving, art",
+    "description": "A carving on a Maori meeting house, part of the indigenous culture of New Zealand.",
+    "date": "8/27/2001",
+    "type": "miscellaneous"
+  },
+  {
+    "photoID": "pan000_red_fish",
+    "locationFK": 148,
+    "title": "Red Fish",
+    "keywords": "fish",
+    "description": "Smoked fish, bought from an old Kuna Indian, in the San Blas archipelago. (Photo taken by Michelle Wee)",
+    "date": "3/26/2002",
+    "type": "nature"
+  },
+  {
+    "photoID": "pan1001_palm_leaf_1",
+    "locationFK": 4,
+    "title": "Palm Leaf 1",
+    "keywords": "palm",
+    "description": "A closeup of a palm leaf.",
+    "date": "3/26/2002",
+    "type": "nature",
+    "story": 6
+  },
+  {
+    "photoID": "pan1001_palm_leaf_2",
+    "locationFK": 4,
+    "title": "Palm Leaf 2",
+    "keywords": "palm",
+    "description": "A closeup of a palm leaf.",
+    "date": "3/26/2002",
+    "type": "nature",
+    "story": 4  
+  },
+  {
+    "photoID": "pan101_guadalupe",
+    "locationFK": 10,
+    "title": "Guadalupe",
+    "keywords": "flower",
+    "description": "Flowers surround a home in the highlands of central Panama.",
+    "date": "7/4/2000",
+    "type": "nature,architecture"
+  },
+  {
+    "photoID": "pan103_fortuna_mud",
+    "locationFK": 8,
+    "title": "Fortuna Mud",
+    "keywords": "mud",
+    "description": "My trusty mud-splattered Tevas after a hike through the rainforest during rainy season. \nI wore these Tevas almost everyday for 16 months while walking all over the world. Now back home, I still wear the same pair every chance I get.",
+    "date": "6/25/2000",
+    "type": "miscellaneous"
+  },
+  {
+    "photoID": "pan104_pokemon_fruit",
+    "locationFK": 4,
+    "title": "Pokemon Fruit",
+    "keywords": "plant",
+    "description": "For the lack of a real name, I will call this plant the Pokemon fruit.",
+    "date": "6/13/2000",
+    "type": "nature",
+    "story": 20
+  },
+  {
+    "photoID": "pan105_panama_city",
+    "locationFK": 2,
+    "title": "Panama City",
+    "keywords": "city",
+    "description": "Skyline of Panama City.",
+    "date": "7/11/2000",
+    "type": "architecture"
+  },
+  {
+    "photoID": "rom601_clock_tower",
+    "locationFK": 102,
+    "title": "Sighisoara Clock Tower",
+    "keywords": "Medieval, village, Vlad, Dracula, Transylvania, clock tower, street, town",
+    "description": "Transylvania's Sighisoara clock tower, a 14th century building overlooking the birthplace of Vlad Tepes (aka Dracula).",
+    "date": "7/7/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "rom601_window",
+    "locationFK": 102,
+    "title": "Sighisoara",
+    "keywords": "Medieval, village, Vlad, Dracula, Transylvania, street, town, window",
+    "description": "A window in the picturesque Transylvanian town of Sighisoara, the birthplace of Vlad Tepes (aka Dracula).",
+    "date": "7/7/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "rom604_brasov_street",
+    "locationFK": 101,
+    "title": "Brasov Street",
+    "keywords": "Cobblestone, historic, Transylvania, buildings, street",
+    "description": "A quaint cobblestone street in medieval Brasov, a town of over 300,000 located in Transylvania (Romania).",
+    "date": "7/6/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "rom604_dry_fountain",
+    "locationFK": 98,
+    "title": "Dry Fountain",
+    "keywords": "Communist, building, avenue",
+    "description": "A grand boulevard built as part of an ideal Communist city by former Romanian dictator Nicolae Ceausescu.  Ceausescu and his wife bankrupted the Romanian economy and were executed by firing squad in 1989 during the Romanian revolution. The fountain remains dry.\nThe Romanian Parliament building (Parlamentul Romanie), formerly known as the People's Palace, is the legacy of Communist dictator Nicolae Ceausescu. Its rich interior includes heavily polished marble floors and columns, exquisite chandeliers, and gilded wood ceilings, and holds the record as being the second largest building in the world after the US Pentagon. Its construction wasted millions of dollars at a time when Romania suffered from food shortages. Ceausescu and his wife were executed by firing squad in 1989.",
+    "date": "7/3/2001",
+    "type": "architecture,politics"
+  },
+  {
+    "photoID": "rom604_pelis_castle_1",
+    "locationFK": 100,
+    "title": "Pelis Castle 1",
+    "keywords": "castle, Transylvania, German Renaissance",
+    "description": "The Pelis Castle, the summer residence of German/Romanian King Carol.  Built in the German-Renaissance style between 1875 and 1914.",
+    "date": "7/4/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "rom604_pelis_castle_2",
+    "locationFK": 100,
+    "title": "Pelis Castle 2",
+    "keywords": "castle, Transylvania, German Renaissance",
+    "description": "The Pelis Castle, the summer residence of German/Romanian King Carol.  Built in the German-Renaissance style between 1875 and 1914.",
+    "date": "7/4/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "rom604_pelis_castle_statue",
+    "locationFK": 100,
+    "title": "Pelis Castle Statue",
+    "keywords": "castle, Transylvania, German Renaissance",
+    "description": "A statue stands out front of the Pelis Castle, the summer residence of German/Romanian King Carol.  Built in the German-Renaissance style between 1875 and 1914.",
+    "date": "7/4/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "rom604_peoples_palace",
+    "locationFK": 98,
+    "title": "People's Palace",
+    "keywords": "Communist, building",
+    "description": "The Romanian Parliament building (Parlamentul Romanie), formerly known as the People's Palace, is the legacy of Communist dictator Nicolae Ceausescu. Its rich interior includes heavily polished marble floors and columns, exquisite chandeliers, and gilded wood ceilings, and holds the record as being the second largest building in the world after the US Pentagon. Its construction wasted millions of dollars at a time when Romania suffered from food shortages. Ceausescu and his wife were executed by firing squad in 1989.",
+    "date": "7/3/2001",
+    "type": "architecture,political"
+  },
+  {
+    "photoID": "sam208_samoan_bus",
+    "locationFK": 143,
+    "title": "Samoan Bus",
+    "keywords": "bus",
+    "description": "The colorful wooden buses of Samoa - where it is not uncommon for passengers to sit on each other's laps on a crowded bus.",
+    "date": "8/6/2000",
+    "type": "miscellaneous"
+  },
+  {
+    "photoID": "sam208_seaside_plants",
+    "locationFK": 15,
+    "title": "Seaside Plants",
+    "keywords": "colorful, plant",
+    "description": "Bright yellow plants against the blue South Pacific Ocean, Samoa.",
+    "date": "7/31/2000",
+    "type": "nature"
+  },
+  {
+    "photoID": "sam208_smiling_children",
+    "locationFK": 15,
+    "title": "Smiling Children",
+    "keywords": "children",
+    "description": "Beautiful Samoan smiles.",
+    "date": "7/31/2000",
+    "type": "people"
+  },
+  {
+    "photoID": "sin306_singapore_market",
+    "locationFK": 26,
+    "title": "Singapore Market",
+    "keywords": "market, food",
+    "description": "One of many large food markets in Singapore. The basement floor featured in this photo sells meat, vegetables, and fish, while the second floor features row after row of fun yet inexpensive food stalls.",
+    "date": "8/31/2000",
+    "type": "miscellaneous"
+  },
+  {
+    "photoID": "sin306_singapore_skyline",
+    "locationFK": 28,
+    "title": "Singapore Skyline",
+    "keywords": "building",
+    "description": "Part of the Singapore skyline.",
+    "date": "8/31/2000",
+    "type": "architecture"
+  },
+  {
+    "photoID": "slo710_julian_alps",
+    "locationFK": 134,
+    "title": "Julian Alps",
+    "keywords": "mountains, trees, valley, river",
+    "description": "As they say in Slovenia, \"\"Welcome to the sunny side of the Alps.\"\"  A cool alpine river flows through a green valley on a pleasant summer day.",
+    "date": "7/21/2001",
+    "type": "nature"
+  },
+  {
+    "photoID": "slo710_opera_building",
+    "locationFK": 109,
+    "title": "Opera Building",
+    "keywords": "historic, building, neo Renaissance",
+    "description": "The 1882 Opera building in Slovenia's capital of Ljubljana, constructed in the neo-Renaissance style by Czech architects Hrasky and Hruby.",
+    "date": "7/23/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "slo710_slovenian_dragon",
+    "locationFK": 109,
+    "title": "Slovenian Dragon",
+    "keywords": "bridge, animal",
+    "description": "A dragon guards the threshold of the Dragon Bridge (Zmajski Most), built 1901, in Slovenia's capital Ljubljana.",
+    "date": "7/23/2001",
+    "type": "miscellaneous"
+  },
+  {
+    "photoID": "slo710_slovenian_market",
+    "locationFK": 109,
+    "title": "Slovenian River and Market",
+    "keywords": "building, river",
+    "description": "The facade of Ljubljana's produce market lies adjacent to the picturesque Ljubljanica River.",
+    "date": "7/23/2001",
+    "type": "architecture,nature"
+  },
+  {
+    "photoID": "slo710_slovenian_riverfront",
+    "locationFK": 109,
+    "title": "Slovenian Riverfront",
+    "keywords": "building, river, historic",
+    "description": "The historic buildings along the Ljubljanica River.",
+    "date": "7/23/2001",
+    "type": "architecture,nature"
+  },
+  {
+    "photoID": "slo710_triple_bridge",
+    "locationFK": 109,
+    "title": "Triple Bridge",
+    "keywords": "bridge, building, historic",
+    "description": "The Triple Bridge (Tromostavje), originally opened in 1842, crosses the Ljubljanica River in the Slovenian capital of Ljubljana.",
+    "date": "7/23/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "slo710_village_doorway",
+    "locationFK": 135,
+    "title": "Village Doorway",
+    "keywords": "arch, sunlight, sunset, stone",
+    "description": "Sunset streams in through an arch in the small Slovenian village of Stanjel. The village lays somewhere between historic ruins and a living town, hosting a castle and overgrown gardens.",
+    "date": "7/21/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "spa705_basque_party",
+    "locationFK": 120,
+    "title": "Basque Soccer Party",
+    "keywords": "sport, Basque, soccer, football, street, party",
+    "description": "The soccer season starts in the Basque city of San Sebastian with a party several hours before the opening game. But the game represents more than sport, as a Basque separatist banner hangs over the street. San Sebastian is playing the nearby Basque city of Bilbao, so the fans of both teams drink together.",
+    "date": "8/26/2001",
+    "type": "people,politics"
+  },
+  {
+    "photoID": "spa708_pedrera_roof_4",
+    "locationFK": 132,
+    "title": "The Pedrera Roof Four",
+    "keywords": "Gaudi, building, strange",
+    "description": "Modernist chimneys on the rooftop of the Pedrera, an apartment building designed by Antoni Gaudi. Gaudi's influence in Barcelona's modernist movement reached its highpoint in the unfinished, yet still magnificent, La Sagrada Familia Cathedral.",
+    "date": "8/31/2001",
+    "type": "architecture,miscellaneous"
+  },
+  {
+    "photoID": "spa708_pedrera_roof_group",
+    "locationFK": 132,
+    "title": "The Pedrera Roof Group",
+    "keywords": "Gaudi, building, strange",
+    "description": "Modernist chimneys on the rooftop of the Pedrera, an apartment building designed by Antoni Gaudi. Gaudi's influence in Barcelona's modernist architecture movement reached its highpoint in the unfinished, yet still magnificent, La Sagrada Familia Cathedral.",
+    "date": "8/31/2001",
+    "type": "architecture,miscellaneous"
+  },
+  {
+    "photoID": "spa709_church_candles",
+    "locationFK": 120,
+    "title": "Church Candles",
+    "keywords": "Church, candles, light, red",
+    "description": "Red church candles offer prayers in a San Sebastian Catholic church.",
+    "date": "8/29/2001",
+    "type": "religion"
+  },
+  {
+    "photoID": "spa709_human_statue_black",
+    "locationFK": 132,
+    "title": "Human Statue Black",
+    "keywords": "statue, black, strange, busker, performer",
+    "description": "The tree-lined pedestrian area of Barcelona's La Rambla attracts tourists, locals, and street performers such as this human statue. This black bandit stands still until offered a coin, then he turns into a fountain, pouring mysterious liquid into an oil pan below his feet.",
+    "date": "8/30/2001",
+    "type": "miscellaneous,people"
+  },
+  {
+    "photoID": "spa709_human_statue_brown",
+    "locationFK": 132,
+    "title": "Human Statue Black",
+    "keywords": "statue, brown, strange, busker, performer",
+    "description": "The tree-lined pedestrian area of Barcelona's La Rambla attracts tourists, locals, and street performers such as this human statue. This brown soldier stands still until offered a coin, then he gives an inspiring John Wayne salute and a wink.",
+    "date": "8/30/2001",
+    "type": "miscellaneous,people"
+  },
+  {
+    "photoID": "spa709_human_statue_gold",
+    "locationFK": 132,
+    "title": "Human Statue Gold",
+    "keywords": "statue, gold, strange, busker, performer",
+    "description": "The tree-lined pedestrian area of Barcelona's La Rambla attracts tourists, locals, and street performers such as these human statues. This gold couple stands still until offered a coin, then they move slowly into position for photographs with the kids.",
+    "date": "8/30/2001",
+    "type": "miscellaneous,people"
+  },
+  {
+    "photoID": "spa709_street_performer",
+    "locationFK": 132,
+    "title": "Street Performer",
+    "keywords": "performer, strange, busker, performer",
+    "description": "The tree-lined pedestrian area of Barcelona's La Rambla attracts tourists, locals, and street performers such as this colorful clown who plays a pan flute with a bird on head to the accompaniment of his howling dressed up mutt.",
+    "date": "8/30/2001",
+    "type": "miscellaneous,people"
+  },
+  {
+    "photoID": "spa709_tapas_spread",
+    "locationFK": 120,
+    "title": "Tapas Spread",
+    "keywords": "Food, bar, restaurant",
+    "description": "Why sit down to eat when you can pick and choose your food at the bar? The range of tapas at most San Sebastian bars overwhelms you with choices. Just remember the honor system applies when you tell the bartender how much you ate!",
+    "date": "8/29/2001",
+    "type": "miscellaneous"
+  },
+  {
+    "photoID": "spa717_olympic_stadium_1",
+    "locationFK": 132,
+    "title": "Olympic Stadium 1",
+    "keywords": "stadium, sport",
+    "description": "Barcelona's 1992 Olympic Stadium (Estadi Olímpic) has a permanent capacity of 55,000 and can fit up to 77,000 with temporary seating.",
+    "date": "9/1/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "spa717_olympic_stadium_2",
+    "locationFK": 132,
+    "title": "Olympic Stadium 2",
+    "keywords": "stadium, sport",
+    "description": "Barcelona's 1992 Olympic Stadium (Estadi Olímpic) has a permanent capacity of 55,000 and can fit up to 77,000 with temporary seating.",
+    "date": "9/1/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "svk703_apartment",
+    "locationFK": 113,
+    "title": "Slovakian Apartment",
+    "keywords": "communist, building, apartment",
+    "description": "An ugly apartment block from Slovakia's Communist past.",
+    "date": "7/31/2001",
+    "type": "architecture,politics"
+  },
+  {
+    "photoID": "svk703_bratislava_square",
+    "locationFK": 113,
+    "title": "Bratislava Square",
+    "keywords": "street, square, pedestrian, historic, building, clock tower",
+    "description": "The old town hall (1421) in central Bratislava stands next to the pedestrian-only square Hlavné Nám.",
+    "date": "7/31/2001",
+    "type": "architecture,people"
+  },
+  {
+    "photoID": "svk703_cafes",
+    "locationFK": 113,
+    "title": "Bratislava Cafes",
+    "keywords": "cafe, street, pedestrian, historic, building, clock tower",
+    "description": "The Michael Tower surveys a lively area in central Bratislava. This pedestrian-only section of old town features so many umbrella-covered tables that it won my hands-down award for most cafés per person of any city in Europe.",
+    "date": "7/31/2001",
+    "type": "architecture,people"
+  },
+  {
+    "photoID": "svk707_apartment_car",
+    "locationFK": 113,
+    "title": "Slovakian Apartment with Car",
+    "keywords": "communist, building, apartment, car",
+    "description": "An ugly apartment block from Slovakia's Communist past.",
+    "date": "7/31/2001",
+    "type": "architecture,politics"
+  },
+  {
+    "photoID": "tai310_sukhothai_buddha_hand",
+    "locationFK": 47,
+    "title": "Sukhothai Buddha Hand",
+    "keywords": "buddhism, statue",
+    "description": "A marigold garland rests peacefully on the hand of Buddha.",
+    "date": "11/9/2000",
+    "type": "miscellaneous,religion",
+    "story": 87
+  },
+  {
+    "photoID": "tai310_sukhothai_elephant",
+    "locationFK": 47,
+    "title": "Sukhothai Elephant Chedi",
+    "keywords": "elephant, animal, buddhism, statue",
+    "description": "Elephants decorate the base of this historic chedi  in Sukhothai.\nSukhothai was the capital of Siam during the 13th and 14th centuries. The historic area of the city was inscribed as a Unesco site in 1991.",
+    "date": "11/9/2000",
+    "type": "architecture,religion"
+  },
+  {
+    "photoID": "tai310_thai_kid_with_gun",
+    "locationFK": 47,
+    "title": "Thai Kid with Gun",
+    "keywords": "kid, buddha",
+    "description": "A Thai child cradles a realistic toy pistol while under the watchful eye of Buddha.",
+    "date": "11/9/2000",
+    "type": "people,religion"
+  },
+  {
+    "photoID": "tai310_wat_po_temple",
+    "locationFK": 46,
+    "title": "Wat Po",
+    "keywords": "temple, buddhism",
+    "description": "The chedis of Wat Po (Wat Phra Chetupon), Bangkok's largest and oldest Buddhist temple. Aside from its size and architectural majesty, Wat Po is famous for housing the 46-meter long reclining Buddha and for being the premier school of traditional Thai massage.",
+    "date": "11/6/2000",
+    "type": "architecture,religion",
+    "story": 81,
+    "objectPosition": "50% 60%"
+  },
+  {
+    "photoID": "tai312_lotus_pond",
+    "locationFK": 59,
+    "title": "Thai Lotus Pond",
+    "keywords": "flower",
+    "description": "A serene lotus pond in northern Thailand.",
+    "date": "11/11/2001",
+    "type": "nature"
+  },
+  {
+    "photoID": "tai312_thai_kids",
+    "locationFK": 59,
+    "title": "Thai Kids",
+    "keywords": "children",
+    "description": "Five Thai kids flash big smiles and try to impress us with their phrases of broken English, \"\"Hello, how are you, I am fine...\"\"",
+    "date": "11/11/2001",
+    "type": "people"
+  },
+  {
+    "photoID": "tai313_wat_chiang_man_elephant",
+    "locationFK": 54,
+    "title": "Wat Chiang Man Elephant",
+    "keywords": "temple, buddhism, sculpture",
+    "description": "An elephant stands watch over Wat Chiang Man, the oldest Buddhist temple in Chiang Mai - built in 1296.",
+    "date": "12/30/2000",
+    "type": "architecture,religion"
+  },
+  {
+    "photoID": "tai313_wat_jet_yot",
+    "locationFK": 54,
+    "title": "Wat Jet Yot",
+    "keywords": "buddhism, historical",
+    "description": "Reliefs carved on the outside of the Buddhist temple Wat Jet Yot.",
+    "date": "1/2/2001",
+    "type": "religion",
+    "story": 98
+  },
+  {
+    "photoID": "tai313_wat_phan_tao_roof",
+    "locationFK": 54,
+    "title": "Wat Phan Tao Roof",
+    "keywords": "temple, buddhism",
+    "description": "The sloping wooden roof of Wat Phan Tao in Chiang Mai, Thailand is a prime example of the northern Thai \"\"Lanna style\"\" temple architecture.",
+    "date": "12/30/2000",
+    "type": "architecture,religion",
+    "story": 98
+  },
+  {
+    "photoID": "tai313_wat_phra_singh_carving_1",
+    "locationFK": 54,
+    "title": "Wat Phra Singh Carving",
+    "keywords": "temple, buddhism",
+    "description": "An intricate carving adorns a door in the northern Thai temple of Wat Phra Singh (1343 AD), also known as Wat Lee Chiang Phra.",
+    "date": "12/30/2000",
+    "type": "architecture,religion"
+  },
+  {
+    "photoID": "tai313_wat_phra_singh_carving_2",
+    "locationFK": 54,
+    "title": "Wat Phra Singh Carving",
+    "keywords": "temple, buddhism",
+    "description": "An intricate carving adorns a door in the northern Thai temple of Wat Phra Singh (1343 AD), also known as Wat Lee Chiang Phra.",
+    "date": "12/30/2000",
+    "type": "architecture,religion"
+  },
+  {
+    "photoID": "tai313_wat_phra_that_doi_suthep",
+    "locationFK": 54,
+    "title": "Wat Phra That Doi Suthep",
+    "keywords": "temple, buddhism",
+    "description": "The stupa is the centerpiece of the Doi Suthep temple, which was established in 1383 and overlooks the city of Chiang Mai from an altitude of over 1600m.",
+    "date": "12/22/2000",
+    "type": "architecture,religion"
+  },
+  {
+    "photoID": "tai313_wat_suan_dawk",
+    "locationFK": 54,
+    "title": "Wat Suan Dawk",
+    "keywords": "temple, buddhism, statue",
+    "description": "Statuettes of revered monks and Buddha adorn the Suan Dawk temple in Chiang Mai, Thailand.",
+    "date": "12/30/2000",
+    "type": "miscellaneous,religion"
+  },
+  {
+    "photoID": "tai314_lotus_blossom",
+    "locationFK": 46,
+    "title": "Thai Lotus Blossom",
+    "keywords": "flower, lotus, buddhism",
+    "description": "A lotus blossom in Thai Buddhism is thought to rise from the water skyward the way the Buddha rises from earthly suffering towards enlightenment.",
+    "date": "1/30/2001",
+    "type": "nature",
+    "story": 79
+  },
+  {
+    "photoID": "tai314_suan_mokkh_monk",
+    "locationFK": 64,
+    "title": "Suan Mokkh Monk",
+    "keywords": "monk, buddhism",
+    "description": "The abbot of <a href=\"\"http://www.suanmokkh.org/\"\">Wat Suan Mokkh</a> meditates during sunrise. This Thai Buddhist temple runs ten day silent meditation retreats in English for foreigners.",
+    "date": "2/11/2001",
+    "type": "people,religion"
+  },
+  {
+    "photoID": "tai319_fruit_vendor",
+    "locationFK": 47,
+    "title": "Thai Fruit Vendor",
+    "keywords": "woman, market, vendor",
+    "description": "A Thai woman sells fruit on street in Sukhothai.",
+    "date": "11/10/2000",
+    "type": "people",
+    "story": 82,
+    "objectPosition": "25% 5%"
+  },
+  {
+    "photoID": "tai319_rai_leh_beach1",
+    "locationFK": 48,
+    "title": "Rai Leh Beach 1",
+    "keywords": "beach",
+    "description": "The sun sets on Rai Leh beach, near Krabi, Thailand.",
+    "date": "11/1/2001",
+    "type": "nature"
+  },
+  {
+    "photoID": "tai319_vegetable_vendor",
+    "locationFK": 47,
+    "title": "Thai Vegetable  Vendor",
+    "keywords": "woman, market, vendor",
+    "description": "A Thai woman sells vegetables on street in Sukhothai.",
+    "date": "11/10/2000",
+    "type": "people",
+    "story": 82
+  },
+  {
+    "photoID": "tai320_chuey",
+    "locationFK": 44,
+    "title": "Chuey",
+    "keywords": "red",
+    "description": "Chuey relaxes from a long day spent taking care of bungalows on the beach.",
+    "date": "10/22/2000",
+    "type": "people",
+    "objectPosition": "50% 15%"
+  },
+  {
+    "photoID": "tai320_thai_sea_gypsy_boat",
+    "locationFK": 44,
+    "title": "Thai Sea Gypsy Boat",
+    "keywords": "boat, colorful",
+    "description": "A colorful Thai sea gypsy boat is decorated with streamers that help to keep the sailors safe.",
+    "date": "10/27/2000",
+    "type": "miscellaneous",
+    "story": 76,
+    "objectPosition": "50% 50%"
+  },
+  {
+    "photoID": "tai320_thai_seascape",
+    "locationFK": 44,
+    "title": "Thai Seascape",
+    "keywords": "water, beach",
+    "description": "Receding tide and big sky.",
+    "date": "10/27/2000",
+    "type": "nature",
+    "story": 71,
+    "objectPosition": "50% 80%"
+  },
+  {
+    "photoID": "tai320_thai_tidal_area",
+    "locationFK": 44,
+    "title": "Thai Tidal Area",
+    "keywords": "water, beach",
+    "description": "The receding tide leaves acres of ripples in the sand.",
+    "date": "10/27/2000",
+    "type": "nature"
+  },
+  {
+    "photoID": "tai321_rai_leh_beach2",
+    "locationFK": 48,
+    "title": "Rai Leh Beach 2",
+    "keywords": "beach",
+    "description": "The beautiful seashore in Rai Leh beach, near Krabi, Thailand. This photo was taken from inside a cave near the top of a cliff.",
+    "date": "11/1/2001",
+    "type": "nature"
+  },
+  {
+    "photoID": "tur501_church_ruins",
+    "locationFK": 93,
+    "title": "Church Ruins",
+    "keywords": "building, ruin",
+    "description": "The ruins of a church in the abandoned Turkish city of Kayakoy, or Kaya. Two thousand homes here once hosted a thriving community of Greeks, but were abandoned when the majority of Greek people were expelled from Turkey in 1922 following the Turkish War of Independence.",
+    "date": "6/8/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "tur501_dry_travertine_pool",
+    "locationFK": 92,
+    "title": "Dry Travertine Pool",
+    "keywords": "texture",
+    "description": "A dry travertine pool in Pamukkale, Turkey, formed by years of calcium deposits by the area's mineral-rich waters. The water flow in this pool has been turned off temporarily to allow the calcium to dry, repairing damage from years of unchecked tourism.",
+    "date": "6/6/2001",
+    "type": "nature"
+  },
+  {
+    "photoID": "tur501_hierapolis_ruins",
+    "locationFK": 92,
+    "title": "Hierapolis Ruins",
+    "keywords": "historical",
+    "description": "Ruins on Frontinus Street in the ancient Roman spa city of Hierapolis, near Pamukkale, Turkey. The area was established around 190 BC for its warm carbonated curative waters and it is believed that St. Phillip was martyred in the city in 80 AD.",
+    "date": "6/6/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "tur501_travertine_pool",
+    "locationFK": 92,
+    "title": "Pamukkale Travertine Pool",
+    "keywords": "water, mountain",
+    "description": "A travertine pool in Pamukkale, Turkey, formed by years of calcium deposits by the area's mineral-rich waters. The ancient Roman spa city of Hierapolis rests nearby this area, making Pamukkale important enough for UNESCO to declare it a World Heritage Site.",
+    "date": "6/6/2001",
+    "type": "nature"
+  },
+  {
+    "photoID": "tur501_white_travertine_pool",
+    "locationFK": 92,
+    "title": "White Travertine Pool",
+    "keywords": "texture, white",
+    "description": "A travertine pool in Pamukkale, Turkey, formed by years of calcium deposits by the area's mineral-rich waters. The ancient Roman spa city of Hierapolis rests nearby this area, making Pamukkale important enough for UNESCO to declare it a World Heritage Site.",
+    "date": "6/6/2001",
+    "type": "nature"
+  },
+  {
+    "photoID": "tur503_celsus_library",
+    "locationFK": 90,
+    "title": "Library of Celsus Façade",
+    "keywords": "historical, building, library, ruin",
+    "description": "Looking up at the Library of Celsus, a monument and library erected in 114 AD by the Roman leader Tiberius Julius Aquila in honor of his deceased father, Tiberius Julius Celsus Polemaeanus. At its peak, this library held up to 12,000 scrolls.",
+    "date": "6/6/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "tur503_turkish_women_cooking",
+    "locationFK": 90,
+    "title": "Turkish Women Cooking",
+    "keywords": "women, food",
+    "description": "Two Turkish women cook a stuffed pancake-like dish in a wood stove. My feta and spinach order was very similar to a quesadilla or papusa.",
+    "date": "6/6/2001",
+    "type": "people"
+  },
+  {
+    "photoID": "tur503_under_celsus",
+    "locationFK": 90,
+    "title": "Under the Library of Celsus",
+    "keywords": "historical, building, library",
+    "description": "Looking up at the Library of Celsus, a monument and library erected in 114 AD by the Roman leader Tiberius Julius Aquila in honor of his deceased father, Tiberius Julius Celsus Polemaeanus. At its peak, this library held up to 12,000 scrolls.",
+    "date": "6/6/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "tur506_caravanserai_bird",
+    "locationFK": 121,
+    "title": "Caravanserai Bird",
+    "keywords": "bird, historic",
+    "description": "A bird escapes through an opening of the roof of a Turkish caravanserai. This building was one of many built by the Turkish government every 40-45 km along the Silk Road from China as a resting place and fortress for caravans. Here travelers could buy replacement camels and horses, have their animals treated, and stay for up to three days without payment. The system was paid for by a 10% tax on goods levied upon all caravans as they entered the country.",
+    "date": "6/17/2001",
+    "type": "miscellaneous"
+  },
+  {
+    "photoID": "tur506_cave_home_1",
+    "locationFK": 121,
+    "title": "Cave Home 1",
+    "keywords": "Fairy Chimney, blue, rock, home",
+    "description": "The unusual cave homes of Turkish Cappadocia, carved into the soft stone by residents since the early Christian times. The soft stone, called tuff, is made of volcanic ash from an eruption some 10 million years ago.",
+    "date": "6/17/2001",
+    "type": "architecture,nature"
+  },
+  {
+    "photoID": "tur506_cave_home_2",
+    "locationFK": 121,
+    "title": "Cave Home 2",
+    "keywords": "Fairy Chimney, blue, rock, home",
+    "description": "The unusual cave homes of Turkish Cappadocia, carved into the soft stone by residents since the early Christian times. The soft stone, called tuff, is made of volcanic ash from an eruption some 10 million years ago.",
+    "date": "6/17/2001",
+    "type": "architecture,nature"
+  },
+  {
+    "photoID": "tur506_fairy_chimneys",
+    "locationFK": 121,
+    "title": "Fairy Chimneys",
+    "keywords": "Fairy Chimney, blue, rock",
+    "description": "The unusual rock formations of Turkish Cappadocia, formed by differential erosion between a top layer of hard rock and a bottom layer of soft stone. The soft stone, called tuff, is made of volcanic ash from an eruption some 10 million years ago.",
+    "date": "6/17/2001",
+    "type": "nature"
+  },
+  {
+    "photoID": "tur506_safranbolu_mosque_1",
+    "locationFK": 105,
+    "title": "Safranbolu Mosque 1",
+    "keywords": "mosque",
+    "description": "A several-hundred-year-old mosque in the Turkish town of Safranbolu. Safranbolu's historic architecture has qualified it as Unesco World Heritage site.",
+    "date": "6/21/2001",
+    "type": "architecture,religion"
+  },
+  {
+    "photoID": "tur506_safranbolu_mosque_2",
+    "locationFK": 105,
+    "title": "Safranbolu Mosque 2",
+    "keywords": "mosque",
+    "description": "A several-hundred-year-old mosque in the Turkish town of Safranbolu. Safranbolu's historic architecture has qualified it as Unesco World Heritage site.",
+    "date": "6/21/2001",
+    "type": "architecture,religion"
+  },
+  {
+    "photoID": "tur506_turkish_moon",
+    "locationFK": 121,
+    "title": "Turkish Crescent Moon",
+    "keywords": "moon, sunset, mountains",
+    "description": "The crescent moon and star, similar to the Turkish flag, hangs over the mountains of Cappadocia.",
+    "date": "6/17/2001",
+    "type": "nature"
+  },
+  {
+    "photoID": "tur510_cave1",
+    "locationFK": 121,
+    "title": "Cappadocia Cave 1",
+    "keywords": "Goreme, Rose Valley, cave, rock formation, tuff",
+    "description": "A path through a cave in Cappadocia's Rose Valley. The area is known for its cave dwellings and unusual rock formations made from tuff, a soft stone composed of volcanic ash.",
+    "date": "6/17/2001",
+    "type": "nature"
+  },
+  {
+    "photoID": "tur510_cave2",
+    "locationFK": 121,
+    "title": "Cappadocia Cave 2",
+    "keywords": "Goreme, Rose Valley, cave, rock formation, tuff",
+    "description": "A path by a cave in Cappadocia's Rose Valley. The area is known for its cave dwellings and unusual rock formations made from tuff, a soft stone composed of volcanic ash.",
+    "date": "6/17/2001",
+    "type": "nature"
+  },
+  {
+    "photoID": "tur510_cave3",
+    "locationFK": 121,
+    "title": "Cappadocia Cave 3",
+    "keywords": "Goreme, Rose Valley, cave, rock formation, tuff",
+    "description": "A path through a cave in Cappadocia's Rose Valley. The area is known for its cave dwellings and unusual rock formations made from tuff, a soft stone composed of volcanic ash.",
+    "date": "6/17/2001",
+    "type": "nature"
+  },
+  {
+    "photoID": "tur510_church",
+    "locationFK": 121,
+    "title": "Cappadocia Church",
+    "keywords": "Goreme, Cavusin, cave, rock formation, tuff, church, Saint John",
+    "description": "A room in Cappadocia's Church of Saint John, a primitive church carved from a soft stone called tuff (made from volcanic ash).",
+    "date": "6/17/2001",
+    "type": "architecture,religion"
+  },
+  {
+    "photoID": "tur510_donkey",
+    "locationFK": 121,
+    "title": "Donkey",
+    "keywords": "Goreme, Rose Valley, donkey, ass, mule",
+    "description": "A mule in Cappadocia's Rose Valley. The area is known for its cave dwellings and unusual rock formations made from tuff, a soft stone composed of volcanic ash.",
+    "date": "6/17/2001",
+    "type": "nature"
+  },
+  {
+    "photoID": "tur510_fairy_chimney",
+    "locationFK": 121,
+    "title": "Fairy Chimney",
+    "keywords": "Goreme, fairy chimney, rock formation, tuff",
+    "description": "A fairy chimney in the Valley of the Fairy Chimneys, produced by differential erosion between the hard rock on top and the soft rock below.",
+    "date": "6/17/2001",
+    "type": "nature"
+  },
+  {
+    "photoID": "tur510_home",
+    "locationFK": 121,
+    "title": "Cappadocia Cave Home",
+    "keywords": "Goreme, Rose Valley, cave, rock formation, tuff,  home",
+    "description": "The exit of a cave home in Cappadocia's Rose Valley. The area is known for its cave dwellings and unusual rock formations made from tuff, a soft stone composed of volcanic ash.",
+    "date": "6/17/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "tur511_aya_sofia_arch",
+    "locationFK": 97,
+    "title": "Aya Sofia Arch",
+    "keywords": "Aya Sofia, mosque, arches, hallway, light",
+    "description": "A view of light streaming through the window of Aya Sofia, the Church of Divine Wisdom, built between 527-565 AD by Emperor Justinian. Converted into a mosque after the fall of Constantinople in 1453.\n(Also called Aya Sofya, Sancta Sophia, Hagia Sofia)",
+    "date": "6/24/2001",
+    "type": "architecture,religion"
+  },
+  {
+    "photoID": "tur511_aya_sofia_hall",
+    "locationFK": 97,
+    "title": "Aya Sofia Hall",
+    "keywords": "Aya Sofia, mosque, arches, hallway",
+    "description": "A view of Aya Sofia, the Church of Divine Wisdom, built between 527-565 AD by Emperor Justinian. Converted into a mosque after the fall of Constantinople in 1453.\n(Also called Aya Sofya, Sancta Sophia, Hagia Sofia)",
+    "date": "6/24/2001",
+    "type": "architecture,religion"
+  },
+  {
+    "photoID": "tur511_aya_sofia_light",
+    "locationFK": 97,
+    "title": "Aya Sofia Light",
+    "keywords": "Aya Sofia, mosque, arches, hallway, light",
+    "description": "A view of light streaming through the window of Aya Sofia, the Church of Divine Wisdom, built between 527-565 AD by Emperor Justinian. Converted into a mosque after the fall of Constantinople in 1453.\n(Also called Aya Sofya, Sancta Sophia, Hagia Sofia)",
+    "date": "6/24/2001",
+    "type": "architecture,religion"
+  },
+  {
+    "photoID": "tur511_aya_sofia_mosaic",
+    "locationFK": 97,
+    "title": "Aya Sofia Mosaic",
+    "keywords": "Aya Sofia, mosque, Virgin Mary, Jesus, mosaic",
+    "description": "A mosaic of the Madonna and child in the Aya Sofia, the Church of Divine Wisdom, built between 527-565 AD by Emperor Justinian. Converted into a mosque after the fall of Constantinople in 1453.\n(Also called Aya Sofya, Sancta Sophia, Hagia Sofia)",
+    "date": "6/24/2001",
+    "type": "architecture,religion"
+  },
+  {
+    "photoID": "tur511_blue_mosque_night_1",
+    "locationFK": 97,
+    "title": "Blue Mosque at Night 1",
+    "keywords": "Blue Mosque, night, birds, minaret",
+    "description": "The lights of Istanbul's famous Blue Mosque (1616) attract many birds that circle overhead at night.",
+    "date": "6/24/2001",
+    "type": "architecture,religion"
+  },
+  {
+    "photoID": "tur511_blue_mosque_night_2",
+    "locationFK": 97,
+    "title": "Blue Mosque at Night 2",
+    "keywords": "Blue Mosque, night, birds, minaret",
+    "description": "The lights of Istanbul's famous Blue Mosque (1616) attract many birds that circle overhead at night.",
+    "date": "6/24/2001",
+    "type": "architecture,religion"
+  },
+  {
+    "photoID": "tur511_street",
+    "locationFK": 105,
+    "title": "Sanfranbolu Cobblestone",
+    "keywords": "Cobblestone street, hill, woman, wooden houses",
+    "description": "A woman walks down the street of historic Sanfranbolu.",
+    "date": "6/21/2001",
+    "type": "architecture,people"
+  },
+  {
+    "photoID": "tur511_turkish_home",
+    "locationFK": 105,
+    "title": "Turkish Home",
+    "keywords": "Turkish home, Turkish carpet, traditional",
+    "description": "A sitting area inside a traditional Turkish home.",
+    "date": "6/21/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "tur602_breadmaker",
+    "locationFK": 94,
+    "title": "Turkish Bread Maker",
+    "keywords": "Akpinar, woman, women, Turkish, village, bread, bread maker, Yörük, Yoruk, smile",
+    "description": "A Yörük woman from the village of Akpinar takes a break from making bread.",
+    "date": "6/15/2001",
+    "type": "people"
+  },
+  {
+    "photoID": "tur602_three_turkish_women",
+    "locationFK": 94,
+    "title": "Three Turkish Women",
+    "keywords": "Akpinar, women, child, Turkish, village, mountain",
+    "description": "Two women and a child in the small Yörük village of Akpinar, a town on top of the Davras Dagi mountain overlooking the lakeside town of Egirdir.",
+    "date": "6/15/2001",
+    "type": "people"
+  },
+  {
+    "photoID": "tur602_topkapi_bismillah",
+    "locationFK": 97,
+    "title": "Topkapi Bismillah",
+    "keywords": "Arabesque, skylight, Topkapi, palace, sultan, window, bismillah",
+    "description": "Light filters down on a bismillah in Topkapi Palace, Istanbul's home of the sultans for almost 400 years. Bismillahs typically read as a prayer to God, with meanings similar to \"\"In the name of Allah, the Most Merciful, the Most Kind.\"\"",
+    "date": "6/27/2001",
+    "type": "architecture,religion"
+  },
+  {
+    "photoID": "tur602_topkapi_ceiling",
+    "locationFK": 97,
+    "title": "Topkapi Ceiling",
+    "keywords": "Arabesque, tile, chandelier, Topkapi, palace, sultan, window",
+    "description": "Arabesque designs inside of Topkapi Palace, Istanbul's home of the sultans for almost 400 years.",
+    "date": "6/27/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "tur602_topkapi_dome",
+    "locationFK": 97,
+    "title": "Topkapi Dome",
+    "keywords": "Arabesque, tile, chandelier, Topkapi, palace, sultan, window, sun",
+    "description": "Intricate Turkish tile work and chandelier in Topkapi Palace's Sacred Safe-keeping Rooms. Topkapi Palace was Istanbul's home of the sultans for almost 400 years. The Sacred Safe-keeping Rooms still hold sacred possessions once owned by the Prophet Mohammed.",
+    "date": "6/27/2001",
+    "type": "architecture,religion"
+  },
+  {
+    "photoID": "tur602_topkapi_fountain",
+    "locationFK": 97,
+    "title": "Topkapi Fountain",
+    "keywords": "Arabesque, fountain, Topkapi, palace, sultan, sun, ablution",
+    "description": "An intricate ablution fountain in Topkapi Palace, Istanbul's home of the sultans for almost 400 years.",
+    "date": "6/27/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "tur602_topkapi_skylight",
+    "locationFK": 97,
+    "title": "Topkapi Skylight",
+    "keywords": "Arabesque, skylight, Topkapi, palace, sultan, window, sun",
+    "description": "Arabesque patterns of light filtering through a skylight in Topkapi Palace, Istanbul's home of the sultans for almost 400 years.",
+    "date": "6/27/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "tur602_topkapi_window",
+    "locationFK": 97,
+    "title": "Topkapi Window",
+    "keywords": "Arabesque, tile, Topkapi, palace, sultan, room, window, sun",
+    "description": "Sun filters across Turkish tile work and mother-of-pearl doors in the Topkapi Palace, Istanbul's home of the sultans.",
+    "date": "6/27/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "tur602_topkapi_window_red",
+    "locationFK": 97,
+    "title": "Red Topkapi Window",
+    "keywords": "Arabesque, tile, Topkapi, palace, sultan, room, window, sun",
+    "description": "Sun filters across a red couch and mother-of-pearl doors in the Topkapi Palace, Istanbul's home of the sultans.",
+    "date": "6/27/2001",
+    "type": "architecture"
+  },
+  {
+    "photoID": "usa201_hawaii_surfboards",
+    "locationFK": 12,
+    "title": "Hawaii Surfboards",
+    "keywords": "surf, beach",
+    "description": "Surfboards for rent in Waikiki.",
+    "date": "7/18/2000",
+    "type": "miscellaneous"
+  },
+  {
+    "photoID": "usa202_lanai_lookout",
+    "locationFK": 12,
+    "title": "Lanai Lookout",
+    "keywords": "surf, beach",
+    "description": "Waves crashing in the Lanai lookout, Oahu, Hawaii.",
+    "date": "7/21/2000",
+    "type": "nature"
+  },
+  {
+    "photoID": "usa202_outrigger_canoe",
+    "locationFK": 12,
+    "title": "Outrigger Canoe",
+    "keywords": "boat",
+    "description": "The bow of an outrigger canoe, Oahu, Hawaii.",
+    "date": "7/22/2000",
+    "type": "miscellaneous",
+    "story": 22
+  },
+  {
+    "photoID": "vtn307_cham_ruin_wall",
+    "locationFK": 51,
+    "title": "Cham Ruin Wall",
+    "keywords": "historical",
+    "description": "A rebuilt wall from the 4th century Vietnamese Cham ruins of My Son. \nMy Son was once an important complex of religious temples that flourished between the 4th and 15th centuries. During the Vietnam conflict, the United States forces destroyed many of the structures in an effort to wipe out the Viet Cong who hid in the area. Large bomb craters are still visible over 25 years later.",
+    "date": "11/27/2000",
+    "type": "architecture",
+    "story": 90
+  },
+  {
+    "photoID": "vtn307_hoi_an_bike",
+    "locationFK": 51,
+    "title": "Hoi An Bike",
+    "keywords": "bicycle",
+    "description": "The ever-present Chinese bicycle sits against a wall in the picturesque Vietnamese town of Hoi An.",
+    "date": "11/24/2000",
+    "type": "architecture",
+    "highlight": true
+  },
+  {
+    "photoID": "vtn307_hoi_an_house",
+    "locationFK": 51,
+    "title": "Hoi An House",
+    "keywords": "colorful",
+    "description": "Colorful buildings in the quaint Vietnamese town of Hoi An.",
+    "date": "11/24/2000",
+    "type": "architecture",
+    "story": 90,
+    "highlight": true
+  },
+  {
+    "photoID": "vtn307_hoi_an_street",
+    "locationFK": 51,
+    "title": "Hoi An Street",
+    "keywords": "colorful",
+    "description": "Colorful buildings in the quaint Vietnamese town of Hoi An.",
+    "date": "11/24/2000",
+    "type": "architecture",
+    "story": 90
+  },
+  {
+    "photoID": "vtn307_woman_in_hoi_an",
+    "locationFK": 51,
+    "title": "Woman in Hoi An",
+    "keywords": "colorful, woman",
+    "description": "A woman walks down a colorful street in the quaint Vietnamese town of Hoi An.",
+    "date": "11/24/2000",
+    "type": "architecture",
+    "story": 93
+  },
+  {
+    "photoID": "vtn308_boat_pilot",
+    "locationFK": 53,
+    "title": "Boat Pilot",
+    "keywords": "boats, sea",
+    "description": "Our captain glides our boat through Halong Bay, northern Vietnam.",
+    "date": "12/4/2000",
+    "type": "miscellaneous"
+  },
+  {
+    "photoID": "vtn308_finished_pottery",
+    "locationFK": 53,
+    "title": "Finished Pottery",
+    "keywords": "pottery, abstract",
+    "description": "Finished ceramic pots wait to be sold in a pottery factory located on the way to Halong Bay.",
+    "date": "12/3/2000",
+    "type": "miscellaneous"
+  },
+  {
+    "photoID": "vtn308_halong_bay",
+    "locationFK": 53,
+    "title": "Halong Bay",
+    "keywords": "boats, sea",
+    "description": "Off in the distance, a city floats on the water in Halong Bay, northern Vietnam.",
+    "date": "12/4/2000",
+    "type": "miscellaneous"
+  },
+  {
+    "photoID": "vtn308_hilltribe_boy",
+    "locationFK": 56,
+    "title": "Black H'mong Hilltribe Boy",
+    "keywords": "hilltribe child",
+    "description": "A hilltribe boy from the Black H'mong ethnic minority in northern Vietnam, near the Chinese border.",
+    "date": "12/8/2000",
+    "type": "people"
+  },
+  {
+    "photoID": "vtn308_hilltribe_child",
+    "locationFK": 56,
+    "title": "Black H'mong Hilltribe Child",
+    "keywords": "hilltribe child",
+    "description": "A hilltribe boy from the Black H'mong ethnic minority in northern Vietnam, near the Chinese border.",
+    "date": "12/8/2000",
+    "type": "people"
+  },
+  {
+    "photoID": "vtn308_terraced_hills",
+    "locationFK": 56,
+    "title": "Terraced Hills",
+    "keywords": "rice",
+    "description": "Terraced rice fields of northern Vietnam, near the border of China.",
+    "date": "12/8/2000",
+    "type": "nature"
+  },
+  {
+    "photoID": "vtn308_unfired_pottery",
+    "locationFK": 53,
+    "title": "Unfired Pottery",
+    "keywords": "pottery, abstract",
+    "description": "Unfinished ceramic pots wait to be fired in a store somewhere between Halong Bay and Hanoi.",
+    "date": "12/3/2000",
+    "type": "miscellaneous"
+  },
+  {
+    "photoID": "vtn309_bac_ha_skirts",
+    "locationFK": 57,
+    "title": "Bac Ha Skirts",
+    "keywords": "hilltribe, colorful",
+    "description": "The distinctive clothes worn by the Flower H'mong women add eye-popping color to the Bac Ha weekend market.",
+    "date": "12/10/2000",
+    "type": "people"
+  },
+  {
+    "photoID": "vtn309_baca_rice_paddies",
+    "locationFK": 57,
+    "title": "Bac Ha Rice Paddies",
+    "keywords": "",
+    "description": "Dry fields of rice await the monsoon rains in northern Vietnam.",
+    "date": "12/10/2000",
+    "type": "nature"
+  },
+  {
+    "photoID": "vtn309_bacha_hilltribe_woman",
+    "locationFK": 57,
+    "title": "Bac Ha Woman",
+    "keywords": "hilltribe, colorful",
+    "description": "The distinctive clothes worn by the Flower H'mong women add eye-popping color to the Bac Ha weekend market.",
+    "date": "12/10/2000",
+    "type": "people"
+  },
+  {
+    "photoID": "vtn309_bacha_mud_house1",
+    "locationFK": 57,
+    "title": "Bac Ha Mud House 1",
+    "keywords": "house",
+    "description": "A mud house built by the ethnic minorities of northern Vietnam.",
+    "date": "12/10/2000",
+    "type": "architecture"
+  },
+  {
+    "photoID": "vtn309_bacha_mud_house2",
+    "locationFK": 57,
+    "title": "Bac Ha Mud House 2",
+    "keywords": "house",
+    "description": "A mud house built by the ethnic minorities of northern Vietnam.",
+    "date": "12/10/2000",
+    "type": "architecture"
+  },
+  {
+    "photoID": "vtn309_chili_peppers",
+    "locationFK": 57,
+    "title": "Chile Peppers",
+    "keywords": "food",
+    "description": "Chile peppers for sale by ethnic minorities in the Bac Ha weekend market.",
+    "date": "12/10/2000",
+    "type": "miscellaneous"
+  },
+  {
+    "photoID": "vtn309_hilltribe_musician_1",
+    "locationFK": 57,
+    "title": "Hilltribe Musician 1",
+    "keywords": "hilltribe",
+    "description": "A hilltribe musician in Bac Ha, northern Vietnam, plays a haunting tune on his home-made instrument.",
+    "date": "12/10/2000",
+    "type": "people"
+  },
+  {
+    "photoID": "vtn309_hilltribe_musician_2",
+    "locationFK": 57,
+    "title": "Hilltribe Musician 2",
+    "keywords": "hilltribe",
+    "description": "A hilltribe musician in Bac Ha, northern Vietnam, plays a haunting tune on his home-made instrument.",
+    "date": "12/10/2000",
+    "type": "people"
+  },
+  {
+    "photoID": "vtn309_hilltribe_smile",
+    "locationFK": 57,
+    "title": "Flower H'mong Smile",
+    "keywords": "hilltribe woman",
+    "description": "A Flower H'mong woman in the Bac Ha weekend market.",
+    "date": "12/10/2000",
+    "type": "people"
+  },
+  {
+    "photoID": "vtn311_hanoi_motorcycles",
+    "locationFK": 52,
+    "title": "Hanoi Motorcycles",
+    "keywords": "traffic",
+    "description": "The average intersection in Hanoi, missing any traffic controls, promotes a controlled anarchy unique to Vietnam. Motorcycles converge on this intersection from all sides, mix around as if in a blender, and pop out on the other side unharmed.",
+    "date": "12/12/2000",
+    "type": "miscellaneous",
+    "story": 96
+  },
+  {
+    "photoID": "vtn311_loom",
+    "locationFK": 55,
+    "title": "Loom",
+    "keywords": "abstract",
+    "description": "A loom in the \"\"Chicken Village\"\" of Dalat, north of Ho Chi Minh city.",
+    "date": "11/19/2000",
+    "type": "miscellaneous"
+  },
+  {
+    "photoID": "vtn313_vietnamese_food",
+    "locationFK": 52,
+    "title": "Vietnamese Food",
+    "keywords": "food",
+    "description": "Delicious Vietnamese food in Hanoi, prepared in the upscale Ha Sua restaurant. This restaurant serves more than just excellent food - it serves street kids with training for future careers in the restaurant industry.",
+    "date": "12/12/2000",
+    "type": "miscellaneous"
+  },
+  {
+    "photoID": "00001_s_11ag7fhapr0001",
+    "description": "",
+    "locationFK": "Tropical vegetation",
+    "roll": "101"
+  },
+  {
+    "photoID": "00005_s_11ag7fhapr0005",
+    "description": "",
+    "locationFK": "9",
+    "roll": "101",
+    "story": 15,
+    "objectPosition": "80% 50%"
+  },
+  {
+    "photoID": "00009_s_11ag7fhapr0009",
+    "description": "",
+    "locationFK": "10",
+    "roll": "101"
+  },
+  {
+    "photoID": "00011_s_11ag7fhapr0011",
+    "description": "Michelle on the bus",
+    "locationFK": "6",
+    "roll": "102"
+  },
+  {
+    "photoID": "00017_s_11ag7fhapr0017_b",
+    "description": "",
+    "locationFK": "10",
+    "roll": "102"
+  },
+  {
+    "photoID": "00021_s_11ag7fhapr0021",
+    "description": "Butterfly orchid",
+    "locationFK": "8",
+    "roll": "102",
+    "story": 14
+  },
+  {
+    "photoID": "00033_s_11ag7fhapr0033_b",
+    "description": "Gordon's beach house",
+    "locationFK": "4",
+    "roll": "104"
+  },
+  {
+    "photoID": "00048_s_11ag7fhapr0048",
+    "description": "",
+    "locationFK": "2",
+    "roll": "105",
+    "story": 7
+  },
+  {
+    "photoID": "00053_s_11ag7fhapr0053",
+    "description": "",
+    "locationFK": "11",
+    "roll": "105"
+  },
+  {
+    "photoID": "00051_s_11ag7fhapr0051",
+    "description": "",
+    "locationFK": "11",
+    "roll": "105"
+  },
+  {
+    "photoID": "00052_s_11ag7fhapr0052",
+    "description": "",
+    "locationFK": "11",
+    "roll": "105"
+  },
+
+  {
+    "photoID": "00054_s_11ag7fhapr0054_b",
+    "description": "",
+    "locationFK": "8",
+    "roll": "105"
+  },
+  {
+    "photoID": "00056_s_11ag7fhapr0056",
+    "description": "",
+    "locationFK": "9",
+    "roll": "105",
+    "story": 24
+  },
+  {
+    "photoID": "00070_s_11ag7fhapr0070",
+    "description": "",
+    "locationFK": "12",
+    "roll": "202",
+    "story": 22
+  },
+  {
+    "photoID": "00076_s_11ag7fhapr0076",
+    "description": "",
+    "locationFK": "12",
+    "roll": "202",
+    "story": 22
+  },
+  {
+    "photoID": "00092_s_11ag7fhapr0092",
+    "description": "",
+    "locationFK": "15",
+    "roll": "208",
+    "story": 30
+  },
+  {
+    "photoID": "00096_s_11ag7fhapr0096",
+    "description": "",
+    "locationFK": "15",
+    "roll": "208"
+  },
+  {
+    "photoID": "00097_s_11ag7fhapr0097",
+    "description": "",
+    "locationFK": "14",
+    "roll": "208",
+    "story": 74
+  },
+  {
+    "photoID": "00098_s_11ag7fhapr0098_b",
+    "description": "",
+    "locationFK": "14",
+    "roll": "208"
+  },
+  {
+    "photoID": "00101_s_11ag7fhapr0101",
+    "description": "",
+    "locationFK": "19",
+    "roll": "",
+    "highlight": "true",
+    "objectPosition": "50% 60%"
+  },
+  {
+    "photoID": "00103_s_11ag7fhapr0103",
+    "description": "",
+    "locationFK": "22",
+    "roll": ""
+  },
+  {
+    "photoID": "00104_s_11ag7fhapr0104",
+    "description": "",
+    "locationFK": "24",
+    "roll": ""
+  },
+  {
+    "photoID": "00105_s_11ag7fhapr0105",
+    "description": "",
+    "locationFK": "22",
+    "roll": ""
+  },
+  {
+    "photoID": "00109_s_11ag7fhapr0109",
+    "description": "",
+    "locationFK": "21",
+    "roll": ""
+  },
+  {
+    "photoID": "00164_s_11ag7fhapr0164",
+    "description": "",
+    "locationFK": "31",
+    "roll": ""
+  },
+  {
+    "photoID": "00168_s_11ag7fhapr0168",
+    "description": "",
+    "locationFK": "31",
+    "roll": "",
+    "highlight": "true"
+  },
+  {
+    "photoID": "00172_s_11ag7fhapr0172",
+    "description": "",
+    "locationFK": "28",
+    "roll": "",
+    "story": 44
+  },
+  {
+    "photoID": "00181_s_11ag7fhapr0181",
+    "description": "",
+    "locationFK": "28",
+    "roll": "",
+    "highlight": "true"
+  },
+  {
+    "photoID": "00358_s_11ag7fhapr0476",
+    "description": "",
+    "locationFK": "47",
+    "roll": "",
+    "story": 87,
+    "highlight": "true"
+  },
+  {
+    "photoID": "00366_s_11ag7fhapr0484_b",
+    "description": "",
+    "locationFK": "47",
+    "roll": "",
+    "story": 87
+  },
+  {
+    "photoID": "00368_s_11ag7fhapr0486_b",
+    "description": "",
+    "locationFK": "47",
+    "roll": "",
+    "story": 87
+  },
+  {
+    "photoID": "00378_s_11ag7fhapr0496",
+    "description": "",
+    "locationFK": "42",
+    "roll": ""
+  },
+  {
+    "photoID": "00420_s_11ag7fhapr0538",
+    "description": "",
+    "locationFK": "46",
+    "roll": "",
+    "story": 84
+
+  },
+  {
+    "photoID": "00423_s_11ag7fhapr0541",
+    "description": "",
+    "locationFK": "48",
+    "roll": "",
+    "story": 85,
+    "highlight": "true",
+    "objectPosition": "50% 10%"
+  },
+  {
+    "photoID": "00433_s_11ag7fhapr0551",
+    "description": "",
+    "locationFK": "44",
+    "roll": ""
+  },
+  {
+    "photoID": "00437_s_11ag7fhapr0555",
+    "description": "",
+    "locationFK": "44",
+    "roll": "",
+    "story": 83
+  },
+  {
+    "photoID": "00439_s_11ag7fhapr0557",
+    "description": "",
+    "locationFK": "44",
+    "roll": ""
+  },
+  {
+    "photoID": "00457_s_11ag7fhapr0575",
+    "description": "",
+    "locationFK": "48",
+    "roll": ""
+  },
+  {
+    "photoID": "00458_s_11ag7fhapr0576",
+    "description": "",
+    "locationFK": "48",
+    "roll": ""
+  },
+  {
+    "photoID": "00459_s_11ag7fhapr0577",
+    "description": "",
+    "locationFK": "48",
+    "roll": ""
+  },
+  {
+    "photoID": "00479_s_11ag7fhapr0597_b",
+    "description": "",
+    "locationFK": "75",
+    "roll": ""
+  },
+  {
+    "photoID": "00494_s_11ag7fhapr0612",
+    "description": "",
+    "locationFK": "79",
+    "roll": ""
+  },
+  {
+    "photoID": "00497_s_11ag7fhapr0615",
+    "description": "",
+    "locationFK": "79",
+    "roll": ""
+  },
+  {
+    "photoID": "00519_s_11ag7fhapr0637",
+    "description": "",
+    "locationFK": "72",
+    "roll": "",
+    "story": 177
+  },
+  {
+    "photoID": "00556_s_11ag7fhapr0674_b",
+    "description": "",
+    "locationFK": "84",
+    "roll": ""
+  },
+  {
+    "photoID": "00557_s_11ag7fhapr0675",
+    "description": "",
+    "locationFK": "84",
+    "roll": ""
+  },
+  {
+    "photoID": "00558_s_11ag7fhapr0676_b",
+    "description": "",
+    "locationFK": "84",
+    "roll": ""
+  },
+  {
+    "photoID": "00559_s_11ag7fhapr0677",
+    "description": "",
+    "locationFK": "84",
+    "roll": ""
+  },
+  {
+    "photoID": "00566_s_11ag7fhapr0684",
+    "description": "",
+    "locationFK": "84",
+    "roll": ""
+  },
+  {
+    "photoID": "00568_s_11ag7fhapr0686",
+    "description": "",
+    "locationFK": "84",
+    "roll": "",
+    "highlight": "true"
+  },
+  {
+    "photoID": "00703_s_11ag7fhapr0821",
+    "description": "",
+    "locationFK": "74",
+    "roll": "",
+    "story": 158
+  },
+  {
+    "photoID": "cam325_kid",
+    "description": "Cambodian girl",
+    "locationFK": 67,
+    "story": 179
+  },
+  {
+    "photoID": "indonesia324_cockfight2",
+    "description": "Bali cockfighing",
+    "locationFK": 32,
+    "story": 52
+  },
+
+  {
+    "photoID": "00127_s_11ag7fhapr0127",
+    "description": "",
+    "locationFK": "67",
+    "roll": "",
+    "story": "144"
+  },
+  {
+    "photoID": "00129_s_11ag7fhapr0129",
+    "description": "",
+    "locationFK": "66",
+    "roll": "",
+    "story": "141"
+  },
+  {
+    "photoID": "00131_s_11ag7fhapr0131",
+    "description": "",
+    "locationFK": "61",
+    "roll": "302",
+    "story": "121"
+  },
+  {
+    "photoID": "00151_s_11ag7fhapr0151",
+    "description": "",
+    "locationFK": "40",
+    "roll": "",
+    "story": ""
+  },
+  {
+    "photoID": "00152_s_11ag7fhapr0152",
+    "description": "",
+    "locationFK": "40",
+    "roll": "",
+    "story": ""
+  },
+  {
+    "photoID": "00162_s_11ag7fhapr0162",
+    "description": "",
+    "locationFK": "40",
+    "roll": "",
+    "story": ""
+  },
+  {
+    "photoID": "00232_s_11ag7fhapr0276",
+    "description": "",
+    "locationFK": "57",
+    "roll": "",
+    "story": "103"
+  },
+  {
+    "photoID": "00237_s_11ag7fhapr0281",
+    "locationFK": 56,
+    "title": "Hilltribe Haggling",
+    "keywords": "hilltribe",
+    "description": "Michelle innocently asks one woman how much an embroidered pillowcase costs and instantly, is surrounded by a flock of hilltribe women trying to make a sale.",
+    "date": "12/8/2000",
+    "type": "people",
+    "story": "101"
+  },
+  {
+    "photoID": "00243_s_11ag7fhapr0287",
+    "description": "",
+    "locationFK": "56",
+    "roll": "",
+    "story": "108"
+  },
+  {
+    "photoID": "00248_s_11ag7fhapr0312_b",
+    "description": "",
+    "locationFK": "46",
+    "roll": "",
+    "story": "",
+    "highlight": "true"
+  },
+  {
+    "photoID": "00287_s_11ag7fhapr0390",
+    "description": "",
+    "locationFK": "59",
+    "roll": "",
+    "story": 119
+  },
+  {
+    "photoID": "00288_s_11ag7fhapr0391_b",
+    "description": "",
+    "locationFK": "59",
+    "roll": "",
+    "story": "119"
+  },
+  {
+    "photoID": "00316_s_11ag7fhapr0434",
+    "description": "",
+    "locationFK": "54",
+    "roll": "",
+    "story": "114"
+  },
+  {
+    "photoID": "00319_s_11ag7fhapr0437",
+    "description": "",
+    "locationFK": "54",
+    "roll": "",
+    "story": "113"
+  },
+  {
+    "photoID": "00360_s_11ag7fhapr0478_b",
+    "description": "",
+    "locationFK": "47",
+    "roll": "",
+    "story": "87"
+  },
+  {
+    "photoID": "00377_s_11ag7fhapr0495",
+    "description": "",
+    "locationFK": "42",
+    "roll": "",
+    "story": ""
+  },
+  {
+    "photoID": "00388_s_11ag7fhapr0506",
+    "description": "",
+    "locationFK": "39",
+    "roll": "",
+    "story": ""
+  },
+  {
+    "photoID": "00389_s_11ag7fhapr0507",
+    "description": "",
+    "locationFK": "40",
+    "roll": "",
+    "story": "64"
+  },
+  {
+    "photoID": "00438_s_11ag7fhapr0556",
+    "description": "",
+    "locationFK": "44",
+    "roll": "",
+    "story": ""
+  },
+  {
+    "photoID": "00464_s_11ag7fhapr0582",
+    "description": "",
+    "locationFK": "44",
+    "roll": "",
+    "story": ""
+  },
+  {
+    "photoID": "00570_s_11ag7fhapr0688",
+    "description": "",
+    "locationFK": "84",
+    "roll": "",
+    "story": "189",
+    "highlight": "true"
+  },
+  {
+    "photoID": "00573_s_11ag7fhapr0691",
+    "description": "",
+    "locationFK": "84",
+    "roll": "",
+    "story": "189"
+  },
+  {
+    "photoID": "00625_s_11ag7fhapr0743",
+    "description": "",
+    "locationFK": "79",
+    "roll": "",
+    "story": ""
+  },
+  {
+    "photoID": "00632_s_11ag7fhapr0750",
+    "description": "",
+    "locationFK": "79",
+    "roll": "",
+    "story": "196"
+  },
+  {
+    "photoID": "00680_s_11ag7fhapr0798",
+    "description": "",
+    "locationFK": "79",
+    "roll": "",
+    "story": "196"
+  },
+  {
+    "photoID": "00688_s_11ag7fhapr0806",
+    "description": "",
+    "locationFK": "83",
+    "roll": "",
+    "story": "186"
+  },
+  {
+    "photoID": "00690_s_11ag7fhapr0808_b",
+    "description": "",
+    "locationFK": "83",
+    "roll": "",
+    "story": "186"
+  },
+  {
+    "photoID": "00702_s_11ag7fhapr0820",
+    "description": "",
+    "locationFK": "158",
+    "roll": "",
+    "story": ""
+  },
+  {
+    "photoID": "00877_s_11ag7fhapr0994",
+    "description": "",
+    "locationFK": "93",
+    "roll": "",
+    "story": "206"
+  },
+  {
+    "photoID": "00878_s_11ag7fhapr0995",
+    "description": "",
+    "locationFK": "93",
+    "roll": "",
+    "story": "206"
+  },
+  {
+    "photoID": "00885_s_11ag7fhapr1002",
+    "description": "",
+    "locationFK": "93",
+    "roll": "",
+    "story": "206"
+  },
+  {
+    "photoID": "00890_s_11ag7fhapr1007_b",
+    "description": "",
+    "locationFK": "93",
+    "roll": "",
+    "story": "206"
+  },
+  {
+    "photoID": "00891_s_11ag7fhapr1008",
+    "description": "",
+    "locationFK": "93",
+    "roll": "",
+    "story": "205"
+  },
+  {
+    "photoID": "00895_s_11ag7fhapr1012",
+    "description": "",
+    "locationFK": "95",
+    "roll": "",
+    "story": "212"
+  },
+  {
+    "photoID": "00962_s_11ag7fhapr1079",
+    "description": "",
+    "locationFK": "91",
+    "roll": "",
+    "story": "201"
+  },
+  {
+    "photoID": "panama_flight",
+    "description": "",
+    "locationFK": "2",
+    "roll": "",
+    "story": "2"
+  }
+ ]

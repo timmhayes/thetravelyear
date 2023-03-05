@@ -1,0 +1,24 @@
+.story-card {
+  .story-card-img {
+    width: 100%;
+    height: 340px;
+    object-fit: cover;
+    object-position: 50% 25%;
+  }
+  .story-photo-wrap {
+    img {
+      width: 200px;
+      display: inline-block;
+    };
+  }
+  .story-card-text {
+    --max-lines: 3;
+    --lh: 1.4rem;
+    line-height: var(--lh);
+    height: calc(var(--lh) * var(--max-lines));
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+  }
+}

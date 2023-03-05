@@ -1,0 +1,61 @@
+.ol-map {
+  height: 100%;
+  width: 100%;
+}
+.ol-control {
+  background-color: rgba(255,255,255,0.4);
+  border-radius: 4px;
+  padding: 2px;
+  position: absolute;
+}
+
+.ol-full-screen {
+  right: .5em;
+  top: .5em;
+}
+
+.ol-popup {
+  background-color: white;
+  border-radius: 10px;
+  border: 1px solid #cccccc;
+  bottom: 12px;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.2);
+  left: -50px;
+  min-width: 280px;
+  padding: 15px;
+  position: absolute;
+
+  &:after, &:before {
+    border: solid transparent;
+    content: " ";
+    height: 0;
+    pointer-events: none;
+    position: absolute;
+    top: 100%;
+    width: 0;
+  }
+
+  &:after {
+    border-top-color: white;
+    border-width: 10px;
+    left: 48px;
+    margin-left: -10px;
+  }
+  
+  &:before {
+    border-top-color: #cccccc;
+    border-width: 11px;
+    left: 48px;
+    margin-left: -11px;
+  }
+}
+
+/* .ol-popup-closer {
+  text-decoration: none;
+  position: absolute;
+  top: 2px;
+  right: 8px;
+}
+.ol-popup-closer:after {
+  content: "✖";
+} */

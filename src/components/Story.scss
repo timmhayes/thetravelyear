@@ -1,0 +1,17 @@
+.story-block {
+  .story-icon {
+    float: left;
+    margin-right: 10px;
+  }
+  //legacy code from old site to be removed
+  img[align=left] {
+    float: left;
+    margin-right: 10px;
+    margin-top: 5px;
+  }
+  img[align=right] {
+    float: right;
+    margin-left: 10px;
+    margin-top: 5px;
+  }
+}

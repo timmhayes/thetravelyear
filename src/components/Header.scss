@@ -1,0 +1,30 @@
+
+.header-country-group {
+  .inline-header-link {
+    border: 1px solid #1F3C4E;
+   
+    border-radius: 20px;
+    display: inline-block;
+    margin: 4px 4px 4px 12px;
+    padding: 5px 12px;
+    width: auto;
+  }
+  .inline-header-link:not(.active,:focus) {
+    background-color: #e6e6fa;
+  }
+}
+
+@media all and (min-width: 768px) {
+  .header-country-group {
+    min-width: 360px;
+  }
+  .navbar .nav-item {
+    .dropdown-menu {
+      display: none;
+      margin-top:0;
+    }
+    &:hover .dropdown-menu {
+      display: block;
+    }
+  }
+}

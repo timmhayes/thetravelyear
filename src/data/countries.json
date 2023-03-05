@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Central and North America",
+    "countries": [
+      "USA",
+      "Panama",
+      "Costa Rica"
+    ]
+  },
+  {
+    "name": "South Pacific",
+    "countries": [
+      "Independent Samoa",
+      "New Zealand"
+    ]
+  },
+  {
+    "name": "Asia",
+    "countries": [
+      "Singapore",
+      "Indonesia",
+      "Malaysia",
+      "Thailand",
+      "Cambodia",
+      "Laos",
+      "Vietnam",
+      "India",
+      "Nepal"
+    ]
+  },
+  {
+    "name": "Europe",
+    "countries": [
+      "Greece",
+      "Turkey",
+      "Bulgaria",
+      "Romania",
+      "Hungary",
+      "Croatia",
+      "Slovenia",
+      "Italy",
+      "Austria",
+      "Slovakia",
+      "Czech Republic",
+      "Germany",
+      "Netherlands",
+      "Belgium",
+      "France",
+      "Spain",
+      "England",
+      "Ireland"
+    ]
+  }
+]
