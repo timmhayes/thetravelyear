@@ -33,7 +33,7 @@ const countryList = countries.reduce((acc, region) => {
   return acc.concat(region.countries);
 }, [])
 
-const getNavData = async (type, list, currentIndex) => {
+const getNavData = async (type, list, currentIndex, parentNavigation) => {
   let getID;
   let getTitle = (index) => list[index]
   if (type === 'months') {
@@ -45,9 +45,17 @@ const getNavData = async (type, list, currentIndex) => {
     getID = (index) => list[index].id;
   }
   const getItem = (index) => {
+    let rootPath = ''
+    if (parentNavigation) {
+      if (parentNavigation === 'months') {
+        rootPath = `/months/${list[index].month}`;
+      } else if (parentNavigation === 'countries') {
+        rootPath = `/countries/${list[index].country}`;
+      }
+    }
     return {
       text: getTitle(index),
-      link: `/${type}/${getID(index)}`
+      link: `${rootPath}/${type}/${getID(index)}`
     }
   }
   return {
@@ -95,11 +103,11 @@ export function getMappingCoordinates(stories) {
   return uniqueCoordinates;
 }
 
-export async function getStory(id) {
+export async function getStory(id, parentNavigation = 'months') {
   id = parseInt(id);
   const stories = (await ttydata()).stories
   const story = stories.find(story => story.id === id);
   const storyIndex = stories.findIndex(story => story.id === id);
-  let nav = await getNavData('story', stories, storyIndex);
+  let nav = await getNavData('story', stories, storyIndex, parentNavigation);
   return story ? {story, nav} : null;
 }

@@ -6,7 +6,8 @@ import StoryPagination from "../components/StoryPagination";
 import {getStory} from "../API";
 
 export async function loader({ params }) {
-  const data = {...params, storyData: await getStory(params.storyId)}
+  const data = {...params, storyData: await getStory(params.storyId, params.country ? 'countries' : 'months')}
+  console.log(data)
   return  data;
 }
 
