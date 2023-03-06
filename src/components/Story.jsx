@@ -2,6 +2,7 @@ import { Link } from "react-router-dom";
 import Col from 'react-bootstrap/Col';
 import Row from 'react-bootstrap/Row';
 import MapView from "./MapView";
+import AudioGallery from "./AudioGallery";
 import PhotoGallery from "./PhotoGallery";
 import { getMappingCoordinates } from "../API";
 import "./Story.scss";
@@ -17,7 +18,8 @@ export default function Story({story}) {
         <Col xs={12} sm={7} md={8} className="story-content">
           <h2>Post from {author}:</h2>
           <div className="story-text mb-4" dangerouslySetInnerHTML={{__html: story.text}} />
-          <PhotoGallery photos={story.photos}/>
+          {story.photos && <PhotoGallery photos={story.photos}/>}
+          {story.audio && <AudioGallery files={story.audio}/>}
           <h2 className="mt-4">Related</h2>
           <ul>
             <li>Other stories from <Link to={`/countries/${story.country}`}>{story.country}</Link></li>

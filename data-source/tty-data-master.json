@@ -1274,7 +1274,14 @@
       "loc_ID": 4,
       "date": "6/15/2000",
       "auth": "t",
-      "text": "Off to the beach. Gordon, Antonio, Michelle, and I packed into a 4x4 with a ton of groceries and a dog. One and a half hours later, we arrive.\n\nThrough the front gates stands the house we will stay in for the next week. Two stories of white Panamanian concrete topped with a corrugated metal roof and floored with red tile. Hammocks stretch lazily between the posts of the wrap-around porch. Tropical plants grow everywhere. Mango trees in peak season drop ripe fruit across the yard. A background palm tree provides a ripe coconut for our coconut-rice dinner. Mamon fruit provides something fun to nibble on at any time of day. A live-in cook/gardener/maid named Santiago makes the leisure-class lifestyle whole.\n\nWe relax here day after day - reading books, writing, painting, talking, sleeping, eating, tanning, drinking wine, and playing cards. (You notice, cleaning and cooking are not on this list!) We've been here four days and it feels like two. We could stay here a few weeks without a problem. <p>&nbsp;</p> "
+      "text": "Off to the beach. Gordon, Antonio, Michelle, and I packed into a 4x4 with a ton of groceries and a dog. One and a half hours later, we arrive.\n\nThrough the front gates stands the house we will stay in for the next week. Two stories of white Panamanian concrete topped with a corrugated metal roof and floored with red tile. Hammocks stretch lazily between the posts of the wrap-around porch. Tropical plants grow everywhere. Mango trees in peak season drop ripe fruit across the yard. A background palm tree provides a ripe coconut for our coconut-rice dinner. Mamon fruit provides something fun to nibble on at any time of day. A live-in cook/gardener/maid named Santiago makes the leisure-class lifestyle whole.\n\nWe relax here day after day - reading books, writing, painting, talking, sleeping, eating, tanning, drinking wine, and playing cards. (You notice, cleaning and cooking are not on this list!) We've been here four days and it feels like two. We could stay here a few weeks without a problem.",
+      "audio": [
+        {
+          "title": "Panama Beach Frogs",
+          "desc": "Evening sounds in the garden of the wonderful Togo Bed and Breakfast in Playa Blanca, Panama.",
+          "src": "soundsofbeachhouse.mp3"
+        }
+      ]
     },
     {
       "id": 6,
@@ -1482,7 +1489,24 @@
       "loc_ID": 15,
       "date": "7/31/2000",
       "auth": "t",
-      "text": "We've had the opportunity to listen to music all over Samoa. Tonight at Si 'ufaga, a few men were playing at the restaurant. Lolani Solitua, Isaia Akoa, and Liae Talamaifuga were nice enough to let me record a few songs. View the <a href=\"/sounds\">Sounds</a> page under \"Samoan Trio\" to listen."
+      "text": "We've had the opportunity to listen to music all over Samoa. Tonight at Si 'ufaga, a few men were playing at the restaurant. Lolani Solitua, Isaia Akoa, and Liae Talamaifuga were nice enough to let me record a few songs.",
+      "audio" : [
+        {
+          "title": "Samoan Trio 1",
+          "desc": "A unique trio sings and plays guitar on Si'Ufaga Beach. Song 1 of 3",
+          "src": "samoa_4.mp3"
+        },
+        {
+          "title": "Samoan Trio 2",
+          "desc": "A unique trio sings and plays guitar on Si'Ufaga Beach. Song 2 of 3",
+          "src": "samoa_5.mp3"
+        },
+        {
+          "title": "Samoan Trio 3",
+          "desc": "A unique trio sings and plays guitar on Si'Ufaga Beach. Song 3 of 3",
+          "src": "samoa_6.mp3"
+        }
+      ]
     },
     {
       "id": 32,
@@ -1498,7 +1522,24 @@
       "loc_ID": 14,
       "date": "8/3/2000",
       "auth": "t",
-      "text": "It is fiafia night at Tanu's Beach Fales where the whole family comes out to dance and sing. Listen to them sing in the <a href=\"/sounds\">Sounds</a> page under Samoa. \n\n<div align='center'><img src='/photos/sm_tanu3.jpg' alt='Fiafia Night' width=\"296\" height=\"232\"/></div>"
+      "text": "It is fiafia night at Tanu's Beach Fales where the whole family comes out to dance and sing. Listen to them sing in the <a href=\"/sounds\">Sounds</a> page under Samoa. \n\n<div align='center'><img src='/photos/sm_tanu3.jpg' alt='Fiafia Night' width=\"296\" height=\"232\"/></div>",
+      "audio": [
+        {
+        "title": "Samoan Sing-along 1",
+        "desc": "The friendly family at Tanu's Beach Fales in Manase does a song and dance for their guests. Song 1 of 3.",
+        "src": "samoa_1.mp3"
+        },
+        {
+          "title": "Samoan Sing-along 2",
+          "desc": "The friendly family at Tanu's Beach Fales in Manase does a song and dance for their guests. Song 2 of 3.",
+          "src": "samoa_2.mp3"
+        },
+        {
+          "title": "Samoan Sing-along 3",
+          "desc": "The friendly family at Tanu's Beach Fales in Manase does a song and dance for their guests. Song 3 of 3.",
+          "src": "samoa_3.mp3"
+        }
+      ]
     },
     {
       "id": 34,
@@ -1698,7 +1739,14 @@
       "loc_ID": 31,
       "date": "9/9/2000",
       "auth": "t",
-      "text": "Ubud is a well-traveled city full of tourists, and the tourists create a demand for entertainment which the Balinese happily supply. In a few days, even the most hurried person can sample several varieties of Balinese dance and music. \n\n<div align=\"center\"><img src=\"/photos/ind_dancers.jpg\" width=\"275\" height=\"142\"></div>\n\nTonight was the first public performance of this all-child dance troupe and gamelan orchestra. If I can get my hands on a high-speed internet connection on the road, I'll add streaming audio of this concert as I did in <a href=\"datemenu.php3?queryDate=2000-08-03\">Samoa</a>."
+      "text": "Ubud is a well-traveled city full of tourists, and the tourists create a demand for entertainment which the Balinese happily supply. In a few days, even the most hurried person can sample several varieties of Balinese dance and music. \n\n<div align=\"center\"><img src=\"/photos/ind_dancers.jpg\" width=\"275\" height=\"142\"></div>\n\nTonight was the first public performance of this all-child dance troupe and gamelan orchestra.",
+      "audio": [
+        {
+          "title": "Balinese Gamalan Music",
+          "desc": "Music plays from a children's performance in Ubud, Bali.",
+          "src": "bali_1.mp3"
+        }
+      ]
     },
     {
       "id": 59,
@@ -1906,7 +1954,24 @@
       "loc_ID": 46,
       "date": "11/5/2000",
       "auth": "b",
-      "text": "Bangkok is one of the top cosmopolitan cities in Asia. To get around one can take a taxi, bus, tuk-tuk, motorcycle or walk. But my favorite is the riverboat.\n\nThrough Bangkok runs the Choa Phraya river and its canals. Riverboats run up and down the waterways all day long, stopping at the many piers along the river. By taking a boat to your destination, not only do you avoid traffic congestion and pollution but you are treated to the scenic views of Bangkok's river life with wind blowing through your hair.\n\nGetting on to the boat is an adventure in itself. We wait on a floating pier for the next boat to come. The noise the bobbing pier makes as it rubs against its anchoring dock sends chills down our spines. Like the sound of metal bending before an imminent crushing break, the pier screeches in wait for the next boat. A whistle in the distance alerts us to its coming.\n\nAs it approaches the pier, an assistant whistles for the boat to stop. The boat's engine reverses and the rudder turns, stopping the boat abruptly and slamming it against the dock with a bang. This sends waiting passengers stumbling to regain their balance. The assistant continues with his whistles; short connected blasts and long blasts signal to the boat driver to shoot forward, reverse, or stop. Boat passengers, with very little time to spare, must jump to the dock while people on the dock must jump on the boat. \n\nAll during this commotion, the space between the boat and dock opens and closes with the bobbing of the water, trying to eat your legs. As the last passenger is in mid-jump, the assistant whistles and the boat lurches forward in full speed to the next pier. Landing safely onboard we sigh in relief. Another small transport victory! Now to settle back and enjoy the view.\n"
+      "text": "Bangkok is one of the top cosmopolitan cities in Asia. To get around one can take a taxi, bus, tuk-tuk, motorcycle or walk. But my favorite is the riverboat.\n\nThrough Bangkok runs the Choa Phraya river and its canals. Riverboats run up and down the waterways all day long, stopping at the many piers along the river. By taking a boat to your destination, not only do you avoid traffic congestion and pollution but you are treated to the scenic views of Bangkok's river life with wind blowing through your hair.\n\nGetting on to the boat is an adventure in itself. We wait on a floating pier for the next boat to come. The noise the bobbing pier makes as it rubs against its anchoring dock sends chills down our spines. Like the sound of metal bending before an imminent crushing break, the pier screeches in wait for the next boat. A whistle in the distance alerts us to its coming.\n\nAs it approaches the pier, an assistant whistles for the boat to stop. The boat's engine reverses and the rudder turns, stopping the boat abruptly and slamming it against the dock with a bang. This sends waiting passengers stumbling to regain their balance. The assistant continues with his whistles; short connected blasts and long blasts signal to the boat driver to shoot forward, reverse, or stop. Boat passengers, with very little time to spare, must jump to the dock while people on the dock must jump on the boat.\n\nAll during this commotion, the space between the boat and dock opens and closes with the bobbing of the water, trying to eat your legs. As the last passenger is in mid-jump, the assistant whistles and the boat lurches forward in full speed to the next pier. Landing safely onboard we sigh in relief. Another small transport victory! Now to settle back and enjoy the view.",
+      "audio": [
+        {
+          "title": "Thai River Boat",
+          "desc": "A river boat docks along the Chao Phraya River in Bangkok.",
+          "src": "thai_boat.mp3"
+        },
+        {
+          "title": "Thai Train",
+          "desc": "An overnight train to southern Thailand.",
+          "src": "thai_train.mp3"
+        },
+        {
+          "title": "Thai Tuk-Tuk",
+          "desc": "The ubiquitous sounds of the tuk-tuk in Bangkok.",
+          "src": "thai_tuk_tuk.mp3"
+        }
+      ]
     },
     {
       "id": 85,
@@ -1938,7 +2003,19 @@
       "loc_ID": 31,
       "date": "9/11/2000",
       "auth": "b",
-      "text": "A few images of Ubud."
+      "text": "A few images of Ubud.",
+      "audio": [
+        {
+          "title": "Balinese Kecak Dance 1",
+          "desc": "A clip from the Kecak (sounds like kechak) dance in Ubud, Bali.",
+          "src": "bali_2.mp3"
+        },
+        {
+          "title": "Balinese Kecak Dance 2",
+          "desc": "[Clip 2]",
+          "src": "bali_3.mp3"
+        }
+      ]
     },
     {
       "id": 89,
@@ -2034,7 +2111,14 @@
       "loc_ID": 55,
       "date": "11/19/2000",
       "auth": "t",
-      "text": "Dalat's cool highland climate is perfect for crops like strawberries, persimmons, cabbage, broccoli, and tea. The vegetables produced here are shipped all over the south of Vietnam and are made locally into many derivative products like dried fruits and jams. \n\n<img src='/photos/vietnam_house.jpg' width='95' height='144' align='right'>After spending a day touring around the area, Michelle and I took a walk through the market in the center of town - which turned out to be the best way to sample Dalat's specialties. As we walked through the rows of stalls, women offered free samples from all sides. \n\n\"Come here, try some Vietnamese tea...\" \n\nOnce we were lured in to try one free sample, several samples followed, as did an inevitable purchase by us. We tried chewy banana sweets, sugared strawberry candies, dried persimmons, corn candies (not candy corn, but candy that tastes like corn), artichoke tea, shots of strawberry extract syrup, and much more. \n\nNeedless to say, we left with a large bag full of goodies."
+      "text": "Dalat's cool highland climate is perfect for crops like strawberries, persimmons, cabbage, broccoli, and tea. The vegetables produced here are shipped all over the south of Vietnam and are made locally into many derivative products like dried fruits and jams. \n\n<img src='/photos/vietnam_house.jpg' width='95' height='144' align='right'>After spending a day touring around the area, Michelle and I took a walk through the market in the center of town - which turned out to be the best way to sample Dalat's specialties. As we walked through the rows of stalls, women offered free samples from all sides. \n\n\"Come here, try some Vietnamese tea...\" \n\nOnce we were lured in to try one free sample, several samples followed, as did an inevitable purchase by us. We tried chewy banana sweets, sugared strawberry candies, dried persimmons, corn candies (not candy corn, but candy that tastes like corn), artichoke tea, shots of strawberry extract syrup, and much more. \n\nNeedless to say, we left with a large bag full of goodies.",
+      "audio": [
+        {
+          "title": "Vietnamese Market",
+          "desc": "Vendors preach their low prices and good deals in the town of Dalat in Vietnam's central highlands.",
+          "src": "vietnamese_market.mp3"
+        }
+      ]
     },
     {
       "id": 101,
@@ -2098,7 +2182,19 @@
       "loc_ID": 56,
       "date": "12/8/2000",
       "auth": "m",
-      "text": "<img src='/photos/Vietnam_hilltribekids.jpg' width='143' height='216' align='right'>Sapa is a strange and unique place û so different from my Western world. It is dusty remote roads and colorful people make it the most exotic place I've ever visited. \n\nThis morning our small tour group clambered back onto our minibus to head out of town and to trek among the near-by hill tribe villages. \n\nAs our bus reached the edge of town, out the window something white caught the corner of my eye. Looking closer, with a mixture of shock and surprise, I realized it was the carcass of a large dog. Most of its fur was gone and its white body stood out glaringly against the dusty grey sidewalk. Squatting next to it was an old woman carefully pulling out the little remaining fur. I knew the Vietnamese ate dog but this was the first time I had seen anyone preparing one for consumption. While traveling I struggle to keep an open mind to cultural differences. If the old woman had been plucking feathers from a chicken I probably wouldn't have given it a second thought. Meat is meat, right? Still, the sight left me feeling queasy and a little uneasy. \n\nThe bus continued to rumble along windy roads and the views were breathtaking. We were greeted by rice terraces carved into the steep hills, basic wooden houses with small children peering out of doorways and hill tribe women carrying large baskets on their backs as they walked along the road. Deep in the valley below a river ran, stumbling and tripping over rocks.\n\nI was still recovering from seeing the dog carcass when I spotted a group of women on the side of the road gathered around a man and his motorcycle. A large pink pig hung over the back of the motorcycle. It was so big the head and tail almost touched the ground. On closer inspection I realized the middle of the pig was missing - almost in the perfect shape of a square. Confused, I looked at our guide for an explanation. He said the man was a local butcher. He traveled to the houses with the dead pig and the women ordered pieces, which he cut right there. Door to door service! Later, in a cloud of dust, he passed our bus on his motorcycle with the pig still draped on the back, innards hanging out. \n\n<img src='/photos/vn_sapa_women.jpg' width='250' height='171' align='left'>A few kilometers out of town our minibus stopped by an old abandoned church the French had built long ago. Now all that remained was its stone shell. We continued down the red clay road by foot. As we arrived at the first village, Dao women and girls surrounded us to sell their wares. I was enveloped in a sea of red turbans, mud-caked feet and hands shoving jewellery and embroidered purses in my face. At first I declined to buy from them, but they persisted and my defenses broke down. The older women's grins, with only a couple yellow teeth remaining, were hard to resist. Two bracelets and one purse later I walked on.\n\n<img src='/photos/vn_sapa_boy.jpg' width='250' height='154' align='right'>The village consisted of a couple stores, a small health clinic, a post office and a school. With no trees, sparse vegetation and dirt roads it had the feel of a ghost town.\n\nWe continued up a small dirt path, through rice paddies, toward an even more basic village. Thirty wooden houses sat perches on a steep hill. As we approached I heard children yelling and caught glimpses of black forms scrambling down the hill. When we arrived at a small wooden gate, marking the entrance to the village, we were greeted by a dozen children dressed in indigo blue (the H'mong tribe). They stared at us, their eyes reflecting caution as much as curiosity. I am sure we were a strange sight - tall giants dressed in hiking boots and fleece jackets, interrupting their daily lives.\n\n<img src='/photos/vn_sapa_crossbow.jpg' width='225' height='233' align='left'>As we climbed up the hill, more and more children emerged. Most were very young and shy, all were covered with dust and dirt. Any awkwardness soon melted though as the older boys demonstrated their skills at shooting wooden arrows from a crossbow. They use the crossbow to kill birds, rats and an occasional rabbit, for food.\n\nWe were then ushered into a small house consisting of two smoky dark rooms with dirt floors. It was lunch time so several woman were dishing out vegetable and rice to about ten children. While the men work in the forest and fields, the women stay home and care for the children. Over thirty people live in this particular house. At night, they sleep on the floor wherever there is space.\n\n<img src='/photos/vn_sapa_generator.jpg' width='250' height='175' align='right'>One of the more interesting sights I saw was when we first approached the village. In a small stream a wooden contraption was built. It was a hydroelectric generator - on a Gilligan's Island scale. Thin wires hung from the generator to each house allowing enough electricity for each house to have one light bulb.<br><br>"
+      "text": "<img src='/photos/Vietnam_hilltribekids.jpg' width='143' height='216' align='right'>Sapa is a strange and unique place û so different from my Western world. It is dusty remote roads and colorful people make it the most exotic place I've ever visited. \n\nThis morning our small tour group clambered back onto our minibus to head out of town and to trek among the near-by hill tribe villages. \n\nAs our bus reached the edge of town, out the window something white caught the corner of my eye. Looking closer, with a mixture of shock and surprise, I realized it was the carcass of a large dog. Most of its fur was gone and its white body stood out glaringly against the dusty grey sidewalk. Squatting next to it was an old woman carefully pulling out the little remaining fur. I knew the Vietnamese ate dog but this was the first time I had seen anyone preparing one for consumption. While traveling I struggle to keep an open mind to cultural differences. If the old woman had been plucking feathers from a chicken I probably wouldn't have given it a second thought. Meat is meat, right? Still, the sight left me feeling queasy and a little uneasy. \n\nThe bus continued to rumble along windy roads and the views were breathtaking. We were greeted by rice terraces carved into the steep hills, basic wooden houses with small children peering out of doorways and hill tribe women carrying large baskets on their backs as they walked along the road. Deep in the valley below a river ran, stumbling and tripping over rocks.\n\nI was still recovering from seeing the dog carcass when I spotted a group of women on the side of the road gathered around a man and his motorcycle. A large pink pig hung over the back of the motorcycle. It was so big the head and tail almost touched the ground. On closer inspection I realized the middle of the pig was missing - almost in the perfect shape of a square. Confused, I looked at our guide for an explanation. He said the man was a local butcher. He traveled to the houses with the dead pig and the women ordered pieces, which he cut right there. Door to door service! Later, in a cloud of dust, he passed our bus on his motorcycle with the pig still draped on the back, innards hanging out. \n\n<img src='/photos/vn_sapa_women.jpg' width='250' height='171' align='left'>A few kilometers out of town our minibus stopped by an old abandoned church the French had built long ago. Now all that remained was its stone shell. We continued down the red clay road by foot. As we arrived at the first village, Dao women and girls surrounded us to sell their wares. I was enveloped in a sea of red turbans, mud-caked feet and hands shoving jewellery and embroidered purses in my face. At first I declined to buy from them, but they persisted and my defenses broke down. The older women's grins, with only a couple yellow teeth remaining, were hard to resist. Two bracelets and one purse later I walked on.\n\n<img src='/photos/vn_sapa_boy.jpg' width='250' height='154' align='right'>The village consisted of a couple stores, a small health clinic, a post office and a school. With no trees, sparse vegetation and dirt roads it had the feel of a ghost town.\n\nWe continued up a small dirt path, through rice paddies, toward an even more basic village. Thirty wooden houses sat perches on a steep hill. As we approached I heard children yelling and caught glimpses of black forms scrambling down the hill. When we arrived at a small wooden gate, marking the entrance to the village, we were greeted by a dozen children dressed in indigo blue (the H'mong tribe). They stared at us, their eyes reflecting caution as much as curiosity. I am sure we were a strange sight - tall giants dressed in hiking boots and fleece jackets, interrupting their daily lives.\n\n<img src='/photos/vn_sapa_crossbow.jpg' width='225' height='233' align='left'>As we climbed up the hill, more and more children emerged. Most were very young and shy, all were covered with dust and dirt. Any awkwardness soon melted though as the older boys demonstrated their skills at shooting wooden arrows from a crossbow. They use the crossbow to kill birds, rats and an occasional rabbit, for food.\n\nWe were then ushered into a small house consisting of two smoky dark rooms with dirt floors. It was lunch time so several woman were dishing out vegetable and rice to about ten children. While the men work in the forest and fields, the women stay home and care for the children. Over thirty people live in this particular house. At night, they sleep on the floor wherever there is space.\n\n<img src='/photos/vn_sapa_generator.jpg' width='250' height='175' align='right'>One of the more interesting sights I saw was when we first approached the village. In a small stream a wooden contraption was built. It was a hydroelectric generator - on a Gilligan's Island scale. Thin wires hung from the generator to each house allowing enough electricity for each house to have one light bulb.",
+      "audio": [
+        {
+          "title": "Vietnamese Hilltribe Music",
+          "desc": "The haunting sounds of music played by the hilltribes of Sapa, near the border of China in northern Vietnam.",
+          "src": "vietnam_sapa_1.mp3"
+        },
+        {
+          "title": "Vietnamese Hilltribe Music 2",
+          "desc": "Another clip from Sapa.",
+          "src": "vietnam_sapa_2.mp3"
+        }
+      ]
     },
     {
       "id": 109,
@@ -2370,7 +2466,14 @@
       "loc_ID": 67,
       "date": "2/21/2001",
       "auth": "t",
-      "text": "It is easy to see why the movie Tomb Raider was filmed in the Angkor Wat area. The concentration of so many excellent ancient Buddhist and Hindu temples is staggering and, despite the thousands of tourists that visit each year, the mysterious Khmer ruins still offer travelers the opportunity to feel like Indiana Jones.\n\nI had one such Indiana Jones moment in Bayon - one of the most popular temples in the area. \n\nWe arrived before sunrise, a time when the darkness of early morning veils the massive stone monument in mystery. I walked past the famous bas-reliefs that depict historic wars and everyday life and approached the first level of stairs, which were as steep as the pyramid at Chichen Itza and worn uneven by 800 years of use and decay. They led me right into the maze-like passages and temple rooms that I had come to see. I began to feel like the first person to enter the pyramids in Egypt - a tomb raider, perhaps. In my fascination, I quickly lost Michelle and our friend John, but I didn't mind. I was grateful to experience this rare moment of solitude in such a heavily visited monument. \n\nI ascended another flight of stairs to the third and top level, which features a large stupa surrounded by square towers depicting the face of King Jayavarman VII on all sides.  In the faint light, I had to squint to see his soft features and wise smile. But with over 200 portrait carvings at the top of Bayon, his face greeted me at every turn. \n\n<img src='/photos/cam_bayon2.jpg' width='257' height='200' align='right'>Reverberating chirps from bats in the central stupa echoed from the stone walls and called me in through an eerie doorway to investigate. The smell of bat guano was a little overpowering, but I toughed it out and walked deeper into the cavern. The sweep of my flashlight across the high ceiling caused swarms of bats to flutter around inside. I watched nervously until one almost hit me in the face and I yelped like a little girl. After I finished laughing at myself, I ducked and ran through.\n\nI found Michelle and John about the same time the other tourists arrived to spoil my fantasy, but Bayon was no less fantastic in the rising sun. The soft orange light of morning across the ancient rock stopped me in my tracks and forced me to sit in silent appreciation.\n\n<hr>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"3\" width=\"100%\"><tr valign='top'><td colspan=2></td></tr><tr valign='top'><td>Siem Reap street in morning:</td><td><img src='/photos/seasia_street.jpg' width='288' height='193'></td></tr><tr valign='top'><td colspan=2><hr></td></tr><tr valign='top'><td>Siem Reap Crock Farm:</td><td><img src='/photos/seasia_crocs.jpg' width='144' height='216'></td></tr><tr valign='top'><td colspan=2><hr></td></tr><tr valign='top'><td>A temple inside Angkor Wat:</td><td><img src='/photos/seasia_stacktemple.jpg' width='216' height='142'></td></tr><tr valign='top'><td colspan=2><hr></td></tr><tr valign='top'><td>A temple surrounded by trees:</td><td><img src='/photos/seasia_treetemple.jpg' width='288' height='192'></td></tr><tr valign='top'><td colspan=2><hr></td></tr></table> \n"
+      "text": "It is easy to see why the movie Tomb Raider was filmed in the Angkor Wat area. The concentration of so many excellent ancient Buddhist and Hindu temples is staggering and, despite the thousands of tourists that visit each year, the mysterious Khmer ruins still offer travelers the opportunity to feel like Indiana Jones.\n\nI had one such Indiana Jones moment in Bayon - one of the most popular temples in the area. \n\nWe arrived before sunrise, a time when the darkness of early morning veils the massive stone monument in mystery. I walked past the famous bas-reliefs that depict historic wars and everyday life and approached the first level of stairs, which were as steep as the pyramid at Chichen Itza and worn uneven by 800 years of use and decay. They led me right into the maze-like passages and temple rooms that I had come to see. I began to feel like the first person to enter the pyramids in Egypt - a tomb raider, perhaps. In my fascination, I quickly lost Michelle and our friend John, but I didn't mind. I was grateful to experience this rare moment of solitude in such a heavily visited monument. \n\nI ascended another flight of stairs to the third and top level, which features a large stupa surrounded by square towers depicting the face of King Jayavarman VII on all sides.  In the faint light, I had to squint to see his soft features and wise smile. But with over 200 portrait carvings at the top of Bayon, his face greeted me at every turn. \n\n<img src='/photos/cam_bayon2.jpg' width='257' height='200' align='right'>Reverberating chirps from bats in the central stupa echoed from the stone walls and called me in through an eerie doorway to investigate. The smell of bat guano was a little overpowering, but I toughed it out and walked deeper into the cavern. The sweep of my flashlight across the high ceiling caused swarms of bats to flutter around inside. I watched nervously until one almost hit me in the face and I yelped like a little girl. After I finished laughing at myself, I ducked and ran through.\n\nI found Michelle and John about the same time the other tourists arrived to spoil my fantasy, but Bayon was no less fantastic in the rising sun. The soft orange light of morning across the ancient rock stopped me in my tracks and forced me to sit in silent appreciation.\n\n<hr>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"3\" width=\"100%\"><tr valign='top'><td colspan=2></td></tr><tr valign='top'><td>Siem Reap street in morning:</td><td><img src='/photos/seasia_street.jpg' width='288' height='193'></td></tr><tr valign='top'><td colspan=2><hr></td></tr><tr valign='top'><td>Siem Reap Crock Farm:</td><td><img src='/photos/seasia_crocs.jpg' width='144' height='216'></td></tr><tr valign='top'><td colspan=2><hr></td></tr><tr valign='top'><td>A temple inside Angkor Wat:</td><td><img src='/photos/seasia_stacktemple.jpg' width='216' height='142'></td></tr><tr valign='top'><td colspan=2><hr></td></tr><tr valign='top'><td>A temple surrounded by trees:</td><td><img src='/photos/seasia_treetemple.jpg' width='288' height='192'></td></tr><tr valign='top'><td colspan=2><hr></td></tr></table>",
+      "audio": [
+        {
+          "title": "Cambodian Birds",
+          "desc": "Wild jungle noise near Angkor Wat.",
+          "src": "cambodian_birds.mp3"
+        }
+    ]
     },
     {
       "id": 145,
@@ -2506,7 +2609,14 @@
       "loc_ID": 72,
       "date": "3/9/2001",
       "auth": "m",
-      "text": "<img src='/photos/in_jaisalmerfort.jpg' width='225' height='148' align='right'>This morning we arrived in Jaisalmer, a city nestled in the Thar desert, close to the border of Pakistan. High on a hill towers a huge fort, dominating the city landscape. Built in 1156 for protection against invaders, it now houses a busy city life including hotels, shops, and restaurants for tourists. Contained within its massive walls are giant gates, a maze of narrow lanes and alleys, small courtyards littered with cows and sleeping dogs, and a magical palace whose sandstone walls are covered in intricate carvings.\n\nIt is five in the evening and I am sitting on our hotel roof high above the city, across from the palace. I am alone except for the company of gray pigeons, singing sparrows, and the whispering dry hot wind. Everything is the color of yellow sand - the ground, the walls, the buildings, and the roads. From this height I can see far into the distance where civilization ends and only stark desert terrain remains. \n\nDirectly below me is the massive fort wall and then a steep rocky slope. A family of pigs makes its way down the slope as a dog chases and teases the piglet, who squeals in protest. A woman balances a water jug on her head as she passes on the road below. A cow lumbers down the road.\n\n<img src='/photos/in_jaisalmer.jpg' width='250' height='198' align='left'>It is easy to see the desert houses from this height. They are simple square structures with courtyards in their center. A woman sits on the ground in her courtyard with a child in her lap. They both wave as they see me peering down on them. Large clay pots for storing water surround them and wash is laid out on the house roof to dry.\n\nAs the sun sinks lower, I watch the hues of honey yellow change. I relish the solitude and quiet up here. The lone voice of a man singing Muslim evening prayers begins and floats up to me. His voice is melancholy, slow, and soothing -  reflective of my mood."
+      "text": "<img src='/photos/in_jaisalmerfort.jpg' width='225' height='148' align='right'>This morning we arrived in Jaisalmer, a city nestled in the Thar desert, close to the border of Pakistan. High on a hill towers a huge fort, dominating the city landscape. Built in 1156 for protection against invaders, it now houses a busy city life including hotels, shops, and restaurants for tourists. Contained within its massive walls are giant gates, a maze of narrow lanes and alleys, small courtyards littered with cows and sleeping dogs, and a magical palace whose sandstone walls are covered in intricate carvings.\n\nIt is five in the evening and I am sitting on our hotel roof high above the city, across from the palace. I am alone except for the company of gray pigeons, singing sparrows, and the whispering dry hot wind. Everything is the color of yellow sand - the ground, the walls, the buildings, and the roads. From this height I can see far into the distance where civilization ends and only stark desert terrain remains. \n\nDirectly below me is the massive fort wall and then a steep rocky slope. A family of pigs makes its way down the slope as a dog chases and teases the piglet, who squeals in protest. A woman balances a water jug on her head as she passes on the road below. A cow lumbers down the road.\n\n<img src='/photos/in_jaisalmer.jpg' width='250' height='198' align='left'>It is easy to see the desert houses from this height. They are simple square structures with courtyards in their center. A woman sits on the ground in her courtyard with a child in her lap. They both wave as they see me peering down on them. Large clay pots for storing water surround them and wash is laid out on the house roof to dry.\n\nAs the sun sinks lower, I watch the hues of honey yellow change. I relish the solitude and quiet up here. The lone voice of a man singing Muslim evening prayers begins and floats up to me. His voice is melancholy, slow, and soothing -  reflective of my mood.",
+      "audio": [
+        {
+          "title": "Indian Bus",
+          "desc": "Horn honking rattle-trap at 5 a.m. on the way to Jaisalmer. It is missing the typical shrieking Hindi music that normally accompanies such trips.",
+          "src": "indian_bus.mp3"
+        }
+      ]
     },
     {
       "id": 162,
@@ -2522,7 +2632,19 @@
       "loc_ID": 77,
       "date": "4/1/2001",
       "auth": "m",
-      "text": "We are showered with <i>Namaste</i>, the traditional Hindu greeting, wherever we go in Kathmandu. We arrived in Nepal a couple of days ago and are still overwhelmed at the friendliness of the people. We've had little time to sight see though because our days have been full running errands and preparing for our next adventure. Tomorrow, joined by two friends we met in Thailand, we take a plane and helicopter to Lulka, a small village nestled in the Himalayan Mountains in the Kimbu region of Nepal. There, we will begin a three week trek to the Mt. Everest Base Camp as well as other surrounding trails.\n\nSpring is coming to Kathmandu - flowers are blooming, fruit hangs on trees, and during the day the temperature reaches 70 degrees. But we are heading into some of the highest mountains in the world. Trekking at heights over 18,000 feet, where sudden snow storms and extremely cold nights are the norm, we have to be prepared for these conditions. So we have rented -20 degree sleeping bags and down jackets, and bought gloves, scarves, thermal underwear, and camping gear. Trekking is the number one activity of visiting tourists and Kathmandu's streets are lined with plenty of shops selling gear. We will be sleeping and eating in basic lodges and teahouses along the trails, so thankfully we won't have to carry much food and water or tents.\n\nSo we apologize for our site being quiet for the rest of the month. Picture us high up in the mountains, trekking among beautiful lakes and mountain peaks, in view of the highest mountains in the world. When we return we will be sure to update the site with stories and photos of our time with Mt. Everest!"
+      "text": "We are showered with <i>Namaste</i>, the traditional Hindu greeting, wherever we go in Kathmandu. We arrived in Nepal a couple of days ago and are still overwhelmed at the friendliness of the people. We've had little time to sight see though because our days have been full running errands and preparing for our next adventure. Tomorrow, joined by two friends we met in Thailand, we take a plane and helicopter to Lulka, a small village nestled in the Himalayan Mountains in the Kimbu region of Nepal. There, we will begin a three week trek to the Mt. Everest Base Camp as well as other surrounding trails.\n\nSpring is coming to Kathmandu - flowers are blooming, fruit hangs on trees, and during the day the temperature reaches 70 degrees. But we are heading into some of the highest mountains in the world. Trekking at heights over 18,000 feet, where sudden snow storms and extremely cold nights are the norm, we have to be prepared for these conditions. So we have rented -20 degree sleeping bags and down jackets, and bought gloves, scarves, thermal underwear, and camping gear. Trekking is the number one activity of visiting tourists and Kathmandu's streets are lined with plenty of shops selling gear. We will be sleeping and eating in basic lodges and teahouses along the trails, so thankfully we won't have to carry much food and water or tents.\n\nSo we apologize for our site being quiet for the rest of the month. Picture us high up in the mountains, trekking among beautiful lakes and mountain peaks, in view of the highest mountains in the world. When we return we will be sure to update the site with stories and photos of our time with Mt. Everest!",
+      "audio": [
+        {
+          "title": "Kathmandu Monkey Temple",
+          "desc": "Buddhist / Hindu chanting at one of Nepal's most famous temples, the Monkey Temple.",
+          "src": "nepalese_monkey_temple.mp3"
+        },
+        {
+          "title": "Kathmandu Monks Chanting",
+          "desc": "Young monks chant with elders at a monastery and school near Bodhnath (outside Kathmandu).",
+          "src": "nepalese_monks.mp3"
+        }
+      ]
     },
     {
       "id": 164,
@@ -2882,7 +3004,19 @@
       "loc_ID": 94,
       "date": "6/15/2001",
       "auth": "t",
-      "text": "Nothing reminds visitors they are in a 99 percent Muslim country more than the call to prayer. Forget the fact that Turkey has a secular government and relaxed atmosphere. When the call is broadcast simultaneously from every mosque in a city at dawn, noon, mid-afternoon, dusk, or after dark, the haunting sounds echo from every direction and make the otherwise secular streets feel holy. \n\nThe family who runs the <a href='http://www.lalehostel.com'>Lale Hostel</a> here in Egirdir is a friendly bunch. The owner Ibrahim is a helpful guy and as Ibrahim proudly told us, his father is a muezzin with an excellent voice. When I asked Ibrahim about hearing his father sing, he didn't hesitate in sending me down to the mosque to watch the call to prayer. I jumped at the opportunity just a few minutes before his father was due in the service and found myself bounding through the darkened nighttime streets behind him, wondering what I was in store for. We arrived to a locked mosque at around 10 PM and waited for the Imam to arrive with the keys. \n\nOur awkward conversation crawled along with language problems, as Ibrahim's father spoke to me in broken English and I spoke to him in the few Turkish words I knew. But I didn't need spoken language to realize he wore a genuine smile with his gentle personality. \n\nThe Imam arrived with a trickle of other followers who chatted amicably amongst each other. Once they established that I spoke no Turkish, I dissolved into the background and spent the time watching people ritually cleanse themselves in the ablution fountain nearby. \n\nWith the Imam's signal, Ibrahim's father enclosed himself into a phone booth sized recording booth below the minaret and sang the call to prayer. I heard his voice as an even mix, half muffled through the wooden door and half broadcast from the loudspeakers high above my head. But still, Ibrahim was right to be proud. His father's voice was enchanting.\n\nThe prayer ended three minutes later and as I readied to leave, Ibrahim's father surprised me with an invitation to watch the actual prayers inside the mosque.  I wasn't sure what to expect, but removed my shoes and followed him in.\n\nThe Quran forbids displaying images of Muhammad and other religious leaders, so unlike Christians who decorate their churches with images of Christ, Muslims decorate their mosques with prayers rendered into flowing calligraphic paintings. These paintings hung on the walls alongside two loud clocks that broke the room's silence with steady ticking.\n\nI knew virtually nothing about the ritualized Islamic prayer and felt naturally out of place. But I'd been invited in and none of the 9 people in the room seemed bothered by my presence. So I stood in the back and observed silently.\n\nIbrahim's father started the 20 minutes of prayers with his smooth voice. Participants then followed the Imam in prayers, standing, kneeling, and pressing their foreheads down to the red carpeted floor. The Imam's transformation amazed me. Ten minutes ago he looked like a normal everyday guy and now, he was a black robed holy man with a cylindrical turban. The Imam's deeper voice chanted in turns with the Muezzin in a mesmerizing duet that made me soon forget my doubts about coming. \n\nThe participants practiced other parts of the ritual, mouthing silent prayers, placing their hands up to the heavens, and fingering rosary beads. The Imam ended the session with a prayer and the participants exited silently.\n\nI tried to express my sincere gratitude to Ibrahim's father when I walked back to the hostel with him. He offered me a real glimpse of Turkey that I will not soon forget.\n\nListen to the <a href=\"/audio/mp3/turkish_call_to_prayer.mp3\">Turkish Call To Prayer</a> and the <a href=\"/audio/mp3/turkish_prayer.mp3\">Turkish Mosque</a> recordings in the <a href=\"/sounds\">Sounds</a> section."
+      "text": "Nothing reminds visitors they are in a 99 percent Muslim country more than the call to prayer. Forget the fact that Turkey has a secular government and relaxed atmosphere. When the call is broadcast simultaneously from every mosque in a city at dawn, noon, mid-afternoon, dusk, or after dark, the haunting sounds echo from every direction and make the otherwise secular streets feel holy. \n\nThe family who runs the <a href='http://www.lalehostel.com'>Lale Hostel</a> here in Egirdir is a friendly bunch. The owner Ibrahim is a helpful guy and as Ibrahim proudly told us, his father is a muezzin with an excellent voice. When I asked Ibrahim about hearing his father sing, he didn't hesitate in sending me down to the mosque to watch the call to prayer. I jumped at the opportunity just a few minutes before his father was due in the service and found myself bounding through the darkened nighttime streets behind him, wondering what I was in store for. We arrived to a locked mosque at around 10 PM and waited for the Imam to arrive with the keys. \n\nOur awkward conversation crawled along with language problems, as Ibrahim's father spoke to me in broken English and I spoke to him in the few Turkish words I knew. But I didn't need spoken language to realize he wore a genuine smile with his gentle personality. \n\nThe Imam arrived with a trickle of other followers who chatted amicably amongst each other. Once they established that I spoke no Turkish, I dissolved into the background and spent the time watching people ritually cleanse themselves in the ablution fountain nearby. \n\nWith the Imam's signal, Ibrahim's father enclosed himself into a phone booth sized recording booth below the minaret and sang the call to prayer. I heard his voice as an even mix, half muffled through the wooden door and half broadcast from the loudspeakers high above my head. But still, Ibrahim was right to be proud. His father's voice was enchanting.\n\nThe prayer ended three minutes later and as I readied to leave, Ibrahim's father surprised me with an invitation to watch the actual prayers inside the mosque.  I wasn't sure what to expect, but removed my shoes and followed him in.\n\nThe Quran forbids displaying images of Muhammad and other religious leaders, so unlike Christians who decorate their churches with images of Christ, Muslims decorate their mosques with prayers rendered into flowing calligraphic paintings. These paintings hung on the walls alongside two loud clocks that broke the room's silence with steady ticking.\n\nI knew virtually nothing about the ritualized Islamic prayer and felt naturally out of place. But I'd been invited in and none of the 9 people in the room seemed bothered by my presence. So I stood in the back and observed silently.\n\nIbrahim's father started the 20 minutes of prayers with his smooth voice. Participants then followed the Imam in prayers, standing, kneeling, and pressing their foreheads down to the red carpeted floor. The Imam's transformation amazed me. Ten minutes ago he looked like a normal everyday guy and now, he was a black robed holy man with a cylindrical turban. The Imam's deeper voice chanted in turns with the Muezzin in a mesmerizing duet that made me soon forget my doubts about coming. \n\nThe participants practiced other parts of the ritual, mouthing silent prayers, placing their hands up to the heavens, and fingering rosary beads. The Imam ended the session with a prayer and the participants exited silently.\n\nI tried to express my sincere gratitude to Ibrahim's father when I walked back to the hostel with him. He offered me a real glimpse of Turkey that I will not soon forget.\n\nListen to the <a href=\"/audio/mp3/turkish_call_to_prayer.mp3\">Turkish Call To Prayer</a> and the <a href=\"/audio/mp3/turkish_prayer.mp3\">Turkish Mosque</a> recordings in the <a href=\"/sounds\">Sounds</a> section.",
+      "audio": [
+        {
+          "title": "Turkish Call to Prayer",
+          "desc": "The evening Muslim call to prayer is broadcast over the miniret loudspeaker in the small lakeside town of Egirdir.",
+          "src": "turkish_call_to_prayer.mp3"
+        },
+        {
+          "title": "Turkish Mosque",
+          "desc": "The mezzin from the call to prayer invited me into the mosque to watch the actual service. I watched, not sure what to do, but honored that I could experience it.",
+          "src": "turkish_prayer.mp3"
+        }
+      ]
     },
     {
       "id": 212,
@@ -3194,7 +3328,14 @@
       "loc_ID": 120,
       "date": "8/26/2001",
       "auth": "t",
-      "text": "Spaniards love to party.  \n\nThree days in San Sebastian and all Ive done is sleep in and stay out late eating tapas and drinking beer. What a life.\n\nIt is Sunday, but the only Sunday suits that I see are the blue and white stripped shirts of San Sebastian's soccer team. Today's match between San Sebastian and Bilbao marked the start of the season, and as you can imagine, people started the party early. The streets below my pension were echoing with the sound of revelers by the time I woke up and by 2 PM, the street had grown into a miniature Mardi Gras - with loud music, random fireworks, bawdy singing, and trash covered pavement.\n\nBut this is Basque country, home of a strong separatist movement. Today on my narrow street alone, Basque separatists hung banners and a vendor sold separatist t-shirts from a nearby stall.\n\nThe people rally behind their Basque team as an icon of independence. So soccer is more than just a game. It is a chance to make a political statement.\n\nForty-five minutes before game time, the large drunk party organized into a political march and walked from the old section of San Sebastian to the stadium en masse. They chanted slogans, threw fireworks, and flew the red, green, and white colors of their nationalist flag.\n\nI followed the parade along with my friends and got caught up in the moment. With so much energy and excitement, it seemed just clean fun. But the movement's violent side is responsible for many deaths, including two people here in San Sebastian just a few days ago. So maybe it wasn't the smartest thing to do. But what could be safer than hanging out with the terrorists themselves - at least I knew I was safe from bombs in their company."
+      "text": "Spaniards love to party.\n\nThree days in San Sebastian and all Ive done is sleep in and stay out late eating tapas and drinking beer. What a life.\n\nIt is Sunday, but the only Sunday suits that I see are the blue and white stripped shirts of San Sebastian's soccer team. Today's match between San Sebastian and Bilbao marked the start of the season, and as you can imagine, people started the party early. The streets below my pension were echoing with the sound of revelers by the time I woke up and by 2 PM, the street had grown into a miniature Mardi Gras - with loud music, random fireworks, bawdy singing, and trash covered pavement.\n\nBut this is Basque country, home of a strong separatist movement. Today on my narrow street alone, Basque separatists hung banners and a vendor sold separatist t-shirts from a nearby stall.\n\nThe people rally behind their Basque team as an icon of independence. So soccer is more than just a game. It is a chance to make a political statement.\n\nForty-five minutes before game time, the large drunk party organized into a political march and walked from the old section of San Sebastian to the stadium en masse. They chanted slogans, threw fireworks, and flew the red, green, and white colors of their nationalist flag.\n\nI followed the parade along with my friends and got caught up in the moment. With so much energy and excitement, it seemed just clean fun. But the movement's violent side is responsible for many deaths, including two people here in San Sebastian just a few days ago. So maybe it wasn't the smartest thing to do. But what could be safer than hanging out with the terrorists themselves - at least I knew I was safe from bombs in their company.",
+      "audio": [
+        {
+          "title": "Basque / Spanish Soccer Fans",
+          "desc": "Hordes of soccer fans sing 'Ole ole ole ole' and chant Basque separatist slogans on their way to San Sebastian's opening soccer match with Bilbao.",
+          "src": "spain_ole.mp3"
+        }
+      ]
     },
     {
       "id": 253,
@@ -3258,7 +3399,24 @@
       "loc_ID": 124,
       "date": "9/16/2001",
       "auth": "t",
-      "text": "Photo check-in."
+      "text": "Photo check-in.",
+      "audio": [
+        {
+          "title": "Dingle Music Festival 1",
+          "desc": "Traditional Irish music complete with background pub noise. Recorded at the Dingle Music Festival in the Dingle Peninsula.",
+          "src": "ireland_1.mp3"
+        },
+        {
+          "title": "Dingle Music Festival 2",
+          "desc": "Another clip from the Dingle Music Festival.",
+          "src": "ireland_2.mp3"
+        },
+        {
+          "title": "Dingle Music Festival 3",
+          "desc": "Another clip from the Dingle Music Festival.",
+          "src": "ireland_3.mp3"
+        }
+      ]
     },
     {
       "id": 261,
@@ -3322,7 +3480,14 @@
       "loc_ID": 132,
       "date": "8/31/2001",
       "auth": "t",
-      "text": "Photo check-in."
+      "text": "Photo check-in.",
+      "audio" : [
+        {
+          "title": "Spanish Busker",
+          "desc": "A Barcelona street entertainer plays guitar and sings for change.",
+          "src": "spain_guitar.mp3"
+        }
+      ]
     },
     {
       "id": 269,
