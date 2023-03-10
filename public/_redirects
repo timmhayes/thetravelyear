@@ -1,1 +1,5 @@
+/travelogue/country/:country  /countries/:country  301
+/travelogue                   /countries           301
+/travelogue/country           /countries           301
+
 /* /index.html 200
