@@ -11,6 +11,9 @@ import {Tile as TileLayer, Vector as VectorLayer} from 'ol/layer';
 import Overlay from 'ol/Overlay';
 import VectorSource from 'ol/source/Vector';
 import View from 'ol/View';
+import {DragPan, MouseWheelZoom, defaults} from 'ol/interaction';
+import {platformModifierKeyOnly} from 'ol/events/condition';
+import {defaults as defaultControls} from 'ol/control';
 
 import MapViewContext from "./MapViewContext";
 import "./MapView.scss";
@@ -32,7 +35,17 @@ const Map = ({locations}) => {
     });
     const vectorLayer = createVectorLayer(locations);
     let options = {
-     view: new View({
+      interactions: defaults({dragPan: false, mouseWheelZoom: false}).extend([
+        new DragPan({
+          condition: function (event) {
+            return this.getPointerCount() === 2 || platformModifierKeyOnly(event);
+          },
+        }),
+        new MouseWheelZoom({
+          condition: platformModifierKeyOnly,
+        }),
+      ]),
+      view: new View({
         center:[0,0], //getLocation(locations),
         zoom: 10,
         maxZoom: 12,
@@ -42,7 +55,7 @@ const Map = ({locations}) => {
         new TileLayer({source: new OSM()}),
         vectorLayer,
       ],
-      controls: [],
+      controls: defaultControls({attribution:false, rotate:false}),
       overlays: [overlay]
     };
     let mapObject = new OlMap(options);
