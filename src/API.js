@@ -1,6 +1,6 @@
 import countries from './data/countries.json';
 import monthList from './data/months.json';
-import {timeBetweenDates} from "./utils/index";
+import {timeBetweenDates, titleCase} from "./utils/index";
 let ttydataCache = null;
 
 const ttydata = async () => {
@@ -77,9 +77,9 @@ export async function getAllStories() {
 export async function getStoriesByCountry(country) {
   const data = {next: null, prev: null, stories: []};
   if (!country) return data;
-  country = country.toLowerCase();
-  const countryIndex = countryList.findIndex(c => c.toLowerCase() === country);
-  data.stories = (await ttydata()).stories.filter(story => story.country.toLowerCase() === country);
+  country = titleCase(country);
+  const countryIndex = countryList.findIndex(c => c === country);
+  data.stories = (await ttydata()).stories.filter(story => story.country === country);
   data.nav = await getNavData('countries', countryList, countryIndex);
   return data;
 }

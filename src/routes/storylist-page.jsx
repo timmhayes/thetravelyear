@@ -7,6 +7,7 @@ import StoryCard from "../components/StoryCard";
 import StoryPagination from "../components/StoryPagination";
 import MapView from "../components/MapView";
 import { getStoriesByCountry, getStoriesByMonth } from "../API";
+import {titleCase} from '../utils';
 
 export async function loader({ params }) {
   let data = {...params, stories:[]}
@@ -20,18 +21,16 @@ export async function loader({ params }) {
 
 export default function StoryListPage() {
   const data = useLoaderData();
-  let title, crumbs;
+  let crumbs;
   if (data.country) {
-    title = `Stories From ${data.country}`;
-    crumbs = [{text: 'Countries', href: '/countries'}, {text: data.country}]
+    crumbs = [{text: 'Countries', href: '/countries'}, {text: titleCase(data.country)}]
   } else if (data.month) {
-    title = `Stories From ${data.nav.current.text}`;
     crumbs = [{text: 'Months', href: '/months'}, {text: data.month}]
   }
 
   return (
     <Container id="stories" className="pt-4">
-      <h1>{title}</h1>
+      <h1>Stories From {data.nav.current.text}</h1>
       <BreadcrumbGroup crumbs={crumbs}/>
       <MapView locations={data.stories}/>
       <div>

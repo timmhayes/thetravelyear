@@ -4,7 +4,7 @@ export const timeBetweenDates = (date1, date2) => {
   return {
     day: Math.floor(days),
     month: Math.floor(days / 30)
-  } 
+  }
 }
 
 export const stripHTMLtags = (html) => {
@@ -13,4 +13,10 @@ export const stripHTMLtags = (html) => {
   var tmp = document.createElement("DIV");
   tmp.innerHTML = html;
   return tmp.textContent || tmp.innerText || "";
+}
+
+export const titleCase = (str) => {
+  return str.toLowerCase().split(' ').map(function(word) {
+    return word.replace(word[0], word[0].toUpperCase());
+  }).join(' ');
 }
