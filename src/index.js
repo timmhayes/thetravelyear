@@ -8,6 +8,7 @@ import App from "./routes/app";
 import AboutPage from "./routes/about-page";
 import ErrorPage from "./routes/error-page";
 import Landing from "./routes/landing-page";
+import LegacyPhotoPage, { loader as legacyPhotoLoader }from "./routes/legacy-photo-page";
 import MonthListPage from "./routes/monthlist-page";
 import CountryListPage from "./routes/countrylist-page";
 // import PhotoListPage, { loader as photosLoader } from "./routes/dev-photolist-page";
@@ -33,6 +34,11 @@ const router = createBrowserRouter([
       //   element: <PhotoListPage />,
       //   loader: photosLoader,
       // },
+      {
+        path: "photos/:id",
+        element: <LegacyPhotoPage />,
+        loader: legacyPhotoLoader
+      },
       {
         path: "countries",
         element: <CountryListPage />

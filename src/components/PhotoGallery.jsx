@@ -1,9 +1,9 @@
 import Figure from 'react-bootstrap/Figure';
 
-export default function PhotoGallery({photos}) {
+export default function PhotoGallery({photos, title ='Photos From This Location'}) {
   return (
     <div className="photo-gallery">
-      {photos.length > 0 && <h2>Photos From This Location</h2>}
+      {photos.length > 0 && <h2>{title}</h2>}
       {photos.map((photo) => (
         <div key={photo.photoID}>
           <Figure>

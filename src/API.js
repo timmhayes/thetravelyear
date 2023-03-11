@@ -113,3 +113,14 @@ export async function getStory(id, parentNavigation = 'months') {
   let nav = await getNavData('story', stories, storyIndex, parentNavigation);
   return {story, nav};
 }
+
+export async function getPhoto(id) {
+  // handles legacy photo urls from old site
+  const stories = (await ttydata()).stories
+  const story = stories.find(story => story.photos.find(photo => photo.photoID === id));
+  if (story) {
+    // return story with only the matching photo
+    return {...story, photos: story.photos.filter(photo => photo.photoID === id)}
+  }
+  return null;
+}

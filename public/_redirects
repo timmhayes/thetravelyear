@@ -1,5 +1,7 @@
 /travelogue/country/:country  /countries/:country  301
 /travelogue                   /countries           301
 /travelogue/country           /countries           301
-
+/gallery/photos/:photo        /photos/:photo       301
+/gallery/photos               /countries           301
 /* /index.html 200
+
