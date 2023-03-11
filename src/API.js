@@ -108,7 +108,8 @@ export async function getStory(id, parentNavigation = 'months') {
   id = parseInt(id);
   const stories = (await ttydata()).stories
   const story = stories.find(story => story.id === id);
+  if (!story) return null;
   const storyIndex = stories.findIndex(story => story.id === id);
   let nav = await getNavData('story', stories, storyIndex, parentNavigation);
-  return story ? {story, nav} : null;
+  return {story, nav};
 }

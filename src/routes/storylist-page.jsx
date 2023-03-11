@@ -3,6 +3,7 @@ import Container from "react-bootstrap/Container";
 import Col from "react-bootstrap/Col";
 import Row from "react-bootstrap/Row";
 import BreadcrumbGroup from '../components/BreadcrumbGroup';
+import ErrorMessage from '../components/ErrorMessage';
 import StoryCard from "../components/StoryCard";
 import StoryPagination from "../components/StoryPagination";
 import MapView from "../components/MapView";
@@ -28,6 +29,12 @@ export default function StoryListPage() {
     crumbs = [{text: 'Months', href: '/months'}, {text: data.month}]
   }
 
+  if (data.stories.length === 0) {
+    return <ErrorMessage props={{
+      message: 'Sorry, that page does not exist.',
+      link: crumbs[0]}
+    }/>
+  } else {
   return (
     <Container id="stories" className="pt-4">
       <h1>Stories From {data.nav.current.text}</h1>
@@ -45,4 +52,5 @@ export default function StoryListPage() {
       </div>
     </Container>
   );
+  }
 }
