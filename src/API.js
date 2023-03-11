@@ -77,7 +77,7 @@ export async function getAllStories() {
 export async function getStoriesByCountry(country) {
   const data = {next: null, prev: null, stories: []};
   if (!country) return data;
-  country = titleCase(country);
+  country = country !== 'USA' ? titleCase(country) : country;
   const countryIndex = countryList.findIndex(c => c === country);
   data.stories = (await ttydata()).stories.filter(story => story.country === country);
   data.nav = await getNavData('countries', countryList, countryIndex);
